@@ -1,0 +1,7426 @@
+Country.Name,Country.Code,Year,GNI.caput
+Argentina,ARG,1962,NA
+Australia,AUS,1962,1870
+Brazil,BRA,1962,230
+China,CHN,1962,70
+France,FRA,1962,1570
+Germany,DEU,1962,NA
+India,IND,1962,90
+Indonesia,IDN,1962,NA
+Italy,ITA,1962,960
+Japan,JPN,1962,610
+"Korea, Rep.",KOR,1962,110
+Mexico,MEX,1962,360
+Netherlands,NLD,1962,1220
+Russian Federation,RUS,1962,NA
+Saudi Arabia,SAU,1962,NA
+Spain,ESP,1962,500
+Switzerland,CHE,1962,NA
+Turkey,TUR,1962,NA
+United Kingdom,GBR,1962,NA
+United States,USA,1962,3280
+Afghanistan,AFG,1962,NA
+Algeria,DZA,1962,180
+Albania,ALB,1962,NA
+Angola,AGO,1962,NA
+Armenia,ARM,1962,NA
+Austria,AUT,1962,1060
+Azerbaijan,AZE,1962,NA
+Bangladesh,BGD,1962,NA
+Belarus,BLR,1962,NA
+Belgium,BEL,1962,1450
+Belize,BLZ,1962,330
+Benin,BEN,1962,90
+Bolivia,BOL,1962,NA
+Bosnia and Herzegovina,BIH,1962,NA
+Botswana,BWA,1962,70
+Bulgaria,BGR,1962,NA
+Burkina Faso,BFA,1962,80
+Cambodia,KHM,1962,NA
+Cameroon,CMR,1962,NA
+Canada,CAN,1962,2340
+Central African Republic,CAF,1962,80
+Chad,TCD,1962,110
+Chile,CHL,1962,600
+Colombia,COL,1962,280
+"Congo, Rep.",COG,1962,150
+Costa Rica,CRI,1962,360
+Cote d'Ivoire,CIV,1962,170
+Croatia,HRV,1962,NA
+Cuba,CUB,1962,NA
+Cyprus,CYP,1962,NA
+Czech Republic,CZE,1962,NA
+Denmark,DNK,1962,NA
+Dominican Republic,DOM,1962,220
+Ecuador,ECU,1962,210
+"Egypt, Arab Rep.",EGY,1962,NA
+El Salvador,SLV,1962,NA
+Estonia,EST,1962,NA
+Ethiopia,ETH,1962,NA
+Finland,FIN,1962,1370
+"Gambia, The",GMB,1962,NA
+Gabon,GAB,1962,340
+Georgia,GEO,1962,NA
+Ghana,GHA,1962,190
+Greece,GRC,1962,630
+Guatemala,GTM,1962,260
+Guinea,GIN,1962,NA
+Guinea-Bissau,GNB,1962,NA
+Guyana,GUY,1962,290
+Haiti,HTI,1962,NA
+Honduras,HND,1962,180
+Hungary,HUN,1962,NA
+Iceland,ISL,1962,1540
+Jamaica,JAM,1962,NA
+Jordan,JOR,1962,NA
+Kazakhstan,KAZ,1962,NA
+Kenya,KEN,1962,100
+Kyrgyz Republic,KGZ,1962,NA
+Lao PDR,LAO,1962,NA
+Latvia,LVA,1962,NA
+Lebanon,LBN,1962,NA
+Lesotho,LSO,1962,NA
+Liberia,LBR,1962,160
+Libya,LBY,1962,NA
+Lithuania,LTU,1962,NA
+Luxembourg,LUX,1962,1630
+"Macedonia, FYR",MKD,1962,NA
+Malawi,MWI,1962,50
+Malaysia,MYS,1962,300
+Mali,MLI,1962,NA
+Malta,MLT,1962,NA
+Mauritania,MRT,1962,NA
+Moldova,MDA,1962,NA
+Mongolia,MNG,1962,NA
+Montenegro,MNE,1962,NA
+Morocco,MAR,1962,180
+Mozambique,MOZ,1962,NA
+Myanmar,MMR,1962,NA
+Namibia,NAM,1962,NA
+Nepal,NPL,1962,60
+New Zealand,NZL,1962,NA
+Nicaragua,NIC,1962,140
+Niger,NER,1962,150
+Nigeria,NGA,1962,100
+Norway,NOR,1962,1610
+Pakistan,PAK,1962,90
+Panama,PAN,1962,460
+Paraguay,PRY,1962,NA
+Peru,PER,1962,290
+Philippines,PHL,1962,220
+Poland,POL,1962,NA
+Portugal,PRT,1962,410
+Romania,ROM,1962,NA
+Rwanda,RWA,1962,40
+Senegal,SEN,1962,NA
+Serbia,SRB,1962,NA
+Sierra Leone,SLE,1962,NA
+Slovak Republic,SVK,1962,NA
+Slovenia,SVN,1962,NA
+Sri Lanka,LKA,1962,140
+South Africa,ZAF,1962,430
+Sudan,SDN,1962,120
+Suriname,SUR,1962,NA
+Swaziland,SWZ,1962,NA
+Sweden,SWE,1962,2310
+Tajikistan,TJK,1962,NA
+Tanzania,TZA,1962,NA
+Thailand,THA,1962,NA
+Togo,TGO,1962,90
+Tunisia,TUN,1962,NA
+Turkmenistan,TKM,1962,NA
+Uganda,UGA,1962,NA
+Ukraine,UKR,1962,NA
+United Arab Emirates,ARE,1962,NA
+Uruguay,URY,1962,580
+Uzbekistan,UZB,1962,NA
+"Venezuela, RB",VEN,1962,1130
+Vietnam,VNM,1962,NA
+"Yemen, Rep.",YEM,1962,NA
+Zambia,ZMB,1962,190
+Zimbabwe,ZWE,1962,270
+Argentina,ARG,1963,NA
+Australia,AUS,1963,1970
+Brazil,BRA,1963,250
+China,CHN,1963,80
+France,FRA,1963,1700
+Germany,DEU,1963,NA
+India,IND,1963,100
+Indonesia,IDN,1963,NA
+Italy,ITA,1963,1060
+Japan,JPN,1963,690
+"Korea, Rep.",KOR,1963,120
+Mexico,MEX,1963,380
+Netherlands,NLD,1963,1310
+Russian Federation,RUS,1963,NA
+Saudi Arabia,SAU,1963,NA
+Spain,ESP,1963,570
+Switzerland,CHE,1963,NA
+Turkey,TUR,1963,NA
+United Kingdom,GBR,1963,NA
+United States,USA,1963,3410
+Afghanistan,AFG,1963,NA
+Algeria,DZA,1963,230
+Albania,ALB,1963,NA
+Angola,AGO,1963,NA
+Armenia,ARM,1963,NA
+Austria,AUT,1963,1140
+Azerbaijan,AZE,1963,NA
+Bangladesh,BGD,1963,NA
+Belarus,BLR,1963,NA
+Belgium,BEL,1963,1530
+Belize,BLZ,1963,340
+Benin,BEN,1963,100
+Bolivia,BOL,1963,NA
+Bosnia and Herzegovina,BIH,1963,NA
+Botswana,BWA,1963,80
+Bulgaria,BGR,1963,NA
+Burkina Faso,BFA,1963,80
+Cambodia,KHM,1963,NA
+Cameroon,CMR,1963,NA
+Canada,CAN,1963,2360
+Central African Republic,CAF,1963,80
+Chad,TCD,1963,110
+Chile,CHL,1963,640
+Colombia,COL,1963,290
+"Congo, Rep.",COG,1963,150
+Costa Rica,CRI,1963,350
+Cote d'Ivoire,CIV,1963,190
+Croatia,HRV,1963,NA
+Cuba,CUB,1963,NA
+Cyprus,CYP,1963,NA
+Czech Republic,CZE,1963,NA
+Denmark,DNK,1963,NA
+Dominican Republic,DOM,1963,240
+Ecuador,ECU,1963,210
+"Egypt, Arab Rep.",EGY,1963,NA
+El Salvador,SLV,1963,NA
+Estonia,EST,1963,NA
+Ethiopia,ETH,1963,NA
+Finland,FIN,1963,1470
+"Gambia, The",GMB,1963,NA
+Gabon,GAB,1963,410
+Georgia,GEO,1963,NA
+Ghana,GHA,1963,200
+Greece,GRC,1963,710
+Guatemala,GTM,1963,280
+Guinea,GIN,1963,NA
+Guinea-Bissau,GNB,1963,NA
+Guyana,GUY,1963,260
+Haiti,HTI,1963,NA
+Honduras,HND,1963,180
+Hungary,HUN,1963,NA
+Iceland,ISL,1963,1740
+Jamaica,JAM,1963,NA
+Jordan,JOR,1963,NA
+Kazakhstan,KAZ,1963,NA
+Kenya,KEN,1963,100
+Kyrgyz Republic,KGZ,1963,NA
+Lao PDR,LAO,1963,NA
+Latvia,LVA,1963,NA
+Lebanon,LBN,1963,NA
+Lesotho,LSO,1963,NA
+Liberia,LBR,1963,160
+Libya,LBY,1963,NA
+Lithuania,LTU,1963,NA
+Luxembourg,LUX,1963,1680
+"Macedonia, FYR",MKD,1963,NA
+Malawi,MWI,1963,50
+Malaysia,MYS,1963,300
+Mali,MLI,1963,NA
+Malta,MLT,1963,NA
+Mauritania,MRT,1963,NA
+Moldova,MDA,1963,NA
+Mongolia,MNG,1963,NA
+Montenegro,MNE,1963,NA
+Morocco,MAR,1963,190
+Mozambique,MOZ,1963,NA
+Myanmar,MMR,1963,NA
+Namibia,NAM,1963,NA
+Nepal,NPL,1963,50
+New Zealand,NZL,1963,NA
+Nicaragua,NIC,1963,150
+Niger,NER,1963,160
+Nigeria,NGA,1963,110
+Norway,NOR,1963,1710
+Pakistan,PAK,1963,100
+Panama,PAN,1963,490
+Paraguay,PRY,1963,NA
+Peru,PER,1963,310
+Philippines,PHL,1963,190
+Poland,POL,1963,NA
+Portugal,PRT,1963,430
+Romania,ROM,1963,NA
+Rwanda,RWA,1963,40
+Senegal,SEN,1963,NA
+Serbia,SRB,1963,NA
+Sierra Leone,SLE,1963,NA
+Slovak Republic,SVK,1963,NA
+Slovenia,SVN,1963,NA
+Sri Lanka,LKA,1963,130
+South Africa,ZAF,1963,460
+Sudan,SDN,1963,120
+Suriname,SUR,1963,NA
+Swaziland,SWZ,1963,NA
+Sweden,SWE,1963,2490
+Tajikistan,TJK,1963,NA
+Tanzania,TZA,1963,NA
+Thailand,THA,1963,NA
+Togo,TGO,1963,90
+Tunisia,TUN,1963,NA
+Turkmenistan,TKM,1963,NA
+Uganda,UGA,1963,NA
+Ukraine,UKR,1963,NA
+United Arab Emirates,ARE,1963,NA
+Uruguay,URY,1963,610
+Uzbekistan,UZB,1963,NA
+"Venezuela, RB",VEN,1963,1170
+Vietnam,VNM,1963,NA
+"Yemen, Rep.",YEM,1963,NA
+Zambia,ZMB,1963,190
+Zimbabwe,ZWE,1963,280
+Argentina,ARG,1964,1110
+Australia,AUS,1964,2110
+Brazil,BRA,1964,270
+China,CHN,1964,90
+France,FRA,1964,1880
+Germany,DEU,1964,NA
+India,IND,1964,110
+Indonesia,IDN,1964,NA
+Italy,ITA,1964,1160
+Japan,JPN,1964,800
+"Korea, Rep.",KOR,1964,130
+Mexico,MEX,1964,430
+Netherlands,NLD,1964,1460
+Russian Federation,RUS,1964,NA
+Saudi Arabia,SAU,1964,NA
+Spain,ESP,1964,640
+Switzerland,CHE,1964,NA
+Turkey,TUR,1964,NA
+United Kingdom,GBR,1964,NA
+United States,USA,1964,3610
+Afghanistan,AFG,1964,NA
+Algeria,DZA,1964,230
+Albania,ALB,1964,NA
+Angola,AGO,1964,NA
+Armenia,ARM,1964,NA
+Austria,AUT,1964,1240
+Azerbaijan,AZE,1964,NA
+Bangladesh,BGD,1964,NA
+Belarus,BLR,1964,NA
+Belgium,BEL,1964,1670
+Belize,BLZ,1964,350
+Benin,BEN,1964,110
+Bolivia,BOL,1964,NA
+Bosnia and Herzegovina,BIH,1964,NA
+Botswana,BWA,1964,80
+Bulgaria,BGR,1964,NA
+Burkina Faso,BFA,1964,80
+Cambodia,KHM,1964,NA
+Cameroon,CMR,1964,NA
+Canada,CAN,1964,2470
+Central African Republic,CAF,1964,80
+Chad,TCD,1964,110
+Chile,CHL,1964,660
+Colombia,COL,1964,310
+"Congo, Rep.",COG,1964,160
+Costa Rica,CRI,1964,350
+Cote d'Ivoire,CIV,1964,220
+Croatia,HRV,1964,NA
+Cuba,CUB,1964,NA
+Cyprus,CYP,1964,NA
+Czech Republic,CZE,1964,NA
+Denmark,DNK,1964,NA
+Dominican Republic,DOM,1964,260
+Ecuador,ECU,1964,220
+"Egypt, Arab Rep.",EGY,1964,NA
+El Salvador,SLV,1964,NA
+Estonia,EST,1964,NA
+Ethiopia,ETH,1964,NA
+Finland,FIN,1964,1620
+"Gambia, The",GMB,1964,NA
+Gabon,GAB,1964,340
+Georgia,GEO,1964,NA
+Ghana,GHA,1964,210
+Greece,GRC,1964,790
+Guatemala,GTM,1964,280
+Guinea,GIN,1964,NA
+Guinea-Bissau,GNB,1964,NA
+Guyana,GUY,1964,290
+Haiti,HTI,1964,NA
+Honduras,HND,1964,190
+Hungary,HUN,1964,NA
+Iceland,ISL,1964,2050
+Jamaica,JAM,1964,NA
+Jordan,JOR,1964,NA
+Kazakhstan,KAZ,1964,NA
+Kenya,KEN,1964,110
+Kyrgyz Republic,KGZ,1964,NA
+Lao PDR,LAO,1964,NA
+Latvia,LVA,1964,NA
+Lebanon,LBN,1964,NA
+Lesotho,LSO,1964,NA
+Liberia,LBR,1964,190
+Libya,LBY,1964,NA
+Lithuania,LTU,1964,NA
+Luxembourg,LUX,1964,1870
+"Macedonia, FYR",MKD,1964,NA
+Malawi,MWI,1964,50
+Malaysia,MYS,1964,310
+Mali,MLI,1964,NA
+Malta,MLT,1964,NA
+Mauritania,MRT,1964,NA
+Moldova,MDA,1964,NA
+Mongolia,MNG,1964,NA
+Montenegro,MNE,1964,NA
+Morocco,MAR,1964,200
+Mozambique,MOZ,1964,NA
+Myanmar,MMR,1964,NA
+Namibia,NAM,1964,NA
+Nepal,NPL,1964,50
+New Zealand,NZL,1964,NA
+Nicaragua,NIC,1964,170
+Niger,NER,1964,160
+Nigeria,NGA,1964,110
+Norway,NOR,1964,1860
+Pakistan,PAK,1964,100
+Panama,PAN,1964,510
+Paraguay,PRY,1964,NA
+Peru,PER,1964,340
+Philippines,PHL,1964,170
+Poland,POL,1964,NA
+Portugal,PRT,1964,470
+Romania,ROM,1964,NA
+Rwanda,RWA,1964,40
+Senegal,SEN,1964,NA
+Serbia,SRB,1964,NA
+Sierra Leone,SLE,1964,170
+Slovak Republic,SVK,1964,NA
+Slovenia,SVN,1964,NA
+Sri Lanka,LKA,1964,130
+South Africa,ZAF,1964,500
+Sudan,SDN,1964,120
+Suriname,SUR,1964,NA
+Swaziland,SWZ,1964,NA
+Sweden,SWE,1964,2740
+Tajikistan,TJK,1964,NA
+Tanzania,TZA,1964,NA
+Thailand,THA,1964,NA
+Togo,TGO,1964,100
+Tunisia,TUN,1964,NA
+Turkmenistan,TKM,1964,NA
+Uganda,UGA,1964,NA
+Ukraine,UKR,1964,NA
+United Arab Emirates,ARE,1964,NA
+Uruguay,URY,1964,660
+Uzbekistan,UZB,1964,NA
+"Venezuela, RB",VEN,1964,1140
+Vietnam,VNM,1964,NA
+"Yemen, Rep.",YEM,1964,NA
+Zambia,ZMB,1964,210
+Zimbabwe,ZWE,1964,260
+Argentina,ARG,1965,1220
+Australia,AUS,1965,2270
+Brazil,BRA,1965,270
+China,CHN,1965,100
+France,FRA,1965,2050
+Germany,DEU,1965,NA
+India,IND,1965,110
+Indonesia,IDN,1965,NA
+Italy,ITA,1965,1280
+Japan,JPN,1965,890
+"Korea, Rep.",KOR,1965,130
+Mexico,MEX,1965,470
+Netherlands,NLD,1965,1700
+Russian Federation,RUS,1965,NA
+Saudi Arabia,SAU,1965,NA
+Spain,ESP,1965,730
+Switzerland,CHE,1965,NA
+Turkey,TUR,1965,NA
+United Kingdom,GBR,1965,NA
+United States,USA,1965,3880
+Afghanistan,AFG,1965,NA
+Algeria,DZA,1965,240
+Albania,ALB,1965,NA
+Angola,AGO,1965,NA
+Armenia,ARM,1965,NA
+Austria,AUT,1965,1340
+Azerbaijan,AZE,1965,NA
+Bangladesh,BGD,1965,NA
+Belarus,BLR,1965,NA
+Belgium,BEL,1965,1800
+Belize,BLZ,1965,370
+Benin,BEN,1965,110
+Bolivia,BOL,1965,NA
+Bosnia and Herzegovina,BIH,1965,NA
+Botswana,BWA,1965,90
+Bulgaria,BGR,1965,NA
+Burkina Faso,BFA,1965,80
+Cambodia,KHM,1965,NA
+Cameroon,CMR,1965,NA
+Canada,CAN,1965,2670
+Central African Republic,CAF,1965,90
+Chad,TCD,1965,120
+Chile,CHL,1965,650
+Colombia,COL,1965,310
+"Congo, Rep.",COG,1965,170
+Costa Rica,CRI,1965,370
+Cote d'Ivoire,CIV,1965,210
+Croatia,HRV,1965,NA
+Cuba,CUB,1965,NA
+Cyprus,CYP,1965,NA
+Czech Republic,CZE,1965,NA
+Denmark,DNK,1965,NA
+Dominican Republic,DOM,1965,230
+Ecuador,ECU,1965,280
+"Egypt, Arab Rep.",EGY,1965,NA
+El Salvador,SLV,1965,NA
+Estonia,EST,1965,NA
+Ethiopia,ETH,1965,NA
+Finland,FIN,1965,1810
+"Gambia, The",GMB,1965,NA
+Gabon,GAB,1965,370
+Georgia,GEO,1965,NA
+Ghana,GHA,1965,230
+Greece,GRC,1965,890
+Guatemala,GTM,1965,290
+Guinea,GIN,1965,NA
+Guinea-Bissau,GNB,1965,NA
+Guyana,GUY,1965,320
+Haiti,HTI,1965,NA
+Honduras,HND,1965,210
+Hungary,HUN,1965,NA
+Iceland,ISL,1965,2440
+Jamaica,JAM,1965,NA
+Jordan,JOR,1965,NA
+Kazakhstan,KAZ,1965,NA
+Kenya,KEN,1965,110
+Kyrgyz Republic,KGZ,1965,NA
+Lao PDR,LAO,1965,NA
+Latvia,LVA,1965,NA
+Lebanon,LBN,1965,NA
+Lesotho,LSO,1965,NA
+Liberia,LBR,1965,200
+Libya,LBY,1965,NA
+Lithuania,LTU,1965,NA
+Luxembourg,LUX,1965,1920
+"Macedonia, FYR",MKD,1965,NA
+Malawi,MWI,1965,60
+Malaysia,MYS,1965,330
+Mali,MLI,1965,NA
+Malta,MLT,1965,NA
+Mauritania,MRT,1965,NA
+Moldova,MDA,1965,NA
+Mongolia,MNG,1965,NA
+Montenegro,MNE,1965,NA
+Morocco,MAR,1965,NA
+Mozambique,MOZ,1965,NA
+Myanmar,MMR,1965,NA
+Namibia,NAM,1965,NA
+Nepal,NPL,1965,60
+New Zealand,NZL,1965,NA
+Nicaragua,NIC,1965,200
+Niger,NER,1965,170
+Nigeria,NGA,1965,110
+Norway,NOR,1965,2050
+Pakistan,PAK,1965,110
+Panama,PAN,1965,540
+Paraguay,PRY,1965,NA
+Peru,PER,1965,390
+Philippines,PHL,1965,180
+Poland,POL,1965,NA
+Portugal,PRT,1965,520
+Romania,ROM,1965,NA
+Rwanda,RWA,1965,40
+Senegal,SEN,1965,NA
+Serbia,SRB,1965,NA
+Sierra Leone,SLE,1965,170
+Slovak Republic,SVK,1965,NA
+Slovenia,SVN,1965,NA
+Sri Lanka,LKA,1965,130
+South Africa,ZAF,1965,540
+Sudan,SDN,1965,120
+Suriname,SUR,1965,NA
+Swaziland,SWZ,1965,NA
+Sweden,SWE,1965,2960
+Tajikistan,TJK,1965,NA
+Tanzania,TZA,1965,NA
+Thailand,THA,1965,NA
+Togo,TGO,1965,110
+Tunisia,TUN,1965,NA
+Turkmenistan,TKM,1965,NA
+Uganda,UGA,1965,NA
+Ukraine,UKR,1965,NA
+United Arab Emirates,ARE,1965,NA
+Uruguay,URY,1965,680
+Uzbekistan,UZB,1965,NA
+"Venezuela, RB",VEN,1965,1080
+Vietnam,VNM,1965,NA
+"Yemen, Rep.",YEM,1965,NA
+Zambia,ZMB,1965,260
+Zimbabwe,ZWE,1965,280
+Argentina,ARG,1966,1340
+Australia,AUS,1966,2350
+Brazil,BRA,1966,270
+China,CHN,1966,110
+France,FRA,1966,2220
+Germany,DEU,1966,NA
+India,IND,1966,110
+Indonesia,IDN,1966,NA
+Italy,ITA,1966,1410
+Japan,JPN,1966,1030
+"Korea, Rep.",KOR,1966,130
+Mexico,MEX,1966,500
+Netherlands,NLD,1966,1840
+Russian Federation,RUS,1966,NA
+Saudi Arabia,SAU,1966,NA
+Spain,ESP,1966,840
+Switzerland,CHE,1966,NA
+Turkey,TUR,1966,NA
+United Kingdom,GBR,1966,NA
+United States,USA,1966,4200
+Afghanistan,AFG,1966,NA
+Algeria,DZA,1966,230
+Albania,ALB,1966,NA
+Angola,AGO,1966,NA
+Armenia,ARM,1966,NA
+Austria,AUT,1966,1470
+Azerbaijan,AZE,1966,NA
+Bangladesh,BGD,1966,NA
+Belarus,BLR,1966,NA
+Belgium,BEL,1966,1950
+Belize,BLZ,1966,390
+Benin,BEN,1966,110
+Bolivia,BOL,1966,NA
+Bosnia and Herzegovina,BIH,1966,NA
+Botswana,BWA,1966,90
+Bulgaria,BGR,1966,NA
+Burkina Faso,BFA,1966,80
+Cambodia,KHM,1966,NA
+Cameroon,CMR,1966,NA
+Canada,CAN,1966,2920
+Central African Republic,CAF,1966,90
+Chad,TCD,1966,120
+Chile,CHL,1966,740
+Colombia,COL,1966,320
+"Congo, Rep.",COG,1966,170
+Costa Rica,CRI,1966,400
+Cote d'Ivoire,CIV,1966,230
+Croatia,HRV,1966,NA
+Cuba,CUB,1966,NA
+Cyprus,CYP,1966,NA
+Czech Republic,CZE,1966,NA
+Denmark,DNK,1966,NA
+Dominican Republic,DOM,1966,250
+Ecuador,ECU,1966,350
+"Egypt, Arab Rep.",EGY,1966,NA
+El Salvador,SLV,1966,NA
+Estonia,EST,1966,NA
+Ethiopia,ETH,1966,NA
+Finland,FIN,1966,1970
+"Gambia, The",GMB,1966,NA
+Gabon,GAB,1966,420
+Georgia,GEO,1966,NA
+Ghana,GHA,1966,250
+Greece,GRC,1966,980
+Guatemala,GTM,1966,290
+Guinea,GIN,1966,NA
+Guinea-Bissau,GNB,1966,NA
+Guyana,GUY,1966,330
+Haiti,HTI,1966,NA
+Honduras,HND,1966,220
+Hungary,HUN,1966,NA
+Iceland,ISL,1966,2980
+Jamaica,JAM,1966,NA
+Jordan,JOR,1966,NA
+Kazakhstan,KAZ,1966,NA
+Kenya,KEN,1966,120
+Kyrgyz Republic,KGZ,1966,NA
+Lao PDR,LAO,1966,NA
+Latvia,LVA,1966,NA
+Lebanon,LBN,1966,NA
+Lesotho,LSO,1966,80
+Liberia,LBR,1966,210
+Libya,LBY,1966,NA
+Lithuania,LTU,1966,NA
+Luxembourg,LUX,1966,2020
+"Macedonia, FYR",MKD,1966,NA
+Malawi,MWI,1966,60
+Malaysia,MYS,1966,350
+Mali,MLI,1966,NA
+Malta,MLT,1966,NA
+Mauritania,MRT,1966,NA
+Moldova,MDA,1966,NA
+Mongolia,MNG,1966,NA
+Montenegro,MNE,1966,NA
+Morocco,MAR,1966,NA
+Mozambique,MOZ,1966,NA
+Myanmar,MMR,1966,NA
+Namibia,NAM,1966,NA
+Nepal,NPL,1966,70
+New Zealand,NZL,1966,NA
+Nicaragua,NIC,1966,230
+Niger,NER,1966,170
+Nigeria,NGA,1966,110
+Norway,NOR,1966,2240
+Pakistan,PAK,1966,120
+Panama,PAN,1966,580
+Paraguay,PRY,1966,NA
+Peru,PER,1966,460
+Philippines,PHL,1966,200
+Poland,POL,1966,NA
+Portugal,PRT,1966,570
+Romania,ROM,1966,NA
+Rwanda,RWA,1966,40
+Senegal,SEN,1966,NA
+Serbia,SRB,1966,NA
+Sierra Leone,SLE,1966,170
+Slovak Republic,SVK,1966,NA
+Slovenia,SVN,1966,NA
+Sri Lanka,LKA,1966,150
+South Africa,ZAF,1966,570
+Sudan,SDN,1966,120
+Suriname,SUR,1966,NA
+Swaziland,SWZ,1966,NA
+Sweden,SWE,1966,3190
+Tajikistan,TJK,1966,NA
+Tanzania,TZA,1966,NA
+Thailand,THA,1966,NA
+Togo,TGO,1966,120
+Tunisia,TUN,1966,NA
+Turkmenistan,TKM,1966,NA
+Uganda,UGA,1966,NA
+Ukraine,UKR,1966,NA
+United Arab Emirates,ARE,1966,NA
+Uruguay,URY,1966,720
+Uzbekistan,UZB,1966,NA
+"Venezuela, RB",VEN,1966,1000
+Vietnam,VNM,1966,NA
+"Yemen, Rep.",YEM,1966,NA
+Zambia,ZMB,1966,270
+Zimbabwe,ZWE,1966,290
+Argentina,ARG,1967,1230
+Australia,AUS,1967,2540
+Brazil,BRA,1967,310
+China,CHN,1967,100
+France,FRA,1967,2370
+Germany,DEU,1967,NA
+India,IND,1967,110
+Indonesia,IDN,1967,NA
+Italy,ITA,1967,1550
+Japan,JPN,1967,1200
+"Korea, Rep.",KOR,1967,140
+Mexico,MEX,1967,540
+Netherlands,NLD,1967,2000
+Russian Federation,RUS,1967,NA
+Saudi Arabia,SAU,1967,NA
+Spain,ESP,1967,930
+Switzerland,CHE,1967,NA
+Turkey,TUR,1967,470
+United Kingdom,GBR,1967,NA
+United States,USA,1967,4380
+Afghanistan,AFG,1967,NA
+Algeria,DZA,1967,250
+Albania,ALB,1967,NA
+Angola,AGO,1967,NA
+Armenia,ARM,1967,NA
+Austria,AUT,1967,1560
+Azerbaijan,AZE,1967,NA
+Bangladesh,BGD,1967,NA
+Belarus,BLR,1967,NA
+Belgium,BEL,1967,2100
+Belize,BLZ,1967,420
+Benin,BEN,1967,120
+Bolivia,BOL,1967,NA
+Bosnia and Herzegovina,BIH,1967,NA
+Botswana,BWA,1967,100
+Bulgaria,BGR,1967,NA
+Burkina Faso,BFA,1967,90
+Cambodia,KHM,1967,NA
+Cameroon,CMR,1967,110
+Canada,CAN,1967,3080
+Central African Republic,CAF,1967,100
+Chad,TCD,1967,130
+Chile,CHL,1967,760
+Colombia,COL,1967,300
+"Congo, Rep.",COG,1967,190
+Costa Rica,CRI,1967,410
+Cote d'Ivoire,CIV,1967,230
+Croatia,HRV,1967,NA
+Cuba,CUB,1967,NA
+Cyprus,CYP,1967,NA
+Czech Republic,CZE,1967,NA
+Denmark,DNK,1967,NA
+Dominican Republic,DOM,1967,250
+Ecuador,ECU,1967,470
+"Egypt, Arab Rep.",EGY,1967,160
+El Salvador,SLV,1967,290
+Estonia,EST,1967,NA
+Ethiopia,ETH,1967,NA
+Finland,FIN,1967,2060
+"Gambia, The",GMB,1967,NA
+Gabon,GAB,1967,440
+Georgia,GEO,1967,NA
+Ghana,GHA,1967,250
+Greece,GRC,1967,1070
+Guatemala,GTM,1967,300
+Guinea,GIN,1967,NA
+Guinea-Bissau,GNB,1967,NA
+Guyana,GUY,1967,340
+Haiti,HTI,1967,NA
+Honduras,HND,1967,230
+Hungary,HUN,1967,NA
+Iceland,ISL,1967,3110
+Jamaica,JAM,1967,NA
+Jordan,JOR,1967,NA
+Kazakhstan,KAZ,1967,NA
+Kenya,KEN,1967,120
+Kyrgyz Republic,KGZ,1967,NA
+Lao PDR,LAO,1967,NA
+Latvia,LVA,1967,NA
+Lebanon,LBN,1967,NA
+Lesotho,LSO,1967,80
+Liberia,LBR,1967,220
+Libya,LBY,1967,NA
+Lithuania,LTU,1967,NA
+Luxembourg,LUX,1967,2070
+"Macedonia, FYR",MKD,1967,NA
+Malawi,MWI,1967,70
+Malaysia,MYS,1967,360
+Mali,MLI,1967,NA
+Malta,MLT,1967,NA
+Mauritania,MRT,1967,NA
+Moldova,MDA,1967,NA
+Mongolia,MNG,1967,NA
+Montenegro,MNE,1967,NA
+Morocco,MAR,1967,NA
+Mozambique,MOZ,1967,NA
+Myanmar,MMR,1967,NA
+Namibia,NAM,1967,NA
+Nepal,NPL,1967,80
+New Zealand,NZL,1967,NA
+Nicaragua,NIC,1967,290
+Niger,NER,1967,170
+Nigeria,NGA,1967,100
+Norway,NOR,1967,2470
+Pakistan,PAK,1967,130
+Panama,PAN,1967,620
+Paraguay,PRY,1967,NA
+Peru,PER,1967,490
+Philippines,PHL,1967,210
+Poland,POL,1967,NA
+Portugal,PRT,1967,640
+Romania,ROM,1967,NA
+Rwanda,RWA,1967,50
+Senegal,SEN,1967,NA
+Serbia,SRB,1967,NA
+Sierra Leone,SLE,1967,160
+Slovak Republic,SVK,1967,NA
+Slovenia,SVN,1967,NA
+Sri Lanka,LKA,1967,160
+South Africa,ZAF,1967,620
+Sudan,SDN,1967,120
+Suriname,SUR,1967,NA
+Swaziland,SWZ,1967,NA
+Sweden,SWE,1967,3460
+Tajikistan,TJK,1967,NA
+Tanzania,TZA,1967,NA
+Thailand,THA,1967,170
+Togo,TGO,1967,120
+Tunisia,TUN,1967,220
+Turkmenistan,TKM,1967,NA
+Uganda,UGA,1967,NA
+Ukraine,UKR,1967,NA
+United Arab Emirates,ARE,1967,NA
+Uruguay,URY,1967,640
+Uzbekistan,UZB,1967,NA
+"Venezuela, RB",VEN,1967,1020
+Vietnam,VNM,1967,NA
+"Yemen, Rep.",YEM,1967,NA
+Zambia,ZMB,1967,320
+Zimbabwe,ZWE,1967,300
+Argentina,ARG,1968,1210
+Australia,AUS,1968,2730
+Brazil,BRA,1968,370
+China,CHN,1968,90
+France,FRA,1968,2570
+Germany,DEU,1968,NA
+India,IND,1968,100
+Indonesia,IDN,1968,NA
+Italy,ITA,1968,1700
+Japan,JPN,1968,1430
+"Korea, Rep.",KOR,1968,180
+Mexico,MEX,1968,600
+Netherlands,NLD,1968,2230
+Russian Federation,RUS,1968,NA
+Saudi Arabia,SAU,1968,NA
+Spain,ESP,1968,1010
+Switzerland,CHE,1968,NA
+Turkey,TUR,1968,520
+United Kingdom,GBR,1968,NA
+United States,USA,1968,4750
+Afghanistan,AFG,1968,NA
+Algeria,DZA,1968,280
+Albania,ALB,1968,NA
+Angola,AGO,1968,NA
+Armenia,ARM,1968,NA
+Austria,AUT,1968,1680
+Azerbaijan,AZE,1968,NA
+Bangladesh,BGD,1968,NA
+Belarus,BLR,1968,NA
+Belgium,BEL,1968,2270
+Belize,BLZ,1968,420
+Benin,BEN,1968,120
+Bolivia,BOL,1968,NA
+Bosnia and Herzegovina,BIH,1968,NA
+Botswana,BWA,1968,110
+Bulgaria,BGR,1968,NA
+Burkina Faso,BFA,1968,90
+Cambodia,KHM,1968,NA
+Cameroon,CMR,1968,130
+Canada,CAN,1968,3370
+Central African Republic,CAF,1968,100
+Chad,TCD,1968,130
+Chile,CHL,1968,770
+Colombia,COL,1968,310
+"Congo, Rep.",COG,1968,200
+Costa Rica,CRI,1968,450
+Cote d'Ivoire,CIV,1968,260
+Croatia,HRV,1968,NA
+Cuba,CUB,1968,NA
+Cyprus,CYP,1968,NA
+Czech Republic,CZE,1968,NA
+Denmark,DNK,1968,NA
+Dominican Republic,DOM,1968,250
+Ecuador,ECU,1968,470
+"Egypt, Arab Rep.",EGY,1968,170
+El Salvador,SLV,1968,300
+Estonia,EST,1968,NA
+Ethiopia,ETH,1968,NA
+Finland,FIN,1968,2090
+"Gambia, The",GMB,1968,110
+Gabon,GAB,1968,460
+Georgia,GEO,1968,NA
+Ghana,GHA,1968,230
+Greece,GRC,1968,1180
+Guatemala,GTM,1968,320
+Guinea,GIN,1968,NA
+Guinea-Bissau,GNB,1968,NA
+Guyana,GUY,1968,330
+Haiti,HTI,1968,NA
+Honduras,HND,1968,250
+Hungary,HUN,1968,NA
+Iceland,ISL,1968,2790
+Jamaica,JAM,1968,620
+Jordan,JOR,1968,NA
+Kazakhstan,KAZ,1968,NA
+Kenya,KEN,1968,130
+Kyrgyz Republic,KGZ,1968,NA
+Lao PDR,LAO,1968,NA
+Latvia,LVA,1968,NA
+Lebanon,LBN,1968,NA
+Lesotho,LSO,1968,80
+Liberia,LBR,1968,230
+Libya,LBY,1968,NA
+Lithuania,LTU,1968,NA
+Luxembourg,LUX,1968,2240
+"Macedonia, FYR",MKD,1968,NA
+Malawi,MWI,1968,60
+Malaysia,MYS,1968,370
+Mali,MLI,1968,NA
+Malta,MLT,1968,NA
+Mauritania,MRT,1968,190
+Moldova,MDA,1968,NA
+Mongolia,MNG,1968,NA
+Montenegro,MNE,1968,NA
+Morocco,MAR,1968,230
+Mozambique,MOZ,1968,NA
+Myanmar,MMR,1968,NA
+Namibia,NAM,1968,NA
+Nepal,NPL,1968,80
+New Zealand,NZL,1968,NA
+Nicaragua,NIC,1968,290
+Niger,NER,1968,170
+Nigeria,NGA,1968,100
+Norway,NOR,1968,2630
+Pakistan,PAK,1968,150
+Panama,PAN,1968,660
+Paraguay,PRY,1968,NA
+Peru,PER,1968,480
+Philippines,PHL,1968,220
+Poland,POL,1968,NA
+Portugal,PRT,1968,730
+Romania,ROM,1968,NA
+Rwanda,RWA,1968,50
+Senegal,SEN,1968,270
+Serbia,SRB,1968,NA
+Sierra Leone,SLE,1968,150
+Slovak Republic,SVK,1968,NA
+Slovenia,SVN,1968,NA
+Sri Lanka,LKA,1968,160
+South Africa,ZAF,1968,660
+Sudan,SDN,1968,130
+Suriname,SUR,1968,NA
+Swaziland,SWZ,1968,NA
+Sweden,SWE,1968,3770
+Tajikistan,TJK,1968,NA
+Tanzania,TZA,1968,NA
+Thailand,THA,1968,180
+Togo,TGO,1968,130
+Tunisia,TUN,1968,240
+Turkmenistan,TKM,1968,NA
+Uganda,UGA,1968,NA
+Ukraine,UKR,1968,NA
+United Arab Emirates,ARE,1968,NA
+Uruguay,URY,1968,610
+Uzbekistan,UZB,1968,NA
+"Venezuela, RB",VEN,1968,1100
+Vietnam,VNM,1968,NA
+"Yemen, Rep.",YEM,1968,NA
+Zambia,ZMB,1968,360
+Zimbabwe,ZWE,1968,300
+Argentina,ARG,1969,1300
+Australia,AUS,1969,2980
+Brazil,BRA,1969,410
+China,CHN,1969,110
+France,FRA,1969,2820
+Germany,DEU,1969,NA
+India,IND,1969,110
+Indonesia,IDN,1969,80
+Italy,ITA,1969,1850
+Japan,JPN,1969,1660
+"Korea, Rep.",KOR,1969,230
+Mexico,MEX,1969,620
+Netherlands,NLD,1969,2480
+Russian Federation,RUS,1969,NA
+Saudi Arabia,SAU,1969,NA
+Spain,ESP,1969,1110
+Switzerland,CHE,1969,NA
+Turkey,TUR,1969,560
+United Kingdom,GBR,1969,NA
+United States,USA,1969,5080
+Afghanistan,AFG,1969,NA
+Algeria,DZA,1969,310
+Albania,ALB,1969,NA
+Angola,AGO,1969,NA
+Armenia,ARM,1969,NA
+Austria,AUT,1969,1850
+Azerbaijan,AZE,1969,NA
+Bangladesh,BGD,1969,NA
+Belarus,BLR,1969,NA
+Belgium,BEL,1969,2510
+Belize,BLZ,1969,420
+Benin,BEN,1969,120
+Bolivia,BOL,1969,NA
+Bosnia and Herzegovina,BIH,1969,NA
+Botswana,BWA,1969,130
+Bulgaria,BGR,1969,NA
+Burkina Faso,BFA,1969,90
+Cambodia,KHM,1969,NA
+Cameroon,CMR,1969,150
+Canada,CAN,1969,3680
+Central African Republic,CAF,1969,110
+Chad,TCD,1969,140
+Chile,CHL,1969,800
+Colombia,COL,1969,320
+"Congo, Rep.",COG,1969,210
+Costa Rica,CRI,1969,480
+Cote d'Ivoire,CIV,1969,280
+Croatia,HRV,1969,NA
+Cuba,CUB,1969,NA
+Cyprus,CYP,1969,NA
+Czech Republic,CZE,1969,NA
+Denmark,DNK,1969,NA
+Dominican Republic,DOM,1969,280
+Ecuador,ECU,1969,500
+"Egypt, Arab Rep.",EGY,1969,190
+El Salvador,SLV,1969,300
+Estonia,EST,1969,NA
+Ethiopia,ETH,1969,NA
+Finland,FIN,1969,2270
+"Gambia, The",GMB,1969,110
+Gabon,GAB,1969,530
+Georgia,GEO,1969,NA
+Ghana,GHA,1969,230
+Greece,GRC,1969,1330
+Guatemala,GTM,1969,330
+Guinea,GIN,1969,NA
+Guinea-Bissau,GNB,1969,NA
+Guyana,GUY,1969,350
+Haiti,HTI,1969,NA
+Honduras,HND,1969,250
+Hungary,HUN,1969,NA
+Iceland,ISL,1969,2490
+Jamaica,JAM,1969,650
+Jordan,JOR,1969,NA
+Kazakhstan,KAZ,1969,NA
+Kenya,KEN,1969,140
+Kyrgyz Republic,KGZ,1969,NA
+Lao PDR,LAO,1969,NA
+Latvia,LVA,1969,NA
+Lebanon,LBN,1969,NA
+Lesotho,LSO,1969,80
+Liberia,LBR,1969,240
+Libya,LBY,1969,NA
+Lithuania,LTU,1969,NA
+Luxembourg,LUX,1969,2560
+"Macedonia, FYR",MKD,1969,NA
+Malawi,MWI,1969,60
+Malaysia,MYS,1969,380
+Mali,MLI,1969,60
+Malta,MLT,1969,NA
+Mauritania,MRT,1969,180
+Moldova,MDA,1969,NA
+Mongolia,MNG,1969,NA
+Montenegro,MNE,1969,NA
+Morocco,MAR,1969,240
+Mozambique,MOZ,1969,NA
+Myanmar,MMR,1969,NA
+Namibia,NAM,1969,NA
+Nepal,NPL,1969,80
+New Zealand,NZL,1969,NA
+Nicaragua,NIC,1969,310
+Niger,NER,1969,150
+Nigeria,NGA,1969,120
+Norway,NOR,1969,2850
+Pakistan,PAK,1969,160
+Panama,PAN,1969,710
+Paraguay,PRY,1969,NA
+Peru,PER,1969,490
+Philippines,PHL,1969,240
+Poland,POL,1969,NA
+Portugal,PRT,1969,790
+Romania,ROM,1969,NA
+Rwanda,RWA,1969,50
+Senegal,SEN,1969,250
+Serbia,SRB,1969,NA
+Sierra Leone,SLE,1969,160
+Slovak Republic,SVK,1969,NA
+Slovenia,SVN,1969,NA
+Sri Lanka,LKA,1969,170
+South Africa,ZAF,1969,720
+Sudan,SDN,1969,130
+Suriname,SUR,1969,NA
+Swaziland,SWZ,1969,NA
+Sweden,SWE,1969,4100
+Tajikistan,TJK,1969,NA
+Tanzania,TZA,1969,NA
+Thailand,THA,1969,190
+Togo,TGO,1969,140
+Tunisia,TUN,1969,250
+Turkmenistan,TKM,1969,NA
+Uganda,UGA,1969,NA
+Ukraine,UKR,1969,NA
+United Arab Emirates,ARE,1969,NA
+Uruguay,URY,1969,670
+Uzbekistan,UZB,1969,NA
+"Venezuela, RB",VEN,1969,1110
+Vietnam,VNM,1969,NA
+"Yemen, Rep.",YEM,1969,NA
+Zambia,ZMB,1969,400
+Zimbabwe,ZWE,1969,340
+Argentina,ARG,1970,1320
+Australia,AUS,1970,3270
+Brazil,BRA,1970,440
+China,CHN,1970,120
+France,FRA,1970,3040
+Germany,DEU,1970,NA
+India,IND,1970,120
+Indonesia,IDN,1970,90
+Italy,ITA,1970,2100
+Japan,JPN,1970,1810
+"Korea, Rep.",KOR,1970,260
+Mexico,MEX,1970,670
+Netherlands,NLD,1970,2950
+Russian Federation,RUS,1970,NA
+Saudi Arabia,SAU,1970,710
+Spain,ESP,1970,1190
+Switzerland,CHE,1970,NA
+Turkey,TUR,1970,560
+United Kingdom,GBR,1970,2360
+United States,USA,1970,5260
+Afghanistan,AFG,1970,NA
+Algeria,DZA,1970,330
+Albania,ALB,1970,NA
+Angola,AGO,1970,NA
+Armenia,ARM,1970,NA
+Austria,AUT,1970,2100
+Azerbaijan,AZE,1970,NA
+Bangladesh,BGD,1970,NA
+Belarus,BLR,1970,NA
+Belgium,BEL,1970,2820
+Belize,BLZ,1970,420
+Benin,BEN,1970,120
+Bolivia,BOL,1970,250
+Bosnia and Herzegovina,BIH,1970,NA
+Botswana,BWA,1970,150
+Bulgaria,BGR,1970,NA
+Burkina Faso,BFA,1970,90
+Cambodia,KHM,1970,NA
+Cameroon,CMR,1970,160
+Canada,CAN,1970,4080
+Central African Republic,CAF,1970,110
+Chad,TCD,1970,140
+Chile,CHL,1970,860
+Colombia,COL,1970,330
+"Congo, Rep.",COG,1970,220
+Costa Rica,CRI,1970,530
+Cote d'Ivoire,CIV,1970,290
+Croatia,HRV,1970,NA
+Cuba,CUB,1970,NA
+Cyprus,CYP,1970,NA
+Czech Republic,CZE,1970,NA
+Denmark,DNK,1970,3350
+Dominican Republic,DOM,1970,340
+Ecuador,ECU,1970,520
+"Egypt, Arab Rep.",EGY,1970,210
+El Salvador,SLV,1970,310
+Estonia,EST,1970,NA
+Ethiopia,ETH,1970,NA
+Finland,FIN,1970,2490
+"Gambia, The",GMB,1970,110
+Gabon,GAB,1970,570
+Georgia,GEO,1970,NA
+Ghana,GHA,1970,250
+Greece,GRC,1970,1520
+Guatemala,GTM,1970,350
+Guinea,GIN,1970,NA
+Guinea-Bissau,GNB,1970,NA
+Guyana,GUY,1970,350
+Haiti,HTI,1970,NA
+Honduras,HND,1970,260
+Hungary,HUN,1970,NA
+Iceland,ISL,1970,2580
+Jamaica,JAM,1970,720
+Jordan,JOR,1970,NA
+Kazakhstan,KAZ,1970,NA
+Kenya,KEN,1970,130
+Kyrgyz Republic,KGZ,1970,NA
+Lao PDR,LAO,1970,NA
+Latvia,LVA,1970,NA
+Lebanon,LBN,1970,NA
+Lesotho,LSO,1970,90
+Liberia,LBR,1970,250
+Libya,LBY,1970,NA
+Lithuania,LTU,1970,NA
+Luxembourg,LUX,1970,2500
+"Macedonia, FYR",MKD,1970,NA
+Malawi,MWI,1970,60
+Malaysia,MYS,1970,400
+Mali,MLI,1970,70
+Malta,MLT,1970,NA
+Mauritania,MRT,1970,190
+Moldova,MDA,1970,NA
+Mongolia,MNG,1970,NA
+Montenegro,MNE,1970,NA
+Morocco,MAR,1970,250
+Mozambique,MOZ,1970,NA
+Myanmar,MMR,1970,NA
+Namibia,NAM,1970,NA
+Nepal,NPL,1970,80
+New Zealand,NZL,1970,NA
+Nicaragua,NIC,1970,310
+Niger,NER,1970,150
+Nigeria,NGA,1970,170
+Norway,NOR,1970,3140
+Pakistan,PAK,1970,170
+Panama,PAN,1970,700
+Paraguay,PRY,1970,NA
+Peru,PER,1970,520
+Philippines,PHL,1970,220
+Poland,POL,1970,NA
+Portugal,PRT,1970,970
+Romania,ROM,1970,NA
+Rwanda,RWA,1970,60
+Senegal,SEN,1970,260
+Serbia,SRB,1970,NA
+Sierra Leone,SLE,1970,170
+Slovak Republic,SVK,1970,NA
+Slovenia,SVN,1970,NA
+Sri Lanka,LKA,1970,170
+South Africa,ZAF,1970,780
+Sudan,SDN,1970,150
+Suriname,SUR,1970,NA
+Swaziland,SWZ,1970,NA
+Sweden,SWE,1970,4650
+Tajikistan,TJK,1970,NA
+Tanzania,TZA,1970,NA
+Thailand,THA,1970,210
+Togo,TGO,1970,130
+Tunisia,TUN,1970,270
+Turkmenistan,TKM,1970,NA
+Uganda,UGA,1970,NA
+Ukraine,UKR,1970,NA
+United Arab Emirates,ARE,1970,NA
+Uruguay,URY,1970,820
+Uzbekistan,UZB,1970,NA
+"Venezuela, RB",VEN,1970,1200
+Vietnam,VNM,1970,NA
+"Yemen, Rep.",YEM,1970,NA
+Zambia,ZMB,1970,440
+Zimbabwe,ZWE,1970,400
+Argentina,ARG,1971,1470
+Australia,AUS,1971,3470
+Brazil,BRA,1971,500
+China,CHN,1971,120
+France,FRA,1971,3260
+Germany,DEU,1971,NA
+India,IND,1971,120
+Indonesia,IDN,1971,90
+Italy,ITA,1971,2280
+Japan,JPN,1971,2090
+"Korea, Rep.",KOR,1971,310
+Mexico,MEX,1971,710
+Netherlands,NLD,1971,3270
+Russian Federation,RUS,1971,NA
+Saudi Arabia,SAU,1971,990
+Spain,ESP,1971,1320
+Switzerland,CHE,1971,NA
+Turkey,TUR,1971,540
+United Kingdom,GBR,1971,2590
+United States,USA,1971,5650
+Afghanistan,AFG,1971,NA
+Algeria,DZA,1971,310
+Albania,ALB,1971,NA
+Angola,AGO,1971,NA
+Armenia,ARM,1971,NA
+Austria,AUT,1971,2330
+Azerbaijan,AZE,1971,NA
+Bangladesh,BGD,1971,NA
+Belarus,BLR,1971,NA
+Belgium,BEL,1971,3100
+Belize,BLZ,1971,450
+Benin,BEN,1971,120
+Bolivia,BOL,1971,270
+Bosnia and Herzegovina,BIH,1971,NA
+Botswana,BWA,1971,180
+Bulgaria,BGR,1971,NA
+Burkina Faso,BFA,1971,90
+Cambodia,KHM,1971,NA
+Cameroon,CMR,1971,170
+Canada,CAN,1971,4450
+Central African Republic,CAF,1971,110
+Chad,TCD,1971,140
+Chile,CHL,1971,1020
+Colombia,COL,1971,360
+"Congo, Rep.",COG,1971,230
+Costa Rica,CRI,1971,580
+Cote d'Ivoire,CIV,1971,300
+Croatia,HRV,1971,NA
+Cuba,CUB,1971,NA
+Cyprus,CYP,1971,NA
+Czech Republic,CZE,1971,NA
+Denmark,DNK,1971,3710
+Dominican Republic,DOM,1971,370
+Ecuador,ECU,1971,520
+"Egypt, Arab Rep.",EGY,1971,220
+El Salvador,SLV,1971,320
+Estonia,EST,1971,NA
+Ethiopia,ETH,1971,NA
+Finland,FIN,1971,2710
+"Gambia, The",GMB,1971,120
+Gabon,GAB,1971,610
+Georgia,GEO,1971,NA
+Ghana,GHA,1971,270
+Greece,GRC,1971,1710
+Guatemala,GTM,1971,370
+Guinea,GIN,1971,NA
+Guinea-Bissau,GNB,1971,NA
+Guyana,GUY,1971,370
+Haiti,HTI,1971,NA
+Honduras,HND,1971,270
+Hungary,HUN,1971,NA
+Iceland,ISL,1971,3030
+Jamaica,JAM,1971,760
+Jordan,JOR,1971,NA
+Kazakhstan,KAZ,1971,NA
+Kenya,KEN,1971,160
+Kyrgyz Republic,KGZ,1971,NA
+Lao PDR,LAO,1971,NA
+Latvia,LVA,1971,NA
+Lebanon,LBN,1971,NA
+Lesotho,LSO,1971,90
+Liberia,LBR,1971,260
+Libya,LBY,1971,NA
+Lithuania,LTU,1971,NA
+Luxembourg,LUX,1971,2790
+"Macedonia, FYR",MKD,1971,NA
+Malawi,MWI,1971,80
+Malaysia,MYS,1971,420
+Mali,MLI,1971,70
+Malta,MLT,1971,NA
+Mauritania,MRT,1971,190
+Moldova,MDA,1971,NA
+Mongolia,MNG,1971,NA
+Montenegro,MNE,1971,NA
+Morocco,MAR,1971,270
+Mozambique,MOZ,1971,NA
+Myanmar,MMR,1971,NA
+Namibia,NAM,1971,NA
+Nepal,NPL,1971,80
+New Zealand,NZL,1971,NA
+Nicaragua,NIC,1971,320
+Niger,NER,1971,160
+Nigeria,NGA,1971,180
+Norway,NOR,1971,3590
+Pakistan,PAK,1971,180
+Panama,PAN,1971,770
+Paraguay,PRY,1971,NA
+Peru,PER,1971,580
+Philippines,PHL,1971,220
+Poland,POL,1971,NA
+Portugal,PRT,1971,1090
+Romania,ROM,1971,NA
+Rwanda,RWA,1971,60
+Senegal,SEN,1971,250
+Serbia,SRB,1971,NA
+Sierra Leone,SLE,1971,180
+Slovak Republic,SVK,1971,NA
+Slovenia,SVN,1971,NA
+Sri Lanka,LKA,1971,170
+South Africa,ZAF,1971,850
+Sudan,SDN,1971,160
+Suriname,SUR,1971,NA
+Swaziland,SWZ,1971,NA
+Sweden,SWE,1971,4970
+Tajikistan,TJK,1971,NA
+Tanzania,TZA,1971,NA
+Thailand,THA,1971,210
+Togo,TGO,1971,130
+Tunisia,TUN,1971,310
+Turkmenistan,TKM,1971,NA
+Uganda,UGA,1971,NA
+Ukraine,UKR,1971,NA
+United Arab Emirates,ARE,1971,NA
+Uruguay,URY,1971,850
+Uzbekistan,UZB,1971,NA
+"Venezuela, RB",VEN,1971,1220
+Vietnam,VNM,1971,NA
+"Yemen, Rep.",YEM,1971,NA
+Zambia,ZMB,1971,430
+Zimbabwe,ZWE,1971,420
+Argentina,ARG,1972,1460
+Australia,AUS,1972,3890
+Brazil,BRA,1972,590
+China,CHN,1972,130
+France,FRA,1972,3680
+Germany,DEU,1972,3600
+India,IND,1972,130
+Indonesia,IDN,1972,100
+Italy,ITA,1972,2610
+Japan,JPN,1972,2680
+"Korea, Rep.",KOR,1972,340
+Mexico,MEX,1972,800
+Netherlands,NLD,1972,3820
+Russian Federation,RUS,1972,NA
+Saudi Arabia,SAU,1972,1380
+Spain,ESP,1972,1600
+Switzerland,CHE,1972,NA
+Turkey,TUR,1972,560
+United Kingdom,GBR,1972,2960
+United States,USA,1972,6290
+Afghanistan,AFG,1972,NA
+Algeria,DZA,1972,430
+Albania,ALB,1972,NA
+Angola,AGO,1972,NA
+Armenia,ARM,1972,NA
+Austria,AUT,1972,2750
+Azerbaijan,AZE,1972,NA
+Bangladesh,BGD,1972,NA
+Belarus,BLR,1972,NA
+Belgium,BEL,1972,3650
+Belize,BLZ,1972,520
+Benin,BEN,1972,130
+Bolivia,BOL,1972,300
+Bosnia and Herzegovina,BIH,1972,NA
+Botswana,BWA,1972,230
+Bulgaria,BGR,1972,NA
+Burkina Faso,BFA,1972,90
+Cambodia,KHM,1972,NA
+Cameroon,CMR,1972,180
+Canada,CAN,1972,5040
+Central African Republic,CAF,1972,120
+Chad,TCD,1972,150
+Chile,CHL,1972,1110
+Colombia,COL,1972,390
+"Congo, Rep.",COG,1972,270
+Costa Rica,CRI,1972,640
+Cote d'Ivoire,CIV,1972,310
+Croatia,HRV,1972,NA
+Cuba,CUB,1972,850
+Cyprus,CYP,1972,NA
+Czech Republic,CZE,1972,NA
+Denmark,DNK,1972,4350
+Dominican Republic,DOM,1972,430
+Ecuador,ECU,1972,510
+"Egypt, Arab Rep.",EGY,1972,240
+El Salvador,SLV,1972,340
+Estonia,EST,1972,NA
+Ethiopia,ETH,1972,NA
+Finland,FIN,1972,3170
+"Gambia, The",GMB,1972,120
+Gabon,GAB,1972,680
+Georgia,GEO,1972,NA
+Ghana,GHA,1972,260
+Greece,GRC,1972,1990
+Guatemala,GTM,1972,390
+Guinea,GIN,1972,NA
+Guinea-Bissau,GNB,1972,130
+Guyana,GUY,1972,390
+Haiti,HTI,1972,NA
+Honduras,HND,1972,290
+Hungary,HUN,1972,NA
+Iceland,ISL,1972,3720
+Jamaica,JAM,1972,990
+Jordan,JOR,1972,NA
+Kazakhstan,KAZ,1972,NA
+Kenya,KEN,1972,190
+Kyrgyz Republic,KGZ,1972,NA
+Lao PDR,LAO,1972,NA
+Latvia,LVA,1972,NA
+Lebanon,LBN,1972,NA
+Lesotho,LSO,1972,100
+Liberia,LBR,1972,280
+Libya,LBY,1972,NA
+Lithuania,LTU,1972,NA
+Luxembourg,LUX,1972,3420
+"Macedonia, FYR",MKD,1972,NA
+Malawi,MWI,1972,80
+Malaysia,MYS,1972,470
+Mali,MLI,1972,80
+Malta,MLT,1972,1090
+Mauritania,MRT,1972,190
+Moldova,MDA,1972,NA
+Mongolia,MNG,1972,NA
+Montenegro,MNE,1972,NA
+Morocco,MAR,1972,290
+Mozambique,MOZ,1972,NA
+Myanmar,MMR,1972,NA
+Namibia,NAM,1972,NA
+Nepal,NPL,1972,80
+New Zealand,NZL,1972,NA
+Nicaragua,NIC,1972,330
+Niger,NER,1972,160
+Nigeria,NGA,1972,200
+Norway,NOR,1972,4230
+Pakistan,PAK,1972,170
+Panama,PAN,1972,820
+Paraguay,PRY,1972,NA
+Peru,PER,1972,630
+Philippines,PHL,1972,220
+Poland,POL,1972,NA
+Portugal,PRT,1972,1270
+Romania,ROM,1972,NA
+Rwanda,RWA,1972,60
+Senegal,SEN,1972,270
+Serbia,SRB,1972,NA
+Sierra Leone,SLE,1972,180
+Slovak Republic,SVK,1972,NA
+Slovenia,SVN,1972,NA
+Sri Lanka,LKA,1972,190
+South Africa,ZAF,1972,900
+Sudan,SDN,1972,160
+Suriname,SUR,1972,NA
+Swaziland,SWZ,1972,290
+Sweden,SWE,1972,5670
+Tajikistan,TJK,1972,NA
+Tanzania,TZA,1972,NA
+Thailand,THA,1972,220
+Togo,TGO,1972,140
+Tunisia,TUN,1972,400
+Turkmenistan,TKM,1972,NA
+Uganda,UGA,1972,NA
+Ukraine,UKR,1972,NA
+United Arab Emirates,ARE,1972,NA
+Uruguay,URY,1972,870
+Uzbekistan,UZB,1972,NA
+"Venezuela, RB",VEN,1972,1330
+Vietnam,VNM,1972,NA
+"Yemen, Rep.",YEM,1972,NA
+Zambia,ZMB,1972,430
+Zimbabwe,ZWE,1972,460
+Argentina,ARG,1973,1810
+Australia,AUS,1973,4650
+Brazil,BRA,1973,750
+China,CHN,1973,160
+France,FRA,1973,4700
+Germany,DEU,1973,4680
+India,IND,1973,150
+Indonesia,IDN,1973,120
+Italy,ITA,1973,3240
+Japan,JPN,1973,3570
+"Korea, Rep.",KOR,1973,420
+Mexico,MEX,1973,960
+Netherlands,NLD,1973,5030
+Russian Federation,RUS,1973,NA
+Saudi Arabia,SAU,1973,1770
+Spain,ESP,1973,2100
+Switzerland,CHE,1973,NA
+Turkey,TUR,1973,650
+United Kingdom,GBR,1973,3620
+United States,USA,1973,7310
+Afghanistan,AFG,1973,NA
+Algeria,DZA,1973,520
+Albania,ALB,1973,NA
+Angola,AGO,1973,NA
+Armenia,ARM,1973,NA
+Austria,AUT,1973,3560
+Azerbaijan,AZE,1973,NA
+Bangladesh,BGD,1973,120
+Belarus,BLR,1973,NA
+Belgium,BEL,1973,4700
+Belize,BLZ,1973,600
+Benin,BEN,1973,160
+Bolivia,BOL,1973,330
+Bosnia and Herzegovina,BIH,1973,NA
+Botswana,BWA,1973,310
+Bulgaria,BGR,1973,NA
+Burkina Faso,BFA,1973,110
+Cambodia,KHM,1973,NA
+Cameroon,CMR,1973,200
+Canada,CAN,1973,6050
+Central African Republic,CAF,1973,140
+Chad,TCD,1973,160
+Chile,CHL,1973,1320
+Colombia,COL,1973,460
+"Congo, Rep.",COG,1973,340
+Costa Rica,CRI,1973,770
+Cote d'Ivoire,CIV,1973,370
+Croatia,HRV,1973,NA
+Cuba,CUB,1973,1040
+Cyprus,CYP,1973,NA
+Czech Republic,CZE,1973,NA
+Denmark,DNK,1973,5600
+Dominican Republic,DOM,1973,510
+Ecuador,ECU,1973,600
+"Egypt, Arab Rep.",EGY,1973,260
+El Salvador,SLV,1973,380
+Estonia,EST,1973,NA
+Ethiopia,ETH,1973,NA
+Finland,FIN,1973,4030
+"Gambia, The",GMB,1973,150
+Gabon,GAB,1973,910
+Georgia,GEO,1973,NA
+Ghana,GHA,1973,280
+Greece,GRC,1973,2490
+Guatemala,GTM,1973,450
+Guinea,GIN,1973,NA
+Guinea-Bissau,GNB,1973,130
+Guyana,GUY,1973,420
+Haiti,HTI,1973,NA
+Honduras,HND,1973,320
+Hungary,HUN,1973,NA
+Iceland,ISL,1973,4930
+Jamaica,JAM,1973,1030
+Jordan,JOR,1973,NA
+Kazakhstan,KAZ,1973,NA
+Kenya,KEN,1973,200
+Kyrgyz Republic,KGZ,1973,NA
+Lao PDR,LAO,1973,NA
+Latvia,LVA,1973,NA
+Lebanon,LBN,1973,NA
+Lesotho,LSO,1973,150
+Liberia,LBR,1973,290
+Libya,LBY,1973,NA
+Lithuania,LTU,1973,NA
+Luxembourg,LUX,1973,4390
+"Macedonia, FYR",MKD,1973,NA
+Malawi,MWI,1973,100
+Malaysia,MYS,1973,600
+Mali,MLI,1973,90
+Malta,MLT,1973,1260
+Mauritania,MRT,1973,230
+Moldova,MDA,1973,NA
+Mongolia,MNG,1973,NA
+Montenegro,MNE,1973,NA
+Morocco,MAR,1973,350
+Mozambique,MOZ,1973,NA
+Myanmar,MMR,1973,NA
+Namibia,NAM,1973,NA
+Nepal,NPL,1973,90
+New Zealand,NZL,1973,NA
+Nicaragua,NIC,1973,380
+Niger,NER,1973,160
+Nigeria,NGA,1973,220
+Norway,NOR,1973,5320
+Pakistan,PAK,1973,150
+Panama,PAN,1973,930
+Paraguay,PRY,1973,NA
+Peru,PER,1973,750
+Philippines,PHL,1973,260
+Poland,POL,1973,NA
+Portugal,PRT,1973,1700
+Romania,ROM,1973,NA
+Rwanda,RWA,1973,70
+Senegal,SEN,1973,300
+Serbia,SRB,1973,NA
+Sierra Leone,SLE,1973,200
+Slovak Republic,SVK,1973,NA
+Slovenia,SVN,1973,NA
+Sri Lanka,LKA,1973,210
+South Africa,ZAF,1973,1090
+Sudan,SDN,1973,190
+Suriname,SUR,1973,NA
+Swaziland,SWZ,1973,360
+Sweden,SWE,1973,7050
+Tajikistan,TJK,1973,NA
+Tanzania,TZA,1973,NA
+Thailand,THA,1973,260
+Togo,TGO,1973,170
+Tunisia,TUN,1973,460
+Turkmenistan,TKM,1973,NA
+Uganda,UGA,1973,NA
+Ukraine,UKR,1973,NA
+United Arab Emirates,ARE,1973,NA
+Uruguay,URY,1973,1060
+Uzbekistan,UZB,1973,NA
+"Venezuela, RB",VEN,1973,1600
+Vietnam,VNM,1973,NA
+"Yemen, Rep.",YEM,1973,NA
+Zambia,ZMB,1973,450
+Zimbabwe,ZWE,1973,550
+Argentina,ARG,1974,2460
+Australia,AUS,1974,5950
+Brazil,BRA,1974,970
+China,CHN,1974,180
+France,FRA,1974,5800
+Germany,DEU,1974,5800
+India,IND,1974,170
+Indonesia,IDN,1974,170
+Italy,ITA,1974,3920
+Japan,JPN,1974,4350
+"Korea, Rep.",KOR,1974,540
+Mexico,MEX,1974,1170
+Netherlands,NLD,1974,6320
+Russian Federation,RUS,1974,NA
+Saudi Arabia,SAU,1974,3540
+Spain,ESP,1974,2750
+Switzerland,CHE,1974,NA
+Turkey,TUR,1974,860
+United Kingdom,GBR,1974,4040
+United States,USA,1974,8000
+Afghanistan,AFG,1974,NA
+Algeria,DZA,1974,700
+Albania,ALB,1974,NA
+Angola,AGO,1974,NA
+Armenia,ARM,1974,NA
+Austria,AUT,1974,4640
+Azerbaijan,AZE,1974,NA
+Bangladesh,BGD,1974,150
+Belarus,BLR,1974,NA
+Belgium,BEL,1974,6020
+Belize,BLZ,1974,730
+Benin,BEN,1974,190
+Bolivia,BOL,1974,410
+Bosnia and Herzegovina,BIH,1974,NA
+Botswana,BWA,1974,400
+Bulgaria,BGR,1974,NA
+Burkina Faso,BFA,1974,140
+Cambodia,KHM,1974,NA
+Cameroon,CMR,1974,270
+Canada,CAN,1974,7180
+Central African Republic,CAF,1974,160
+Chad,TCD,1974,190
+Chile,CHL,1974,1620
+Colombia,COL,1974,550
+"Congo, Rep.",COG,1974,420
+Costa Rica,CRI,1974,900
+Cote d'Ivoire,CIV,1974,460
+Croatia,HRV,1974,NA
+Cuba,CUB,1974,1240
+Cyprus,CYP,1974,NA
+Czech Republic,CZE,1974,NA
+Denmark,DNK,1974,6850
+Dominican Republic,DOM,1974,610
+Ecuador,ECU,1974,830
+"Egypt, Arab Rep.",EGY,1974,270
+El Salvador,SLV,1974,430
+Estonia,EST,1974,NA
+Ethiopia,ETH,1974,NA
+Finland,FIN,1974,5130
+"Gambia, The",GMB,1974,190
+Gabon,GAB,1974,1700
+Georgia,GEO,1974,NA
+Ghana,GHA,1974,320
+Greece,GRC,1974,2840
+Guatemala,GTM,1974,530
+Guinea,GIN,1974,NA
+Guinea-Bissau,GNB,1974,150
+Guyana,GUY,1974,540
+Haiti,HTI,1974,NA
+Honduras,HND,1974,360
+Hungary,HUN,1974,NA
+Iceland,ISL,1974,6660
+Jamaica,JAM,1974,1190
+Jordan,JOR,1974,NA
+Kazakhstan,KAZ,1974,NA
+Kenya,KEN,1974,230
+Kyrgyz Republic,KGZ,1974,NA
+Lao PDR,LAO,1974,NA
+Latvia,LVA,1974,NA
+Lebanon,LBN,1974,NA
+Lesotho,LSO,1974,220
+Liberia,LBR,1974,340
+Libya,LBY,1974,NA
+Lithuania,LTU,1974,NA
+Luxembourg,LUX,1974,5780
+"Macedonia, FYR",MKD,1974,NA
+Malawi,MWI,1974,120
+Malaysia,MYS,1974,790
+Mali,MLI,1974,100
+Malta,MLT,1974,1560
+Mauritania,MRT,1974,320
+Moldova,MDA,1974,NA
+Mongolia,MNG,1974,NA
+Montenegro,MNE,1974,NA
+Morocco,MAR,1974,450
+Mozambique,MOZ,1974,NA
+Myanmar,MMR,1974,NA
+Namibia,NAM,1974,NA
+Nepal,NPL,1974,100
+New Zealand,NZL,1974,NA
+Nicaragua,NIC,1974,510
+Niger,NER,1974,210
+Nigeria,NGA,1974,340
+Norway,NOR,1974,6750
+Pakistan,PAK,1974,150
+Panama,PAN,1974,1050
+Paraguay,PRY,1974,NA
+Peru,PER,1974,940
+Philippines,PHL,1974,320
+Poland,POL,1974,NA
+Portugal,PRT,1974,2070
+Romania,ROM,1974,NA
+Rwanda,RWA,1974,80
+Senegal,SEN,1974,360
+Serbia,SRB,1974,NA
+Sierra Leone,SLE,1974,240
+Slovak Republic,SVK,1974,NA
+Slovenia,SVN,1974,NA
+Sri Lanka,LKA,1974,250
+South Africa,ZAF,1974,1380
+Sudan,SDN,1974,250
+Suriname,SUR,1974,NA
+Swaziland,SWZ,1974,450
+Sweden,SWE,1974,8580
+Tajikistan,TJK,1974,NA
+Tanzania,TZA,1974,NA
+Thailand,THA,1974,330
+Togo,TGO,1974,220
+Tunisia,TUN,1974,610
+Turkmenistan,TKM,1974,NA
+Uganda,UGA,1974,NA
+Ukraine,UKR,1974,NA
+United Arab Emirates,ARE,1974,NA
+Uruguay,URY,1974,1370
+Uzbekistan,UZB,1974,NA
+"Venezuela, RB",VEN,1974,2030
+Vietnam,VNM,1974,NA
+"Yemen, Rep.",YEM,1974,NA
+Zambia,ZMB,1974,570
+Zimbabwe,ZWE,1974,680
+Argentina,ARG,1975,2700
+Australia,AUS,1975,7220
+Brazil,BRA,1975,1170
+China,CHN,1975,200
+France,FRA,1975,6730
+Germany,DEU,1975,6730
+India,IND,1975,190
+Indonesia,IDN,1975,240
+Italy,ITA,1975,4310
+Japan,JPN,1975,5060
+"Korea, Rep.",KOR,1975,640
+Mexico,MEX,1975,1410
+Netherlands,NLD,1975,7570
+Russian Federation,RUS,1975,NA
+Saudi Arabia,SAU,1975,5200
+Spain,ESP,1975,3270
+Switzerland,CHE,1975,NA
+Turkey,TUR,1975,1120
+United Kingdom,GBR,1975,4520
+United States,USA,1975,8530
+Afghanistan,AFG,1975,NA
+Algeria,DZA,1975,900
+Albania,ALB,1975,NA
+Angola,AGO,1975,NA
+Armenia,ARM,1975,NA
+Austria,AUT,1975,5520
+Azerbaijan,AZE,1975,NA
+Bangladesh,BGD,1975,200
+Belarus,BLR,1975,NA
+Belgium,BEL,1975,6930
+Belize,BLZ,1975,840
+Benin,BEN,1975,200
+Bolivia,BOL,1975,510
+Bosnia and Herzegovina,BIH,1975,NA
+Botswana,BWA,1975,470
+Bulgaria,BGR,1975,NA
+Burkina Faso,BFA,1975,160
+Cambodia,KHM,1975,NA
+Cameroon,CMR,1975,340
+Canada,CAN,1975,7980
+Central African Republic,CAF,1975,180
+Chad,TCD,1975,230
+Chile,CHL,1975,1120
+Colombia,COL,1975,590
+"Congo, Rep.",COG,1975,500
+Costa Rica,CRI,1975,990
+Cote d'Ivoire,CIV,1975,580
+Croatia,HRV,1975,NA
+Cuba,CUB,1975,1500
+Cyprus,CYP,1975,NA
+Czech Republic,CZE,1975,NA
+Denmark,DNK,1975,8150
+Dominican Republic,DOM,1975,710
+Ecuador,ECU,1975,1100
+"Egypt, Arab Rep.",EGY,1975,310
+El Salvador,SLV,1975,470
+Estonia,EST,1975,NA
+Ethiopia,ETH,1975,NA
+Finland,FIN,1975,6320
+"Gambia, The",GMB,1975,240
+Gabon,GAB,1975,2860
+Georgia,GEO,1975,NA
+Ghana,GHA,1975,310
+Greece,GRC,1975,3470
+Guatemala,GTM,1975,610
+Guinea,GIN,1975,NA
+Guinea-Bissau,GNB,1975,160
+Guyana,GUY,1975,680
+Haiti,HTI,1975,NA
+Honduras,HND,1975,380
+Hungary,HUN,1975,NA
+Iceland,ISL,1975,7450
+Jamaica,JAM,1975,1380
+Jordan,JOR,1975,NA
+Kazakhstan,KAZ,1975,NA
+Kenya,KEN,1975,250
+Kyrgyz Republic,KGZ,1975,NA
+Lao PDR,LAO,1975,NA
+Latvia,LVA,1975,NA
+Lebanon,LBN,1975,NA
+Lesotho,LSO,1975,230
+Liberia,LBR,1975,370
+Libya,LBY,1975,NA
+Lithuania,LTU,1975,NA
+Luxembourg,LUX,1975,6660
+"Macedonia, FYR",MKD,1975,NA
+Malawi,MWI,1975,130
+Malaysia,MYS,1975,900
+Mali,MLI,1975,130
+Malta,MLT,1975,1990
+Mauritania,MRT,1975,340
+Moldova,MDA,1975,NA
+Mongolia,MNG,1975,NA
+Montenegro,MNE,1975,NA
+Morocco,MAR,1975,540
+Mozambique,MOZ,1975,NA
+Myanmar,MMR,1975,NA
+Namibia,NAM,1975,NA
+Nepal,NPL,1975,120
+New Zealand,NZL,1975,NA
+Nicaragua,NIC,1975,570
+Niger,NER,1975,240
+Nigeria,NGA,1975,400
+Norway,NOR,1975,8380
+Pakistan,PAK,1975,160
+Panama,PAN,1975,1170
+Paraguay,PRY,1975,NA
+Peru,PER,1975,1090
+Philippines,PHL,1975,380
+Poland,POL,1975,NA
+Portugal,PRT,1975,2210
+Romania,ROM,1975,NA
+Rwanda,RWA,1975,100
+Senegal,SEN,1975,440
+Serbia,SRB,1975,NA
+Sierra Leone,SLE,1975,270
+Slovak Republic,SVK,1975,NA
+Slovenia,SVN,1975,NA
+Sri Lanka,LKA,1975,280
+South Africa,ZAF,1975,1590
+Sudan,SDN,1975,320
+Suriname,SUR,1975,NA
+Swaziland,SWZ,1975,NA
+Sweden,SWE,1975,10160
+Tajikistan,TJK,1975,NA
+Tanzania,TZA,1975,NA
+Thailand,THA,1975,380
+Togo,TGO,1975,260
+Tunisia,TUN,1975,770
+Turkmenistan,TKM,1975,NA
+Uganda,UGA,1975,NA
+Ukraine,UKR,1975,NA
+United Arab Emirates,ARE,1975,NA
+Uruguay,URY,1975,1620
+Uzbekistan,UZB,1975,NA
+"Venezuela, RB",VEN,1975,2510
+Vietnam,VNM,1975,NA
+"Yemen, Rep.",YEM,1975,NA
+Zambia,ZMB,1975,570
+Zimbabwe,ZWE,1975,740
+Argentina,ARG,1976,2340
+Australia,AUS,1976,7870
+Brazil,BRA,1976,1350
+China,CHN,1976,180
+France,FRA,1976,7150
+Germany,DEU,1976,7140
+India,IND,1976,180
+Indonesia,IDN,1976,290
+Italy,ITA,1976,4500
+Japan,JPN,1976,5310
+"Korea, Rep.",KOR,1976,790
+Mexico,MEX,1976,1480
+Netherlands,NLD,1976,8270
+Russian Federation,RUS,1976,NA
+Saudi Arabia,SAU,1976,7890
+Spain,ESP,1976,3460
+Switzerland,CHE,1976,NA
+Turkey,TUR,1976,1310
+United Kingdom,GBR,1976,4650
+United States,USA,1976,8980
+Afghanistan,AFG,1976,NA
+Algeria,DZA,1976,1050
+Albania,ALB,1976,NA
+Angola,AGO,1976,NA
+Armenia,ARM,1976,NA
+Austria,AUT,1976,5960
+Azerbaijan,AZE,1976,NA
+Bangladesh,BGD,1976,200
+Belarus,BLR,1976,NA
+Belgium,BEL,1976,7610
+Belize,BLZ,1976,800
+Benin,BEN,1976,210
+Bolivia,BOL,1976,600
+Bosnia and Herzegovina,BIH,1976,NA
+Botswana,BWA,1976,490
+Bulgaria,BGR,1976,NA
+Burkina Faso,BFA,1976,170
+Cambodia,KHM,1976,NA
+Cameroon,CMR,1976,330
+Canada,CAN,1976,8680
+Central African Republic,CAF,1976,200
+Chad,TCD,1976,220
+Chile,CHL,1976,980
+Colombia,COL,1976,620
+"Congo, Rep.",COG,1976,480
+Costa Rica,CRI,1976,1070
+Cote d'Ivoire,CIV,1976,660
+Croatia,HRV,1976,NA
+Cuba,CUB,1976,1550
+Cyprus,CYP,1976,NA
+Czech Republic,CZE,1976,NA
+Denmark,DNK,1976,9040
+Dominican Republic,DOM,1976,770
+Ecuador,ECU,1976,1300
+"Egypt, Arab Rep.",EGY,1976,330
+El Salvador,SLV,1976,520
+Estonia,EST,1976,NA
+Ethiopia,ETH,1976,NA
+Finland,FIN,1976,6840
+"Gambia, The",GMB,1976,240
+Gabon,GAB,1976,4440
+Georgia,GEO,1976,NA
+Ghana,GHA,1976,290
+Greece,GRC,1976,3750
+Guatemala,GTM,1976,680
+Guinea,GIN,1976,NA
+Guinea-Bissau,GNB,1976,150
+Guyana,GUY,1976,660
+Haiti,HTI,1976,NA
+Honduras,HND,1976,420
+Hungary,HUN,1976,NA
+Iceland,ISL,1976,7930
+Jamaica,JAM,1976,1390
+Jordan,JOR,1976,NA
+Kazakhstan,KAZ,1976,NA
+Kenya,KEN,1976,250
+Kyrgyz Republic,KGZ,1976,NA
+Lao PDR,LAO,1976,NA
+Latvia,LVA,1976,NA
+Lebanon,LBN,1976,NA
+Lesotho,LSO,1976,280
+Liberia,LBR,1976,410
+Libya,LBY,1976,NA
+Lithuania,LTU,1976,NA
+Luxembourg,LUX,1976,7150
+"Macedonia, FYR",MKD,1976,NA
+Malawi,MWI,1976,130
+Malaysia,MYS,1976,970
+Mali,MLI,1976,150
+Malta,MLT,1976,2120
+Mauritania,MRT,1976,350
+Moldova,MDA,1976,NA
+Mongolia,MNG,1976,NA
+Montenegro,MNE,1976,NA
+Morocco,MAR,1976,580
+Mozambique,MOZ,1976,NA
+Myanmar,MMR,1976,NA
+Namibia,NAM,1976,NA
+Nepal,NPL,1976,120
+New Zealand,NZL,1976,NA
+Nicaragua,NIC,1976,600
+Niger,NER,1976,220
+Nigeria,NGA,1976,510
+Norway,NOR,1976,9150
+Pakistan,PAK,1976,190
+Panama,PAN,1976,1160
+Paraguay,PRY,1976,NA
+Peru,PER,1976,1080
+Philippines,PHL,1976,420
+Poland,POL,1976,NA
+Portugal,PRT,1976,2330
+Romania,ROM,1976,NA
+Rwanda,RWA,1976,130
+Senegal,SEN,1976,480
+Serbia,SRB,1976,NA
+Sierra Leone,SLE,1976,240
+Slovak Republic,SVK,1976,NA
+Slovenia,SVN,1976,NA
+Sri Lanka,LKA,1976,260
+South Africa,ZAF,1976,1550
+Sudan,SDN,1976,370
+Suriname,SUR,1976,NA
+Swaziland,SWZ,1976,NA
+Sweden,SWE,1976,10720
+Tajikistan,TJK,1976,NA
+Tanzania,TZA,1976,NA
+Thailand,THA,1976,420
+Togo,TGO,1976,270
+Tunisia,TUN,1976,820
+Turkmenistan,TKM,1976,NA
+Uganda,UGA,1976,NA
+Ukraine,UKR,1976,NA
+United Arab Emirates,ARE,1976,NA
+Uruguay,URY,1976,1490
+Uzbekistan,UZB,1976,NA
+"Venezuela, RB",VEN,1976,2900
+Vietnam,VNM,1976,NA
+"Yemen, Rep.",YEM,1976,NA
+Zambia,ZMB,1976,540
+Zimbabwe,ZWE,1976,720
+Argentina,ARG,1977,2200
+Australia,AUS,1977,8090
+Brazil,BRA,1977,1480
+China,CHN,1977,190
+France,FRA,1977,7820
+Germany,DEU,1977,7680
+India,IND,1977,190
+Indonesia,IDN,1977,330
+Italy,ITA,1977,4710
+Japan,JPN,1977,5840
+"Korea, Rep.",KOR,1977,950
+Mexico,MEX,1977,1420
+Netherlands,NLD,1977,9020
+Russian Federation,RUS,1977,NA
+Saudi Arabia,SAU,1977,8540
+Spain,ESP,1977,3660
+Switzerland,CHE,1977,NA
+Turkey,TUR,1977,1410
+United Kingdom,GBR,1977,4850
+United States,USA,1977,9610
+Afghanistan,AFG,1977,NA
+Algeria,DZA,1977,1130
+Albania,ALB,1977,NA
+Angola,AGO,1977,NA
+Armenia,ARM,1977,NA
+Austria,AUT,1977,6630
+Azerbaijan,AZE,1977,NA
+Bangladesh,BGD,1977,170
+Belarus,BLR,1977,NA
+Belgium,BEL,1977,8250
+Belize,BLZ,1977,850
+Benin,BEN,1977,230
+Bolivia,BOL,1977,650
+Bosnia and Herzegovina,BIH,1977,NA
+Botswana,BWA,1977,530
+Bulgaria,BGR,1977,NA
+Burkina Faso,BFA,1977,170
+Cambodia,KHM,1977,NA
+Cameroon,CMR,1977,330
+Canada,CAN,1977,9030
+Central African Republic,CAF,1977,240
+Chad,TCD,1977,230
+Chile,CHL,1977,1070
+Colombia,COL,1977,690
+"Congo, Rep.",COG,1977,450
+Costa Rica,CRI,1977,1270
+Cote d'Ivoire,CIV,1977,760
+Croatia,HRV,1977,NA
+Cuba,CUB,1977,1600
+Cyprus,CYP,1977,1530
+Czech Republic,CZE,1977,NA
+Denmark,DNK,1977,9850
+Dominican Republic,DOM,1977,830
+Ecuador,ECU,1977,1380
+"Egypt, Arab Rep.",EGY,1977,370
+El Salvador,SLV,1977,600
+Estonia,EST,1977,NA
+Ethiopia,ETH,1977,NA
+Finland,FIN,1977,7190
+"Gambia, The",GMB,1977,250
+Gabon,GAB,1977,4000
+Georgia,GEO,1977,NA
+Ghana,GHA,1977,310
+Greece,GRC,1977,3930
+Guatemala,GTM,1977,780
+Guinea,GIN,1977,NA
+Guinea-Bissau,GNB,1977,140
+Guyana,GUY,1977,610
+Haiti,HTI,1977,NA
+Honduras,HND,1977,470
+Hungary,HUN,1977,NA
+Iceland,ISL,1977,8970
+Jamaica,JAM,1977,1460
+Jordan,JOR,1977,1060
+Kazakhstan,KAZ,1977,NA
+Kenya,KEN,1977,280
+Kyrgyz Republic,KGZ,1977,NA
+Lao PDR,LAO,1977,NA
+Latvia,LVA,1977,NA
+Lebanon,LBN,1977,NA
+Lesotho,LSO,1977,320
+Liberia,LBR,1977,430
+Libya,LBY,1977,NA
+Lithuania,LTU,1977,NA
+Luxembourg,LUX,1977,7620
+"Macedonia, FYR",MKD,1977,NA
+Malawi,MWI,1977,130
+Malaysia,MYS,1977,1030
+Mali,MLI,1977,170
+Malta,MLT,1977,2320
+Mauritania,MRT,1977,370
+Moldova,MDA,1977,NA
+Mongolia,MNG,1977,NA
+Montenegro,MNE,1977,NA
+Morocco,MAR,1977,610
+Mozambique,MOZ,1977,NA
+Myanmar,MMR,1977,NA
+Namibia,NAM,1977,NA
+Nepal,NPL,1977,120
+New Zealand,NZL,1977,NA
+Nicaragua,NIC,1977,680
+Niger,NER,1977,240
+Nigeria,NGA,1977,560
+Norway,NOR,1977,9960
+Pakistan,PAK,1977,210
+Panama,PAN,1977,1170
+Paraguay,PRY,1977,NA
+Peru,PER,1977,940
+Philippines,PHL,1977,450
+Poland,POL,1977,NA
+Portugal,PRT,1977,2430
+Romania,ROM,1977,NA
+Rwanda,RWA,1977,160
+Senegal,SEN,1977,470
+Serbia,SRB,1977,NA
+Sierra Leone,SLE,1977,230
+Slovak Republic,SVK,1977,NA
+Slovenia,SVN,1977,NA
+Sri Lanka,LKA,1977,260
+South Africa,ZAF,1977,1490
+Sudan,SDN,1977,410
+Suriname,SUR,1977,1550
+Swaziland,SWZ,1977,NA
+Sweden,SWE,1977,11290
+Tajikistan,TJK,1977,NA
+Tanzania,TZA,1977,NA
+Thailand,THA,1977,450
+Togo,TGO,1977,290
+Tunisia,TUN,1977,850
+Turkmenistan,TKM,1977,NA
+Uganda,UGA,1977,NA
+Ukraine,UKR,1977,NA
+United Arab Emirates,ARE,1977,NA
+Uruguay,URY,1977,1420
+Uzbekistan,UZB,1977,NA
+"Venezuela, RB",VEN,1977,3060
+Vietnam,VNM,1977,NA
+"Yemen, Rep.",YEM,1977,NA
+Zambia,ZMB,1977,490
+Zimbabwe,ZWE,1977,670
+Argentina,ARG,1978,2170
+Australia,AUS,1978,8470
+Brazil,BRA,1978,1660
+China,CHN,1978,190
+France,FRA,1978,8840
+Germany,DEU,1978,8880
+India,IND,1978,210
+Indonesia,IDN,1978,390
+Italy,ITA,1978,5250
+Japan,JPN,1978,7320
+"Korea, Rep.",KOR,1978,1250
+Mexico,MEX,1978,1530
+Netherlands,NLD,1978,10370
+Russian Federation,RUS,1978,NA
+Saudi Arabia,SAU,1978,9150
+Spain,ESP,1978,4040
+Switzerland,CHE,1978,NA
+Turkey,TUR,1978,1530
+United Kingdom,GBR,1978,5500
+United States,USA,1978,10790
+Afghanistan,AFG,1978,NA
+Algeria,DZA,1978,1340
+Albania,ALB,1978,NA
+Angola,AGO,1978,NA
+Armenia,ARM,1978,NA
+Austria,AUT,1978,7510
+Azerbaijan,AZE,1978,NA
+Bangladesh,BGD,1978,160
+Belarus,BLR,1978,NA
+Belgium,BEL,1978,9590
+Belize,BLZ,1978,930
+Benin,BEN,1978,250
+Bolivia,BOL,1978,730
+Bosnia and Herzegovina,BIH,1978,NA
+Botswana,BWA,1978,620
+Bulgaria,BGR,1978,NA
+Burkina Faso,BFA,1978,200
+Cambodia,KHM,1978,NA
+Cameroon,CMR,1978,500
+Canada,CAN,1978,9690
+Central African Republic,CAF,1978,270
+Chad,TCD,1978,240
+Chile,CHL,1978,1320
+Colombia,COL,1978,850
+"Congo, Rep.",COG,1978,480
+Costa Rica,CRI,1978,1510
+Cote d'Ivoire,CIV,1978,930
+Croatia,HRV,1978,NA
+Cuba,CUB,1978,1790
+Cyprus,CYP,1978,1820
+Czech Republic,CZE,1978,NA
+Denmark,DNK,1978,11250
+Dominican Republic,DOM,1978,890
+Ecuador,ECU,1978,1580
+"Egypt, Arab Rep.",EGY,1978,370
+El Salvador,SLV,1978,700
+Estonia,EST,1978,NA
+Ethiopia,ETH,1978,NA
+Finland,FIN,1978,7910
+"Gambia, The",GMB,1978,280
+Gabon,GAB,1978,3080
+Georgia,GEO,1978,NA
+Ghana,GHA,1978,360
+Greece,GRC,1978,4590
+Guatemala,GTM,1978,910
+Guinea,GIN,1978,NA
+Guinea-Bissau,GNB,1978,160
+Guyana,GUY,1978,620
+Haiti,HTI,1978,NA
+Honduras,HND,1978,550
+Hungary,HUN,1978,NA
+Iceland,ISL,1978,10800
+Jamaica,JAM,1978,1450
+Jordan,JOR,1978,1330
+Kazakhstan,KAZ,1978,NA
+Kenya,KEN,1978,330
+Kyrgyz Republic,KGZ,1978,NA
+Lao PDR,LAO,1978,NA
+Latvia,LVA,1978,NA
+Lebanon,LBN,1978,NA
+Lesotho,LSO,1978,340
+Liberia,LBR,1978,470
+Libya,LBY,1978,NA
+Lithuania,LTU,1978,NA
+Luxembourg,LUX,1978,8950
+"Macedonia, FYR",MKD,1978,NA
+Malawi,MWI,1978,150
+Malaysia,MYS,1978,1180
+Mali,MLI,1978,180
+Malta,MLT,1978,2660
+Mauritania,MRT,1978,380
+Moldova,MDA,1978,NA
+Mongolia,MNG,1978,NA
+Montenegro,MNE,1978,NA
+Morocco,MAR,1978,650
+Mozambique,MOZ,1978,NA
+Myanmar,MMR,1978,NA
+Namibia,NAM,1978,NA
+Nepal,NPL,1978,120
+New Zealand,NZL,1978,NA
+Nicaragua,NIC,1978,650
+Niger,NER,1978,290
+Nigeria,NGA,1978,550
+Norway,NOR,1978,11110
+Pakistan,PAK,1978,260
+Panama,PAN,1978,1350
+Paraguay,PRY,1978,NA
+Peru,PER,1978,870
+Philippines,PHL,1978,500
+Poland,POL,1978,NA
+Portugal,PRT,1978,2530
+Romania,ROM,1978,NA
+Rwanda,RWA,1978,180
+Senegal,SEN,1978,460
+Serbia,SRB,1978,NA
+Sierra Leone,SLE,1978,260
+Slovak Republic,SVK,1978,NA
+Slovenia,SVN,1978,NA
+Sri Lanka,LKA,1978,250
+South Africa,ZAF,1978,1610
+Sudan,SDN,1978,420
+Suriname,SUR,1978,1910
+Swaziland,SWZ,1978,NA
+Sweden,SWE,1978,12460
+Tajikistan,TJK,1978,NA
+Tanzania,TZA,1978,NA
+Thailand,THA,1978,530
+Togo,TGO,1978,330
+Tunisia,TUN,1978,940
+Turkmenistan,TKM,1978,NA
+Uganda,UGA,1978,NA
+Ukraine,UKR,1978,NA
+United Arab Emirates,ARE,1978,NA
+Uruguay,URY,1978,1630
+Uzbekistan,UZB,1978,NA
+"Venezuela, RB",VEN,1978,3310
+Vietnam,VNM,1978,NA
+"Yemen, Rep.",YEM,1978,NA
+Zambia,ZMB,1978,490
+Zimbabwe,ZWE,1978,660
+Argentina,ARG,1979,2600
+Australia,AUS,1979,9600
+Brazil,BRA,1979,1950
+China,CHN,1979,210
+France,FRA,1979,10830
+Germany,DEU,1979,11070
+India,IND,1979,230
+Indonesia,IDN,1979,430
+Italy,ITA,1979,6720
+Japan,JPN,1979,9280
+"Korea, Rep.",KOR,1979,1640
+Mexico,MEX,1979,1820
+Netherlands,NLD,1979,12650
+Russian Federation,RUS,1979,NA
+Saudi Arabia,SAU,1979,11610
+Spain,ESP,1979,5010
+Switzerland,CHE,1979,NA
+Turkey,TUR,1979,1820
+United Kingdom,GBR,1979,7010
+United States,USA,1979,12230
+Afghanistan,AFG,1979,NA
+Algeria,DZA,1979,1660
+Albania,ALB,1979,NA
+Angola,AGO,1979,NA
+Armenia,ARM,1979,NA
+Austria,AUT,1979,9580
+Azerbaijan,AZE,1979,NA
+Bangladesh,BGD,1979,190
+Belarus,BLR,1979,NA
+Belgium,BEL,1979,11770
+Belize,BLZ,1979,1120
+Benin,BEN,1979,310
+Bolivia,BOL,1979,840
+Bosnia and Herzegovina,BIH,1979,NA
+Botswana,BWA,1979,800
+Bulgaria,BGR,1979,NA
+Burkina Faso,BFA,1979,250
+Cambodia,KHM,1979,NA
+Cameroon,CMR,1979,600
+Canada,CAN,1979,10530
+Central African Republic,CAF,1979,300
+Chad,TCD,1979,220
+Chile,CHL,1979,1740
+Colombia,COL,1979,1060
+"Congo, Rep.",COG,1979,610
+Costa Rica,CRI,1979,1770
+Cote d'Ivoire,CIV,1979,1100
+Croatia,HRV,1979,NA
+Cuba,CUB,1979,2000
+Cyprus,CYP,1979,2410
+Czech Republic,CZE,1979,NA
+Denmark,DNK,1979,13670
+Dominican Republic,DOM,1979,1030
+Ecuador,ECU,1979,1840
+"Egypt, Arab Rep.",EGY,1979,410
+El Salvador,SLV,1979,770
+Estonia,EST,1979,NA
+Ethiopia,ETH,1979,NA
+Finland,FIN,1979,9540
+"Gambia, The",GMB,1979,330
+Gabon,GAB,1979,3510
+Georgia,GEO,1979,NA
+Ghana,GHA,1979,390
+Greece,GRC,1979,5640
+Guatemala,GTM,1979,1060
+Guinea,GIN,1979,NA
+Guinea-Bissau,GNB,1979,170
+Guyana,GUY,1979,670
+Haiti,HTI,1979,NA
+Honduras,HND,1979,630
+Hungary,HUN,1979,NA
+Iceland,ISL,1979,13110
+Jamaica,JAM,1979,1320
+Jordan,JOR,1979,1610
+Kazakhstan,KAZ,1979,NA
+Kenya,KEN,1979,400
+Kyrgyz Republic,KGZ,1979,NA
+Lao PDR,LAO,1979,NA
+Latvia,LVA,1979,NA
+Lebanon,LBN,1979,NA
+Lesotho,LSO,1979,410
+Liberia,LBR,1979,520
+Libya,LBY,1979,NA
+Lithuania,LTU,1979,NA
+Luxembourg,LUX,1979,10870
+"Macedonia, FYR",MKD,1979,NA
+Malawi,MWI,1979,170
+Malaysia,MYS,1979,1490
+Mali,MLI,1979,230
+Malta,MLT,1979,3300
+Mauritania,MRT,1979,430
+Moldova,MDA,1979,NA
+Mongolia,MNG,1979,NA
+Montenegro,MNE,1979,NA
+Morocco,MAR,1979,790
+Mozambique,MOZ,1979,NA
+Myanmar,MMR,1979,NA
+Namibia,NAM,1979,NA
+Nepal,NPL,1979,130
+New Zealand,NZL,1979,6530
+Nicaragua,NIC,1979,500
+Niger,NER,1979,360
+Nigeria,NGA,1979,640
+Norway,NOR,1979,13110
+Pakistan,PAK,1979,290
+Panama,PAN,1979,1520
+Paraguay,PRY,1979,NA
+Peru,PER,1979,910
+Philippines,PHL,1979,590
+Poland,POL,1979,NA
+Portugal,PRT,1979,2870
+Romania,ROM,1979,NA
+Rwanda,RWA,1979,230
+Senegal,SEN,1979,570
+Serbia,SRB,1979,NA
+Sierra Leone,SLE,1979,330
+Slovak Republic,SVK,1979,NA
+Slovenia,SVN,1979,NA
+Sri Lanka,LKA,1979,270
+South Africa,ZAF,1979,1940
+Sudan,SDN,1979,460
+Suriname,SUR,1979,2070
+Swaziland,SWZ,1979,NA
+Sweden,SWE,1979,14790
+Tajikistan,TJK,1979,NA
+Tanzania,TZA,1979,NA
+Thailand,THA,1979,610
+Togo,TGO,1979,350
+Tunisia,TUN,1979,1130
+Turkmenistan,TKM,1979,NA
+Uganda,UGA,1979,NA
+Ukraine,UKR,1979,NA
+United Arab Emirates,ARE,1979,NA
+Uruguay,URY,1979,2150
+Uzbekistan,UZB,1979,NA
+"Venezuela, RB",VEN,1979,3760
+Vietnam,VNM,1979,NA
+"Yemen, Rep.",YEM,1979,NA
+Zambia,ZMB,1979,520
+Zimbabwe,ZWE,1979,740
+Argentina,ARG,1980,2940
+Australia,AUS,1980,10830
+Brazil,BRA,1980,2180
+China,CHN,1980,220
+France,FRA,1980,13100
+Germany,DEU,1980,13020
+India,IND,1980,270
+Indonesia,IDN,1980,510
+Italy,ITA,1980,8410
+Japan,JPN,1980,10670
+"Korea, Rep.",KOR,1980,1900
+Mexico,MEX,1980,2420
+Netherlands,NLD,1980,14700
+Russian Federation,RUS,1980,NA
+Saudi Arabia,SAU,1980,14430
+Spain,ESP,1980,6230
+Switzerland,CHE,1980,NA
+Turkey,TUR,1980,1860
+United Kingdom,GBR,1980,8830
+United States,USA,1980,13410
+Afghanistan,AFG,1980,NA
+Algeria,DZA,1980,1990
+Albania,ALB,1980,NA
+Angola,AGO,1980,NA
+Armenia,ARM,1980,NA
+Austria,AUT,1980,11420
+Azerbaijan,AZE,1980,NA
+Bangladesh,BGD,1980,220
+Belarus,BLR,1980,NA
+Belgium,BEL,1980,14020
+Belize,BLZ,1980,1430
+Benin,BEN,1980,390
+Bolivia,BOL,1980,910
+Bosnia and Herzegovina,BIH,1980,NA
+Botswana,BWA,1980,1000
+Bulgaria,BGR,1980,NA
+Burkina Faso,BFA,1980,300
+Cambodia,KHM,1980,NA
+Cameroon,CMR,1980,610
+Canada,CAN,1980,11510
+Central African Republic,CAF,1980,340
+Chad,TCD,1980,240
+Chile,CHL,1980,2240
+Colombia,COL,1980,1250
+"Congo, Rep.",COG,1980,820
+Costa Rica,CRI,1980,1980
+Cote d'Ivoire,CIV,1980,1130
+Croatia,HRV,1980,NA
+Cuba,CUB,1980,2150
+Cyprus,CYP,1980,3410
+Czech Republic,CZE,1980,NA
+Denmark,DNK,1980,15240
+Dominican Republic,DOM,1980,1150
+Ecuador,ECU,1980,2150
+"Egypt, Arab Rep.",EGY,1980,480
+El Salvador,SLV,1980,750
+Estonia,EST,1980,NA
+Ethiopia,ETH,1980,NA
+Finland,FIN,1980,11450
+"Gambia, The",GMB,1980,400
+Gabon,GAB,1980,4590
+Georgia,GEO,1980,NA
+Ghana,GHA,1980,430
+Greece,GRC,1980,6490
+Guatemala,GTM,1980,1190
+Guinea,GIN,1980,NA
+Guinea-Bissau,GNB,1980,140
+Guyana,GUY,1980,760
+Haiti,HTI,1980,NA
+Honduras,HND,1980,690
+Hungary,HUN,1980,NA
+Iceland,ISL,1980,15360
+Jamaica,JAM,1980,1230
+Jordan,JOR,1980,2000
+Kazakhstan,KAZ,1980,NA
+Kenya,KEN,1980,460
+Kyrgyz Republic,KGZ,1980,NA
+Lao PDR,LAO,1980,NA
+Latvia,LVA,1980,NA
+Lebanon,LBN,1980,NA
+Lesotho,LSO,1980,450
+Liberia,LBR,1980,520
+Libya,LBY,1980,NA
+Lithuania,LTU,1980,NA
+Luxembourg,LUX,1980,13000
+"Macedonia, FYR",MKD,1980,NA
+Malawi,MWI,1980,190
+Malaysia,MYS,1980,1820
+Mali,MLI,1980,260
+Malta,MLT,1980,4280
+Mauritania,MRT,1980,480
+Moldova,MDA,1980,NA
+Mongolia,MNG,1980,NA
+Montenegro,MNE,1980,NA
+Morocco,MAR,1980,970
+Mozambique,MOZ,1980,NA
+Myanmar,MMR,1980,NA
+Namibia,NAM,1980,NA
+Nepal,NPL,1980,140
+New Zealand,NZL,1980,7670
+Nicaragua,NIC,1980,600
+Niger,NER,1980,420
+Nigeria,NGA,1980,760
+Norway,NOR,1980,15650
+Pakistan,PAK,1980,340
+Panama,PAN,1980,1580
+Paraguay,PRY,1980,NA
+Peru,PER,1980,1060
+Philippines,PHL,1980,700
+Poland,POL,1980,NA
+Portugal,PRT,1980,3360
+Romania,ROM,1980,NA
+Rwanda,RWA,1980,270
+Senegal,SEN,1980,630
+Serbia,SRB,1980,NA
+Sierra Leone,SLE,1980,390
+Slovak Republic,SVK,1980,NA
+Slovenia,SVN,1980,NA
+Sri Lanka,LKA,1980,280
+South Africa,ZAF,1980,2510
+Sudan,SDN,1980,480
+Suriname,SUR,1980,2260
+Swaziland,SWZ,1980,NA
+Sweden,SWE,1980,17300
+Tajikistan,TJK,1980,NA
+Tanzania,TZA,1980,NA
+Thailand,THA,1980,710
+Togo,TGO,1980,420
+Tunisia,TUN,1980,1360
+Turkmenistan,TKM,1980,NA
+Uganda,UGA,1980,NA
+Ukraine,UKR,1980,NA
+United Arab Emirates,ARE,1980,NA
+Uruguay,URY,1980,2870
+Uzbekistan,UZB,1980,NA
+"Venezuela, RB",VEN,1980,4200
+Vietnam,VNM,1980,NA
+"Yemen, Rep.",YEM,1980,NA
+Zambia,ZMB,1980,620
+Zimbabwe,ZWE,1980,920
+Argentina,ARG,1981,2810
+Australia,AUS,1981,11870
+Brazil,BRA,1981,2080
+China,CHN,1981,220
+France,FRA,1981,13220
+Germany,DEU,1981,12560
+India,IND,1981,300
+Indonesia,IDN,1981,580
+Italy,ITA,1981,8690
+Japan,JPN,1981,10940
+"Korea, Rep.",KOR,1981,2070
+Mexico,MEX,1981,3050
+Netherlands,NLD,1981,13880
+Russian Federation,RUS,1981,NA
+Saudi Arabia,SAU,1981,17050
+Spain,ESP,1981,6320
+Switzerland,CHE,1981,NA
+Turkey,TUR,1981,1860
+United Kingdom,GBR,1981,9860
+United States,USA,1981,14400
+Afghanistan,AFG,1981,NA
+Algeria,DZA,1981,2210
+Albania,ALB,1981,NA
+Angola,AGO,1981,NA
+Armenia,ARM,1981,NA
+Austria,AUT,1981,11130
+Azerbaijan,AZE,1981,NA
+Bangladesh,BGD,1981,250
+Belarus,BLR,1981,NA
+Belgium,BEL,1981,13240
+Belize,BLZ,1981,1420
+Benin,BEN,1981,410
+Bolivia,BOL,1981,1070
+Bosnia and Herzegovina,BIH,1981,NA
+Botswana,BWA,1981,1210
+Bulgaria,BGR,1981,NA
+Burkina Faso,BFA,1981,300
+Cambodia,KHM,1981,NA
+Cameroon,CMR,1981,810
+Canada,CAN,1981,12280
+Central African Republic,CAF,1981,340
+Chad,TCD,1981,230
+Chile,CHL,1981,2640
+Colombia,COL,1981,1340
+"Congo, Rep.",COG,1981,1080
+Costa Rica,CRI,1981,1440
+Cote d'Ivoire,CIV,1981,1100
+Croatia,HRV,1981,NA
+Cuba,CUB,1981,2430
+Cyprus,CYP,1981,4070
+Czech Republic,CZE,1981,NA
+Denmark,DNK,1981,14330
+Dominican Republic,DOM,1981,1230
+Ecuador,ECU,1981,2500
+"Egypt, Arab Rep.",EGY,1981,510
+El Salvador,SLV,1981,720
+Estonia,EST,1981,NA
+Ethiopia,ETH,1981,NA
+Finland,FIN,1981,11980
+"Gambia, The",GMB,1981,410
+Gabon,GAB,1981,5290
+Georgia,GEO,1981,NA
+Ghana,GHA,1981,420
+Greece,GRC,1981,6360
+Guatemala,GTM,1981,1230
+Guinea,GIN,1981,NA
+Guinea-Bissau,GNB,1981,180
+Guyana,GUY,1981,740
+Haiti,HTI,1981,NA
+Honduras,HND,1981,740
+Hungary,HUN,1981,NA
+Iceland,ISL,1981,16160
+Jamaica,JAM,1981,1310
+Jordan,JOR,1981,2110
+Kazakhstan,KAZ,1981,NA
+Kenya,KEN,1981,450
+Kyrgyz Republic,KGZ,1981,NA
+Lao PDR,LAO,1981,NA
+Latvia,LVA,1981,NA
+Lebanon,LBN,1981,NA
+Lesotho,LSO,1981,530
+Liberia,LBR,1981,500
+Libya,LBY,1981,NA
+Lithuania,LTU,1981,NA
+Luxembourg,LUX,1981,13000
+"Macedonia, FYR",MKD,1981,NA
+Malawi,MWI,1981,190
+Malaysia,MYS,1981,1960
+Mali,MLI,1981,250
+Malta,MLT,1981,4670
+Mauritania,MRT,1981,480
+Moldova,MDA,1981,NA
+Mongolia,MNG,1981,NA
+Montenegro,MNE,1981,NA
+Morocco,MAR,1981,940
+Mozambique,MOZ,1981,NA
+Myanmar,MMR,1981,NA
+Namibia,NAM,1981,NA
+Nepal,NPL,1981,160
+New Zealand,NZL,1981,8240
+Nicaragua,NIC,1981,660
+Niger,NER,1981,410
+Nigeria,NGA,1981,760
+Norway,NOR,1981,16420
+Pakistan,PAK,1981,380
+Panama,PAN,1981,1840
+Paraguay,PRY,1981,NA
+Peru,PER,1981,1200
+Philippines,PHL,1981,750
+Poland,POL,1981,NA
+Portugal,PRT,1981,3430
+Romania,ROM,1981,NA
+Rwanda,RWA,1981,280
+Senegal,SEN,1981,640
+Serbia,SRB,1981,NA
+Sierra Leone,SLE,1981,380
+Slovak Republic,SVK,1981,NA
+Slovenia,SVN,1981,NA
+Sri Lanka,LKA,1981,310
+South Africa,ZAF,1981,2940
+Sudan,SDN,1981,490
+Suriname,SUR,1981,2510
+Swaziland,SWZ,1981,NA
+Sweden,SWE,1981,17530
+Tajikistan,TJK,1981,NA
+Tanzania,TZA,1981,NA
+Thailand,THA,1981,760
+Togo,TGO,1981,390
+Tunisia,TUN,1981,1420
+Turkmenistan,TKM,1981,NA
+Uganda,UGA,1981,NA
+Ukraine,UKR,1981,NA
+United Arab Emirates,ARE,1981,NA
+Uruguay,URY,1981,3650
+Uzbekistan,UZB,1981,NA
+"Venezuela, RB",VEN,1981,4700
+Vietnam,VNM,1981,NA
+"Yemen, Rep.",YEM,1981,NA
+Zambia,ZMB,1981,710
+Zimbabwe,ZWE,1981,1080
+Argentina,ARG,1982,2570
+Australia,AUS,1982,12080
+Brazil,BRA,1982,2000
+China,CHN,1982,220
+France,FRA,1982,12070
+Germany,DEU,1982,11140
+India,IND,1982,290
+Indonesia,IDN,1982,600
+Italy,ITA,1982,8190
+Japan,JPN,1982,10380
+"Korea, Rep.",KOR,1982,2080
+Mexico,MEX,1982,2730
+Netherlands,NLD,1982,12240
+Russian Federation,RUS,1982,NA
+Saudi Arabia,SAU,1982,15480
+Spain,ESP,1982,5690
+Switzerland,CHE,1982,19100
+Turkey,TUR,1982,1570
+United Kingdom,GBR,1982,9870
+United States,USA,1982,14230
+Afghanistan,AFG,1982,NA
+Algeria,DZA,1982,2260
+Albania,ALB,1982,NA
+Angola,AGO,1982,NA
+Armenia,ARM,1982,NA
+Austria,AUT,1982,10350
+Azerbaijan,AZE,1982,NA
+Bangladesh,BGD,1982,240
+Belarus,BLR,1982,NA
+Belgium,BEL,1982,11220
+Belize,BLZ,1982,1270
+Benin,BEN,1982,360
+Bolivia,BOL,1982,900
+Bosnia and Herzegovina,BIH,1982,NA
+Botswana,BWA,1982,1160
+Bulgaria,BGR,1982,2390
+Burkina Faso,BFA,1982,280
+Cambodia,KHM,1982,NA
+Cameroon,CMR,1982,820
+Canada,CAN,1982,11820
+Central African Republic,CAF,1982,330
+Chad,TCD,1982,210
+Chile,CHL,1982,2190
+Colombia,COL,1982,1320
+"Congo, Rep.",COG,1982,1210
+Costa Rica,CRI,1982,1030
+Cote d'Ivoire,CIV,1982,930
+Croatia,HRV,1982,NA
+Cuba,CUB,1982,2340
+Cyprus,CYP,1982,4510
+Czech Republic,CZE,1982,NA
+Denmark,DNK,1982,12980
+Dominican Republic,DOM,1982,1240
+Ecuador,ECU,1982,2450
+"Egypt, Arab Rep.",EGY,1982,530
+El Salvador,SLV,1982,670
+Estonia,EST,1982,NA
+Ethiopia,ETH,1982,NA
+Finland,FIN,1982,11700
+"Gambia, The",GMB,1982,350
+Gabon,GAB,1982,4840
+Georgia,GEO,1982,NA
+Ghana,GHA,1982,360
+Greece,GRC,1982,5900
+Guatemala,GTM,1982,1150
+Guinea,GIN,1982,NA
+Guinea-Bissau,GNB,1982,190
+Guyana,GUY,1982,590
+Haiti,HTI,1982,NA
+Honduras,HND,1982,700
+Hungary,HUN,1982,NA
+Iceland,ISL,1982,15020
+Jamaica,JAM,1982,1360
+Jordan,JOR,1982,2080
+Kazakhstan,KAZ,1982,NA
+Kenya,KEN,1982,400
+Kyrgyz Republic,KGZ,1982,NA
+Lao PDR,LAO,1982,NA
+Latvia,LVA,1982,NA
+Lebanon,LBN,1982,NA
+Lesotho,LSO,1982,620
+Liberia,LBR,1982,440
+Libya,LBY,1982,NA
+Lithuania,LTU,1982,NA
+Luxembourg,LUX,1982,12540
+"Macedonia, FYR",MKD,1982,NA
+Malawi,MWI,1982,180
+Malaysia,MYS,1982,1890
+Mali,MLI,1982,210
+Malta,MLT,1982,4550
+Mauritania,MRT,1982,440
+Moldova,MDA,1982,NA
+Mongolia,MNG,1982,NA
+Montenegro,MNE,1982,NA
+Morocco,MAR,1982,920
+Mozambique,MOZ,1982,280
+Myanmar,MMR,1982,NA
+Namibia,NAM,1982,2080
+Nepal,NPL,1982,160
+New Zealand,NZL,1982,7860
+Nicaragua,NIC,1982,680
+Niger,NER,1982,360
+Nigeria,NGA,1982,730
+Norway,NOR,1982,15750
+Pakistan,PAK,1982,390
+Panama,PAN,1982,2120
+Paraguay,PRY,1982,NA
+Peru,PER,1982,1170
+Philippines,PHL,1982,740
+Poland,POL,1982,NA
+Portugal,PRT,1982,3230
+Romania,ROM,1982,NA
+Rwanda,RWA,1982,270
+Senegal,SEN,1982,590
+Serbia,SRB,1982,NA
+Sierra Leone,SLE,1982,370
+Slovak Republic,SVK,1982,NA
+Slovenia,SVN,1982,NA
+Sri Lanka,LKA,1982,320
+South Africa,ZAF,1982,2890
+Sudan,SDN,1982,470
+Suriname,SUR,1982,2450
+Swaziland,SWZ,1982,NA
+Sweden,SWE,1982,15760
+Tajikistan,TJK,1982,NA
+Tanzania,TZA,1982,NA
+Thailand,THA,1982,760
+Togo,TGO,1982,320
+Tunisia,TUN,1982,1280
+Turkmenistan,TKM,1982,NA
+Uganda,UGA,1982,NA
+Ukraine,UKR,1982,NA
+United Arab Emirates,ARE,1982,NA
+Uruguay,URY,1982,3290
+Uzbekistan,UZB,1982,NA
+"Venezuela, RB",VEN,1982,4620
+Vietnam,VNM,1982,NA
+"Yemen, Rep.",YEM,1982,NA
+Zambia,ZMB,1982,620
+Zimbabwe,ZWE,1982,1060
+Argentina,ARG,1983,2800
+Australia,AUS,1983,11590
+Brazil,BRA,1983,1710
+China,CHN,1983,220
+France,FRA,1983,10470
+Germany,DEU,1983,10030
+India,IND,1983,290
+Indonesia,IDN,1983,580
+Italy,ITA,1983,7610
+Japan,JPN,1983,10060
+"Korea, Rep.",KOR,1983,2200
+Mexico,MEX,1983,2190
+Netherlands,NLD,1983,10970
+Russian Federation,RUS,1983,NA
+Saudi Arabia,SAU,1983,12780
+Spain,ESP,1983,4870
+Switzerland,CHE,1983,17730
+Turkey,TUR,1983,1400
+United Kingdom,GBR,1983,9130
+United States,USA,1983,14590
+Afghanistan,AFG,1983,NA
+Algeria,DZA,1983,2180
+Albania,ALB,1983,NA
+Angola,AGO,1983,NA
+Armenia,ARM,1983,NA
+Austria,AUT,1983,9570
+Azerbaijan,AZE,1983,NA
+Bangladesh,BGD,1983,220
+Belarus,BLR,1983,NA
+Belgium,BEL,1983,9460
+Belize,BLZ,1983,1130
+Benin,BEN,1983,290
+Bolivia,BOL,1983,900
+Bosnia and Herzegovina,BIH,1983,NA
+Botswana,BWA,1983,1050
+Bulgaria,BGR,1983,2130
+Burkina Faso,BFA,1983,240
+Cambodia,KHM,1983,NA
+Cameroon,CMR,1983,760
+Canada,CAN,1983,12090
+Central African Republic,CAF,1983,260
+Chad,TCD,1983,190
+Chile,CHL,1983,1780
+Colombia,COL,1983,1270
+"Congo, Rep.",COG,1983,1070
+Costa Rica,CRI,1983,1040
+Cote d'Ivoire,CIV,1983,700
+Croatia,HRV,1983,NA
+Cuba,CUB,1983,2180
+Cyprus,CYP,1983,4220
+Czech Republic,CZE,1983,NA
+Denmark,DNK,1983,11800
+Dominican Republic,DOM,1983,1250
+Ecuador,ECU,1983,2160
+"Egypt, Arab Rep.",EGY,1983,530
+El Salvador,SLV,1983,660
+Estonia,EST,1983,NA
+Ethiopia,ETH,1983,210
+Finland,FIN,1983,10840
+"Gambia, The",GMB,1983,320
+Gabon,GAB,1983,4260
+Georgia,GEO,1983,NA
+Ghana,GHA,1983,320
+Greece,GRC,1983,5270
+Guatemala,GTM,1983,1100
+Guinea,GIN,1983,NA
+Guinea-Bissau,GNB,1983,180
+Guyana,GUY,1983,520
+Haiti,HTI,1983,NA
+Honduras,HND,1983,680
+Hungary,HUN,1983,NA
+Iceland,ISL,1983,12510
+Jamaica,JAM,1983,1350
+Jordan,JOR,1983,1960
+Kazakhstan,KAZ,1983,NA
+Kenya,KEN,1983,340
+Kyrgyz Republic,KGZ,1983,NA
+Lao PDR,LAO,1983,NA
+Latvia,LVA,1983,NA
+Lebanon,LBN,1983,NA
+Lesotho,LSO,1983,550
+Liberia,LBR,1983,360
+Libya,LBY,1983,NA
+Lithuania,LTU,1983,NA
+Luxembourg,LUX,1983,11320
+"Macedonia, FYR",MKD,1983,NA
+Malawi,MWI,1983,170
+Malaysia,MYS,1983,1820
+Mali,MLI,1983,190
+Malta,MLT,1983,3940
+Mauritania,MRT,1983,420
+Moldova,MDA,1983,NA
+Mongolia,MNG,1983,1440
+Montenegro,MNE,1983,NA
+Morocco,MAR,1983,760
+Mozambique,MOZ,1983,230
+Myanmar,MMR,1983,NA
+Namibia,NAM,1983,1920
+Nepal,NPL,1983,150
+New Zealand,NZL,1983,7370
+Nicaragua,NIC,1983,690
+Niger,NER,1983,290
+Nigeria,NGA,1983,550
+Norway,NOR,1983,14940
+Pakistan,PAK,1983,380
+Panama,PAN,1983,2060
+Paraguay,PRY,1983,NA
+Peru,PER,1983,960
+Philippines,PHL,1983,670
+Poland,POL,1983,NA
+Portugal,PRT,1983,2830
+Romania,ROM,1983,NA
+Rwanda,RWA,1983,260
+Senegal,SEN,1983,470
+Serbia,SRB,1983,NA
+Sierra Leone,SLE,1983,320
+Slovak Republic,SVK,1983,NA
+Slovenia,SVN,1983,NA
+Sri Lanka,LKA,1983,320
+South Africa,ZAF,1983,2650
+Sudan,SDN,1983,430
+Suriname,SUR,1983,2300
+Swaziland,SWZ,1983,NA
+Sweden,SWE,1983,13550
+Tajikistan,TJK,1983,NA
+Tanzania,TZA,1983,NA
+Thailand,THA,1983,760
+Togo,TGO,1983,250
+Tunisia,TUN,1983,1180
+Turkmenistan,TKM,1983,NA
+Uganda,UGA,1983,NA
+Ukraine,UKR,1983,NA
+United Arab Emirates,ARE,1983,NA
+Uruguay,URY,1983,2190
+Uzbekistan,UZB,1983,NA
+"Venezuela, RB",VEN,1983,4350
+Vietnam,VNM,1983,NA
+"Yemen, Rep.",YEM,1983,NA
+Zambia,ZMB,1983,520
+Zimbabwe,ZWE,1983,970
+Argentina,ARG,1984,2820
+Australia,AUS,1984,12030
+Brazil,BRA,1984,1620
+China,CHN,1984,250
+France,FRA,1984,9840
+Germany,DEU,1984,9890
+India,IND,1984,290
+Indonesia,IDN,1984,560
+Italy,ITA,1984,7740
+Japan,JPN,1984,10310
+"Korea, Rep.",KOR,1984,2360
+Mexico,MEX,1984,2030
+Netherlands,NLD,1984,10630
+Russian Federation,RUS,1984,NA
+Saudi Arabia,SAU,1984,10730
+Spain,ESP,1984,4590
+Switzerland,CHE,1984,17960
+Turkey,TUR,1984,1310
+United Kingdom,GBR,1984,8580
+United States,USA,1984,16230
+Afghanistan,AFG,1984,NA
+Algeria,DZA,1984,2240
+Albania,ALB,1984,NA
+Angola,AGO,1984,NA
+Armenia,ARM,1984,NA
+Austria,AUT,1984,9240
+Azerbaijan,AZE,1984,NA
+Bangladesh,BGD,1984,210
+Belarus,BLR,1984,NA
+Belgium,BEL,1984,8890
+Belize,BLZ,1984,1130
+Benin,BEN,1984,270
+Bolivia,BOL,1984,870
+Bosnia and Herzegovina,BIH,1984,NA
+Botswana,BWA,1984,980
+Bulgaria,BGR,1984,2040
+Burkina Faso,BFA,1984,210
+Cambodia,KHM,1984,NA
+Cameroon,CMR,1984,760
+Canada,CAN,1984,13000
+Central African Republic,CAF,1984,270
+Chad,TCD,1984,180
+Chile,CHL,1984,1600
+Colombia,COL,1984,1270
+"Congo, Rep.",COG,1984,1050
+Costa Rica,CRI,1984,1300
+Cote d'Ivoire,CIV,1984,640
+Croatia,HRV,1984,NA
+Cuba,CUB,1984,2310
+Cyprus,CYP,1984,4360
+Czech Republic,CZE,1984,NA
+Denmark,DNK,1984,11610
+Dominican Republic,DOM,1984,1350
+Ecuador,ECU,1984,1940
+"Egypt, Arab Rep.",EGY,1984,560
+El Salvador,SLV,1984,690
+Estonia,EST,1984,NA
+Ethiopia,ETH,1984,200
+Finland,FIN,1984,10790
+"Gambia, The",GMB,1984,300
+Gabon,GAB,1984,4310
+Georgia,GEO,1984,NA
+Ghana,GHA,1984,340
+Greece,GRC,1984,5130
+Guatemala,GTM,1984,1120
+Guinea,GIN,1984,NA
+Guinea-Bissau,GNB,1984,180
+Guyana,GUY,1984,480
+Haiti,HTI,1984,NA
+Honduras,HND,1984,720
+Hungary,HUN,1984,NA
+Iceland,ISL,1984,11830
+Jamaica,JAM,1984,1140
+Jordan,JOR,1984,1970
+Kazakhstan,KAZ,1984,NA
+Kenya,KEN,1984,320
+Kyrgyz Republic,KGZ,1984,NA
+Lao PDR,LAO,1984,NA
+Latvia,LVA,1984,NA
+Lebanon,LBN,1984,NA
+Lesotho,LSO,1984,490
+Liberia,LBR,1984,360
+Libya,LBY,1984,NA
+Lithuania,LTU,1984,NA
+Luxembourg,LUX,1984,10970
+"Macedonia, FYR",MKD,1984,NA
+Malawi,MWI,1984,170
+Malaysia,MYS,1984,1970
+Mali,MLI,1984,180
+Malta,MLT,1984,3830
+Mauritania,MRT,1984,400
+Moldova,MDA,1984,NA
+Mongolia,MNG,1984,1320
+Montenegro,MNE,1984,NA
+Morocco,MAR,1984,700
+Mozambique,MOZ,1984,230
+Myanmar,MMR,1984,NA
+Namibia,NAM,1984,1750
+Nepal,NPL,1984,160
+New Zealand,NZL,1984,7010
+Nicaragua,NIC,1984,710
+Niger,NER,1984,220
+Nigeria,NGA,1984,420
+Norway,NOR,1984,15150
+Pakistan,PAK,1984,370
+Panama,PAN,1984,2070
+Paraguay,PRY,1984,NA
+Peru,PER,1984,930
+Philippines,PHL,1984,570
+Poland,POL,1984,NA
+Portugal,PRT,1984,2520
+Romania,ROM,1984,NA
+Rwanda,RWA,1984,250
+Senegal,SEN,1984,430
+Serbia,SRB,1984,NA
+Sierra Leone,SLE,1984,310
+Slovak Republic,SVK,1984,NA
+Slovenia,SVN,1984,NA
+Sri Lanka,LKA,1984,340
+South Africa,ZAF,1984,2660
+Sudan,SDN,1984,390
+Suriname,SUR,1984,2260
+Swaziland,SWZ,1984,NA
+Sweden,SWE,1984,13020
+Tajikistan,TJK,1984,NA
+Tanzania,TZA,1984,NA
+Thailand,THA,1984,790
+Togo,TGO,1984,230
+Tunisia,TUN,1984,1180
+Turkmenistan,TKM,1984,NA
+Uganda,UGA,1984,180
+Ukraine,UKR,1984,NA
+United Arab Emirates,ARE,1984,NA
+Uruguay,URY,1984,1740
+Uzbekistan,UZB,1984,NA
+"Venezuela, RB",VEN,1984,3860
+Vietnam,VNM,1984,NA
+"Yemen, Rep.",YEM,1984,NA
+Zambia,ZMB,1984,430
+Zimbabwe,ZWE,1984,840
+Argentina,ARG,1985,2650
+Australia,AUS,1985,12020
+Brazil,BRA,1985,1570
+China,CHN,1985,290
+France,FRA,1985,9790
+Germany,DEU,1985,9850
+India,IND,1985,300
+Indonesia,IDN,1985,530
+Italy,ITA,1985,8010
+Japan,JPN,1985,11360
+"Korea, Rep.",KOR,1985,2510
+Mexico,MEX,1985,2110
+Netherlands,NLD,1985,10240
+Russian Federation,RUS,1985,NA
+Saudi Arabia,SAU,1985,9220
+Spain,ESP,1985,4570
+Switzerland,CHE,1985,18060
+Turkey,TUR,1985,1310
+United Kingdom,GBR,1985,8450
+United States,USA,1985,17510
+Afghanistan,AFG,1985,NA
+Algeria,DZA,1985,2360
+Albania,ALB,1985,NA
+Angola,AGO,1985,NA
+Armenia,ARM,1985,NA
+Austria,AUT,1985,9330
+Azerbaijan,AZE,1985,NA
+Bangladesh,BGD,1985,220
+Belarus,BLR,1985,NA
+Belgium,BEL,1985,8850
+Belize,BLZ,1985,1180
+Benin,BEN,1985,260
+Bolivia,BOL,1985,850
+Bosnia and Herzegovina,BIH,1985,NA
+Botswana,BWA,1985,970
+Bulgaria,BGR,1985,1970
+Burkina Faso,BFA,1985,210
+Cambodia,KHM,1985,NA
+Cameroon,CMR,1985,780
+Canada,CAN,1985,13760
+Central African Republic,CAF,1985,280
+Chad,TCD,1985,210
+Chile,CHL,1985,1410
+Colombia,COL,1985,1210
+"Congo, Rep.",COG,1985,980
+Costa Rica,CRI,1985,1580
+Cote d'Ivoire,CIV,1985,620
+Croatia,HRV,1985,NA
+Cuba,CUB,1985,2310
+Cyprus,CYP,1985,4480
+Czech Republic,CZE,1985,NA
+Denmark,DNK,1985,11940
+Dominican Republic,DOM,1985,1040
+Ecuador,ECU,1985,1840
+"Egypt, Arab Rep.",EGY,1985,590
+El Salvador,SLV,1985,710
+Estonia,EST,1985,NA
+Ethiopia,ETH,1985,190
+Finland,FIN,1985,11130
+"Gambia, The",GMB,1985,310
+Gabon,GAB,1985,3870
+Georgia,GEO,1985,NA
+Ghana,GHA,1985,350
+Greece,GRC,1985,5010
+Guatemala,GTM,1985,1160
+Guinea,GIN,1985,NA
+Guinea-Bissau,GNB,1985,190
+Guyana,GUY,1985,520
+Haiti,HTI,1985,NA
+Honduras,HND,1985,780
+Hungary,HUN,1985,NA
+Iceland,ISL,1985,11870
+Jamaica,JAM,1985,940
+Jordan,JOR,1985,1930
+Kazakhstan,KAZ,1985,NA
+Kenya,KEN,1985,310
+Kyrgyz Republic,KGZ,1985,NA
+Lao PDR,LAO,1985,NA
+Latvia,LVA,1985,NA
+Lebanon,LBN,1985,NA
+Lesotho,LSO,1985,400
+Liberia,LBR,1985,360
+Libya,LBY,1985,NA
+Lithuania,LTU,1985,NA
+Luxembourg,LUX,1985,11020
+"Macedonia, FYR",MKD,1985,NA
+Malawi,MWI,1985,160
+Malaysia,MYS,1985,1930
+Mali,MLI,1985,160
+Malta,MLT,1985,3690
+Mauritania,MRT,1985,380
+Moldova,MDA,1985,NA
+Mongolia,MNG,1985,1230
+Montenegro,MNE,1985,NA
+Morocco,MAR,1985,650
+Mozambique,MOZ,1985,260
+Myanmar,MMR,1985,NA
+Namibia,NAM,1985,1380
+Nepal,NPL,1985,170
+New Zealand,NZL,1985,6950
+Nicaragua,NIC,1985,690
+Niger,NER,1985,220
+Nigeria,NGA,1985,370
+Norway,NOR,1985,15710
+Pakistan,PAK,1985,370
+Panama,PAN,1985,2300
+Paraguay,PRY,1985,NA
+Peru,PER,1985,870
+Philippines,PHL,1985,520
+Poland,POL,1985,NA
+Portugal,PRT,1985,2530
+Romania,ROM,1985,NA
+Rwanda,RWA,1985,260
+Senegal,SEN,1985,430
+Serbia,SRB,1985,NA
+Sierra Leone,SLE,1985,260
+Slovak Republic,SVK,1985,NA
+Slovenia,SVN,1985,NA
+Sri Lanka,LKA,1985,380
+South Africa,ZAF,1985,2400
+Sudan,SDN,1985,400
+Suriname,SUR,1985,2250
+Swaziland,SWZ,1985,NA
+Sweden,SWE,1985,13080
+Tajikistan,TJK,1985,NA
+Tanzania,TZA,1985,NA
+Thailand,THA,1985,790
+Togo,TGO,1985,230
+Tunisia,TUN,1985,1160
+Turkmenistan,TKM,1985,NA
+Uganda,UGA,1985,190
+Ukraine,UKR,1985,NA
+United Arab Emirates,ARE,1985,NA
+Uruguay,URY,1985,1510
+Uzbekistan,UZB,1985,NA
+"Venezuela, RB",VEN,1985,3490
+Vietnam,VNM,1985,NA
+"Yemen, Rep.",YEM,1985,NA
+Zambia,ZMB,1985,350
+Zimbabwe,ZWE,1985,740
+Argentina,ARG,1986,3020
+Australia,AUS,1986,12310
+Brazil,BRA,1986,1790
+China,CHN,1986,310
+France,FRA,1986,11350
+Germany,DEU,1986,11250
+India,IND,1986,320
+Indonesia,IDN,1986,530
+Italy,ITA,1986,9350
+Japan,JPN,1986,13650
+"Korea, Rep.",KOR,1986,2930
+Mexico,MEX,1986,1930
+Netherlands,NLD,1986,11590
+Russian Federation,RUS,1986,NA
+Saudi Arabia,SAU,1986,8610
+Spain,ESP,1986,5410
+Switzerland,CHE,1986,20340
+Turkey,TUR,1986,1440
+United Kingdom,GBR,1986,9470
+United States,USA,1986,19160
+Afghanistan,AFG,1986,NA
+Algeria,DZA,1986,2560
+Albania,ALB,1986,720
+Angola,AGO,1986,NA
+Armenia,ARM,1986,NA
+Austria,AUT,1986,10780
+Azerbaijan,AZE,1986,NA
+Bangladesh,BGD,1986,240
+Belarus,BLR,1986,NA
+Belgium,BEL,1986,10200
+Belize,BLZ,1986,1340
+Benin,BEN,1986,270
+Bolivia,BOL,1986,760
+Bosnia and Herzegovina,BIH,1986,NA
+Botswana,BWA,1986,1050
+Bulgaria,BGR,1986,2200
+Burkina Faso,BFA,1986,240
+Cambodia,KHM,1986,NA
+Cameroon,CMR,1986,900
+Canada,CAN,1986,14380
+Central African Republic,CAF,1986,330
+Chad,TCD,1986,210
+Chile,CHL,1986,1410
+Colombia,COL,1986,1220
+"Congo, Rep.",COG,1986,970
+Costa Rica,CRI,1986,1830
+Cote d'Ivoire,CIV,1986,720
+Croatia,HRV,1986,NA
+Cuba,CUB,1986,2390
+Cyprus,CYP,1986,5090
+Czech Republic,CZE,1986,NA
+Denmark,DNK,1986,14140
+Dominican Republic,DOM,1986,1000
+Ecuador,ECU,1986,1790
+"Egypt, Arab Rep.",EGY,1986,630
+El Salvador,SLV,1986,750
+Estonia,EST,1986,NA
+Ethiopia,ETH,1986,230
+Finland,FIN,1986,13010
+"Gambia, The",GMB,1986,310
+Gabon,GAB,1986,3850
+Georgia,GEO,1986,NA
+Ghana,GHA,1986,400
+Greece,GRC,1986,5350
+Guatemala,GTM,1986,1070
+Guinea,GIN,1986,NA
+Guinea-Bissau,GNB,1986,150
+Guyana,GUY,1986,540
+Haiti,HTI,1986,NA
+Honduras,HND,1986,830
+Hungary,HUN,1986,NA
+Iceland,ISL,1986,14170
+Jamaica,JAM,1986,960
+Jordan,JOR,1986,2120
+Kazakhstan,KAZ,1986,NA
+Kenya,KEN,1986,340
+Kyrgyz Republic,KGZ,1986,NA
+Lao PDR,LAO,1986,560
+Latvia,LVA,1986,NA
+Lebanon,LBN,1986,NA
+Lesotho,LSO,1986,390
+Liberia,LBR,1986,350
+Libya,LBY,1986,NA
+Lithuania,LTU,1986,NA
+Luxembourg,LUX,1986,13110
+"Macedonia, FYR",MKD,1986,NA
+Malawi,MWI,1986,150
+Malaysia,MYS,1986,1880
+Mali,MLI,1986,200
+Malta,MLT,1986,4000
+Mauritania,MRT,1986,400
+Moldova,MDA,1986,NA
+Mongolia,MNG,1986,1350
+Montenegro,MNE,1986,NA
+Morocco,MAR,1986,740
+Mozambique,MOZ,1986,310
+Myanmar,MMR,1986,NA
+Namibia,NAM,1986,1390
+Nepal,NPL,1986,180
+New Zealand,NZL,1986,7860
+Nicaragua,NIC,1986,760
+Niger,NER,1986,250
+Nigeria,NGA,1986,280
+Norway,NOR,1986,17550
+Pakistan,PAK,1986,360
+Panama,PAN,1986,2340
+Paraguay,PRY,1986,NA
+Peru,PER,1986,880
+Philippines,PHL,1986,540
+Poland,POL,1986,NA
+Portugal,PRT,1986,3080
+Romania,ROM,1986,NA
+Rwanda,RWA,1986,300
+Senegal,SEN,1986,500
+Serbia,SRB,1986,NA
+Sierra Leone,SLE,1986,190
+Slovak Republic,SVK,1986,NA
+Slovenia,SVN,1986,NA
+Sri Lanka,LKA,1986,410
+South Africa,ZAF,1986,2360
+Sudan,SDN,1986,550
+Suriname,SUR,1986,2310
+Swaziland,SWZ,1986,NA
+Sweden,SWE,1986,15330
+Tajikistan,TJK,1986,NA
+Tanzania,TZA,1986,NA
+Thailand,THA,1986,830
+Togo,TGO,1986,250
+Tunisia,TUN,1986,1140
+Turkmenistan,TKM,1986,NA
+Uganda,UGA,1986,250
+Ukraine,UKR,1986,NA
+United Arab Emirates,ARE,1986,NA
+Uruguay,URY,1986,1780
+Uzbekistan,UZB,1986,NA
+"Venezuela, RB",VEN,1986,3410
+Vietnam,VNM,1986,NA
+"Yemen, Rep.",YEM,1986,NA
+Zambia,ZMB,1986,260
+Zimbabwe,ZWE,1986,690
+Argentina,ARG,1987,3600
+Australia,AUS,1987,12560
+Brazil,BRA,1987,2040
+China,CHN,1987,320
+France,FRA,1987,14490
+Germany,DEU,1987,14250
+India,IND,1987,360
+Indonesia,IDN,1987,520
+Italy,ITA,1987,12120
+Japan,JPN,1987,17800
+"Korea, Rep.",KOR,1987,3600
+Mexico,MEX,1987,1900
+Netherlands,NLD,1987,14590
+Russian Federation,RUS,1987,NA
+Saudi Arabia,SAU,1987,7580
+Spain,ESP,1987,7120
+Switzerland,CHE,1987,25630
+Turkey,TUR,1987,1740
+United Kingdom,GBR,1987,11770
+United States,USA,1987,21460
+Afghanistan,AFG,1987,NA
+Algeria,DZA,1987,2770
+Albania,ALB,1987,760
+Angola,AGO,1987,810
+Armenia,ARM,1987,NA
+Austria,AUT,1987,13760
+Azerbaijan,AZE,1987,NA
+Bangladesh,BGD,1987,270
+Belarus,BLR,1987,NA
+Belgium,BEL,1987,13140
+Belize,BLZ,1987,1580
+Benin,BEN,1987,310
+Bolivia,BOL,1987,730
+Bosnia and Herzegovina,BIH,1987,NA
+Botswana,BWA,1987,1220
+Bulgaria,BGR,1987,2750
+Burkina Faso,BFA,1987,270
+Cambodia,KHM,1987,NA
+Cameroon,CMR,1987,1010
+Canada,CAN,1987,16110
+Central African Republic,CAF,1987,400
+Chad,TCD,1987,210
+Chile,CHL,1987,1560
+Colombia,COL,1987,1240
+"Congo, Rep.",COG,1987,1040
+Costa Rica,CRI,1987,2090
+Cote d'Ivoire,CIV,1987,800
+Croatia,HRV,1987,NA
+Cuba,CUB,1987,2490
+Cyprus,CYP,1987,6450
+Czech Republic,CZE,1987,NA
+Denmark,DNK,1987,17870
+Dominican Republic,DOM,1987,930
+Ecuador,ECU,1987,1660
+"Egypt, Arab Rep.",EGY,1987,780
+El Salvador,SLV,1987,810
+Estonia,EST,1987,NA
+Ethiopia,ETH,1987,280
+Finland,FIN,1987,16480
+"Gambia, The",GMB,1987,330
+Gabon,GAB,1987,3430
+Georgia,GEO,1987,NA
+Ghana,GHA,1987,420
+Greece,GRC,1987,6130
+Guatemala,GTM,1987,1020
+Guinea,GIN,1987,NA
+Guinea-Bissau,GNB,1987,170
+Guyana,GUY,1987,470
+Haiti,HTI,1987,NA
+Honduras,HND,1987,930
+Hungary,HUN,1987,NA
+Iceland,ISL,1987,19000
+Jamaica,JAM,1987,1180
+Jordan,JOR,1987,2340
+Kazakhstan,KAZ,1987,NA
+Kenya,KEN,1987,380
+Kyrgyz Republic,KGZ,1987,NA
+Lao PDR,LAO,1987,430
+Latvia,LVA,1987,NA
+Lebanon,LBN,1987,NA
+Lesotho,LSO,1987,420
+Liberia,LBR,1987,360
+Libya,LBY,1987,NA
+Lithuania,LTU,1987,NA
+Luxembourg,LUX,1987,16870
+"Macedonia, FYR",MKD,1987,NA
+Malawi,MWI,1987,150
+Malaysia,MYS,1987,1960
+Mali,MLI,1987,240
+Malta,MLT,1987,4930
+Mauritania,MRT,1987,440
+Moldova,MDA,1987,NA
+Mongolia,MNG,1987,1520
+Montenegro,MNE,1987,NA
+Morocco,MAR,1987,820
+Mozambique,MOZ,1987,280
+Myanmar,MMR,1987,NA
+Namibia,NAM,1987,1650
+Nepal,NPL,1987,190
+New Zealand,NZL,1987,10010
+Nicaragua,NIC,1987,860
+Niger,NER,1987,280
+Nigeria,NGA,1987,240
+Norway,NOR,1987,20830
+Pakistan,PAK,1987,390
+Panama,PAN,1987,2680
+Paraguay,PRY,1987,NA
+Peru,PER,1987,990
+Philippines,PHL,1987,600
+Poland,POL,1987,NA
+Portugal,PRT,1987,4160
+Romania,ROM,1987,NA
+Rwanda,RWA,1987,320
+Senegal,SEN,1987,640
+Serbia,SRB,1987,NA
+Sierra Leone,SLE,1987,190
+Slovak Republic,SVK,1987,NA
+Slovenia,SVN,1987,NA
+Sri Lanka,LKA,1987,440
+South Africa,ZAF,1987,2670
+Sudan,SDN,1987,800
+Suriname,SUR,1987,2300
+Swaziland,SWZ,1987,NA
+Sweden,SWE,1987,19360
+Tajikistan,TJK,1987,NA
+Tanzania,TZA,1987,NA
+Thailand,THA,1987,950
+Togo,TGO,1987,310
+Tunisia,TUN,1987,1270
+Turkmenistan,TKM,1987,NA
+Uganda,UGA,1987,310
+Ukraine,UKR,1987,NA
+United Arab Emirates,ARE,1987,NA
+Uruguay,URY,1987,2210
+Uzbekistan,UZB,1987,NA
+"Venezuela, RB",VEN,1987,3180
+Vietnam,VNM,1987,NA
+"Yemen, Rep.",YEM,1987,NA
+Zambia,ZMB,1987,270
+Zimbabwe,ZWE,1987,700
+Argentina,ARG,1988,3910
+Australia,AUS,1988,14130
+Brazil,BRA,1988,2250
+China,CHN,1988,330
+France,FRA,1988,18550
+Germany,DEU,1988,18640
+India,IND,1988,400
+Indonesia,IDN,1988,540
+Italy,ITA,1988,15910
+Japan,JPN,1988,24470
+"Korea, Rep.",KOR,1988,4590
+Mexico,MEX,1988,1990
+Netherlands,NLD,1988,18410
+Russian Federation,RUS,1988,NA
+Saudi Arabia,SAU,1988,7470
+Spain,ESP,1988,9430
+Switzerland,CHE,1988,33620
+Turkey,TUR,1988,1860
+United Kingdom,GBR,1988,14990
+United States,USA,1988,23580
+Afghanistan,AFG,1988,NA
+Algeria,DZA,1988,2720
+Albania,ALB,1988,760
+Angola,AGO,1988,810
+Armenia,ARM,1988,NA
+Austria,AUT,1988,18010
+Azerbaijan,AZE,1988,NA
+Bangladesh,BGD,1988,280
+Belarus,BLR,1988,NA
+Belgium,BEL,1988,17060
+Belize,BLZ,1988,1820
+Benin,BEN,1988,360
+Bolivia,BOL,1988,720
+Bosnia and Herzegovina,BIH,1988,NA
+Botswana,BWA,1988,1830
+Bulgaria,BGR,1988,3140
+Burkina Faso,BFA,1988,330
+Cambodia,KHM,1988,NA
+Cameroon,CMR,1988,1100
+Canada,CAN,1988,18430
+Central African Republic,CAF,1988,470
+Chad,TCD,1988,270
+Chile,CHL,1988,1820
+Colombia,COL,1988,1300
+"Congo, Rep.",COG,1988,920
+Costa Rica,CRI,1988,2210
+Cote d'Ivoire,CIV,1988,890
+Croatia,HRV,1988,NA
+Cuba,CUB,1988,2780
+Cyprus,CYP,1988,8090
+Czech Republic,CZE,1988,NA
+Denmark,DNK,1988,22300
+Dominican Republic,DOM,1988,910
+Ecuador,ECU,1988,1540
+"Egypt, Arab Rep.",EGY,1988,790
+El Salvador,SLV,1988,850
+Estonia,EST,1988,NA
+Ethiopia,ETH,1988,270
+Finland,FIN,1988,21540
+"Gambia, The",GMB,1988,310
+Gabon,GAB,1988,4160
+Georgia,GEO,1988,NA
+Ghana,GHA,1988,440
+Greece,GRC,1988,7580
+Guatemala,GTM,1988,990
+Guinea,GIN,1988,430
+Guinea-Bissau,GNB,1988,180
+Guyana,GUY,1988,480
+Haiti,HTI,1988,NA
+Honduras,HND,1988,960
+Hungary,HUN,1988,NA
+Iceland,ISL,1988,23350
+Jamaica,JAM,1988,1500
+Jordan,JOR,1988,2340
+Kazakhstan,KAZ,1988,NA
+Kenya,KEN,1988,410
+Kyrgyz Republic,KGZ,1988,NA
+Lao PDR,LAO,1988,250
+Latvia,LVA,1988,NA
+Lebanon,LBN,1988,NA
+Lesotho,LSO,1988,500
+Liberia,LBR,1988,390
+Libya,LBY,1988,NA
+Lithuania,LTU,1988,NA
+Luxembourg,LUX,1988,21840
+"Macedonia, FYR",MKD,1988,NA
+Malawi,MWI,1988,160
+Malaysia,MYS,1988,2130
+Mali,MLI,1988,270
+Malta,MLT,1988,6260
+Mauritania,MRT,1988,490
+Moldova,MDA,1988,NA
+Mongolia,MNG,1988,1690
+Montenegro,MNE,1988,NA
+Morocco,MAR,1988,1030
+Mozambique,MOZ,1988,220
+Myanmar,MMR,1988,NA
+Namibia,NAM,1988,1730
+Nepal,NPL,1988,210
+New Zealand,NZL,1988,12550
+Nicaragua,NIC,1988,680
+Niger,NER,1988,340
+Nigeria,NGA,1988,280
+Norway,NOR,1988,23970
+Pakistan,PAK,1988,420
+Panama,PAN,1988,2240
+Paraguay,PRY,1988,NA
+Peru,PER,1988,860
+Philippines,PHL,1988,660
+Poland,POL,1988,NA
+Portugal,PRT,1988,5640
+Romania,ROM,1988,NA
+Rwanda,RWA,1988,350
+Senegal,SEN,1988,730
+Serbia,SRB,1988,NA
+Sierra Leone,SLE,1988,190
+Slovak Republic,SVK,1988,NA
+Slovenia,SVN,1988,NA
+Sri Lanka,LKA,1988,460
+South Africa,ZAF,1988,3290
+Sudan,SDN,1988,790
+Suriname,SUR,1988,2880
+Swaziland,SWZ,1988,NA
+Sweden,SWE,1988,24190
+Tajikistan,TJK,1988,NA
+Tanzania,TZA,1988,NA
+Thailand,THA,1988,1160
+Togo,TGO,1988,390
+Tunisia,TUN,1988,1340
+Turkmenistan,TKM,1988,NA
+Uganda,UGA,1988,390
+Ukraine,UKR,1988,NA
+United Arab Emirates,ARE,1988,NA
+Uruguay,URY,1988,2600
+Uzbekistan,UZB,1988,NA
+"Venezuela, RB",VEN,1988,3250
+Vietnam,VNM,1988,NA
+"Yemen, Rep.",YEM,1988,NA
+Zambia,ZMB,1988,340
+Zimbabwe,ZWE,1988,810
+Argentina,ARG,1989,2910
+Australia,AUS,1989,15600
+Brazil,BRA,1989,2750
+China,CHN,1989,320
+France,FRA,1989,19540
+Germany,DEU,1989,19780
+India,IND,1989,400
+Indonesia,IDN,1989,560
+Italy,ITA,1989,17240
+Japan,JPN,1989,26640
+"Korea, Rep.",KOR,1989,5440
+Mexico,MEX,1989,2290
+Netherlands,NLD,1989,19360
+Russian Federation,RUS,1989,NA
+Saudi Arabia,SAU,1989,7010
+Spain,ESP,1989,10720
+Switzerland,CHE,1989,35220
+Turkey,TUR,1989,1920
+United Kingdom,GBR,1989,16100
+United States,USA,1989,23860
+Afghanistan,AFG,1989,NA
+Algeria,DZA,1989,2510
+Albania,ALB,1989,790
+Angola,AGO,1989,560
+Armenia,ARM,1989,NA
+Austria,AUT,1989,19230
+Azerbaijan,AZE,1989,NA
+Bangladesh,BGD,1989,290
+Belarus,BLR,1989,NA
+Belgium,BEL,1989,18090
+Belize,BLZ,1989,2020
+Benin,BEN,1989,340
+Bolivia,BOL,1989,730
+Bosnia and Herzegovina,BIH,1989,NA
+Botswana,BWA,1989,2150
+Bulgaria,BGR,1989,2850
+Burkina Faso,BFA,1989,330
+Cambodia,KHM,1989,NA
+Cameroon,CMR,1989,1040
+Canada,CAN,1989,19660
+Central African Republic,CAF,1989,470
+Chad,TCD,1989,270
+Chile,CHL,1989,2090
+Colombia,COL,1989,1250
+"Congo, Rep.",COG,1989,930
+Costa Rica,CRI,1989,2230
+Cote d'Ivoire,CIV,1989,810
+Croatia,HRV,1989,NA
+Cuba,CUB,1989,2750
+Cyprus,CYP,1989,8770
+Czech Republic,CZE,1989,NA
+Denmark,DNK,1989,23240
+Dominican Republic,DOM,1989,900
+Ecuador,ECU,1989,1400
+"Egypt, Arab Rep.",EGY,1989,780
+El Salvador,SLV,1989,850
+Estonia,EST,1989,NA
+Ethiopia,ETH,1989,250
+Finland,FIN,1989,24110
+"Gambia, The",GMB,1989,310
+Gabon,GAB,1989,4590
+Georgia,GEO,1989,NA
+Ghana,GHA,1989,410
+Greece,GRC,1989,8300
+Guatemala,GTM,1989,990
+Guinea,GIN,1989,420
+Guinea-Bissau,GNB,1989,200
+Guyana,GUY,1989,370
+Haiti,HTI,1989,NA
+Honduras,HND,1989,870
+Hungary,HUN,1989,NA
+Iceland,ISL,1989,24080
+Jamaica,JAM,1989,1710
+Jordan,JOR,1989,1690
+Kazakhstan,KAZ,1989,NA
+Kenya,KEN,1989,400
+Kyrgyz Republic,KGZ,1989,NA
+Lao PDR,LAO,1989,210
+Latvia,LVA,1989,NA
+Lebanon,LBN,1989,NA
+Lesotho,LSO,1989,520
+Liberia,LBR,1989,280
+Libya,LBY,1989,NA
+Lithuania,LTU,1989,NA
+Luxembourg,LUX,1989,24100
+"Macedonia, FYR",MKD,1989,NA
+Malawi,MWI,1989,160
+Malaysia,MYS,1989,2240
+Mali,MLI,1989,NA
+Malta,MLT,1989,6910
+Mauritania,MRT,1989,510
+Moldova,MDA,1989,NA
+Mongolia,MNG,1989,1590
+Montenegro,MNE,1989,NA
+Morocco,MAR,1989,1060
+Mozambique,MOZ,1989,180
+Myanmar,MMR,1989,NA
+Namibia,NAM,1989,1890
+Nepal,NPL,1989,220
+New Zealand,NZL,1989,13570
+Nicaragua,NIC,1989,370
+Niger,NER,1989,330
+Nigeria,NGA,1989,270
+Norway,NOR,1989,25080
+Pakistan,PAK,1989,410
+Panama,PAN,1989,2080
+Paraguay,PRY,1989,NA
+Peru,PER,1989,840
+Philippines,PHL,1989,700
+Poland,POL,1989,NA
+Portugal,PRT,1989,6320
+Romania,ROM,1989,1810
+Rwanda,RWA,1989,350
+Senegal,SEN,1989,730
+Serbia,SRB,1989,NA
+Sierra Leone,SLE,1989,220
+Slovak Republic,SVK,1989,NA
+Slovenia,SVN,1989,NA
+Sri Lanka,LKA,1989,450
+South Africa,ZAF,1989,3580
+Sudan,SDN,1989,720
+Suriname,SUR,1989,2270
+Swaziland,SWZ,1989,NA
+Sweden,SWE,1989,26090
+Tajikistan,TJK,1989,NA
+Tanzania,TZA,1989,NA
+Thailand,THA,1989,1320
+Togo,TGO,1989,400
+Tunisia,TUN,1989,1310
+Turkmenistan,TKM,1989,NA
+Uganda,UGA,1989,400
+Ukraine,UKR,1989,1620
+United Arab Emirates,ARE,1989,NA
+Uruguay,URY,1989,2730
+Uzbekistan,UZB,1989,NA
+"Venezuela, RB",VEN,1989,2450
+Vietnam,VNM,1989,220
+"Yemen, Rep.",YEM,1989,NA
+Zambia,ZMB,1989,410
+Zimbabwe,ZWE,1989,840
+Argentina,ARG,1990,3180
+Australia,AUS,1990,17340
+Brazil,BRA,1990,2720
+China,CHN,1990,330
+France,FRA,1990,20700
+Germany,DEU,1990,21330
+India,IND,1990,390
+Indonesia,IDN,1990,620
+Italy,ITA,1990,18610
+Japan,JPN,1990,27560
+"Korea, Rep.",KOR,1990,6480
+Mexico,MEX,1990,2740
+Netherlands,NLD,1990,20140
+Russian Federation,RUS,1990,NA
+Saudi Arabia,SAU,1990,7300
+Spain,ESP,1990,12220
+Switzerland,CHE,1990,36900
+Turkey,TUR,1990,2300
+United Kingdom,GBR,1990,17160
+United States,USA,1990,24150
+Afghanistan,AFG,1990,NA
+Algeria,DZA,1990,2330
+Albania,ALB,1990,680
+Angola,AGO,1990,590
+Armenia,ARM,1990,NA
+Austria,AUT,1990,20560
+Azerbaijan,AZE,1990,NA
+Bangladesh,BGD,1990,300
+Belarus,BLR,1990,NA
+Belgium,BEL,1990,19370
+Belize,BLZ,1990,2230
+Benin,BEN,1990,360
+Bolivia,BOL,1990,730
+Bosnia and Herzegovina,BIH,1990,NA
+Botswana,BWA,1990,2530
+Bulgaria,BGR,1990,2260
+Burkina Faso,BFA,1990,330
+Cambodia,KHM,1990,NA
+Cameroon,CMR,1990,920
+Canada,CAN,1990,20430
+Central African Republic,CAF,1990,460
+Chad,TCD,1990,270
+Chile,CHL,1990,2240
+Colombia,COL,1990,1250
+"Congo, Rep.",COG,1990,920
+Costa Rica,CRI,1990,2340
+Cote d'Ivoire,CIV,1990,760
+Croatia,HRV,1990,NA
+Cuba,CUB,1990,2650
+Cyprus,CYP,1990,9510
+Czech Republic,CZE,1990,NA
+Denmark,DNK,1990,24530
+Dominican Republic,DOM,1990,860
+Ecuador,ECU,1990,1390
+"Egypt, Arab Rep.",EGY,1990,750
+El Salvador,SLV,1990,890
+Estonia,EST,1990,NA
+Ethiopia,ETH,1990,260
+Finland,FIN,1990,26000
+"Gambia, The",GMB,1990,320
+Gabon,GAB,1990,4830
+Georgia,GEO,1990,NA
+Ghana,GHA,1990,400
+Greece,GRC,1990,9000
+Guatemala,GTM,1990,950
+Guinea,GIN,1990,430
+Guinea-Bissau,GNB,1990,210
+Guyana,GUY,1990,390
+Haiti,HTI,1990,NA
+Honduras,HND,1990,690
+Hungary,HUN,1990,NA
+Iceland,ISL,1990,24680
+Jamaica,JAM,1990,1790
+Jordan,JOR,1990,1430
+Kazakhstan,KAZ,1990,NA
+Kenya,KEN,1990,380
+Kyrgyz Republic,KGZ,1990,NA
+Lao PDR,LAO,1990,190
+Latvia,LVA,1990,NA
+Lebanon,LBN,1990,1360
+Lesotho,LSO,1990,550
+Liberia,LBR,1990,NA
+Libya,LBY,1990,NA
+Lithuania,LTU,1990,NA
+Luxembourg,LUX,1990,26450
+"Macedonia, FYR",MKD,1990,NA
+Malawi,MWI,1990,180
+Malaysia,MYS,1990,2370
+Mali,MLI,1990,290
+Malta,MLT,1990,7600
+Mauritania,MRT,1990,490
+Moldova,MDA,1990,NA
+Mongolia,MNG,1990,1430
+Montenegro,MNE,1990,NA
+Morocco,MAR,1990,1110
+Mozambique,MOZ,1990,170
+Myanmar,MMR,1990,NA
+Namibia,NAM,1990,2020
+Nepal,NPL,1990,220
+New Zealand,NZL,1990,13640
+Nicaragua,NIC,1990,310
+Niger,NER,1990,310
+Nigeria,NGA,1990,290
+Norway,NOR,1990,26510
+Pakistan,PAK,1990,410
+Panama,PAN,1990,2140
+Paraguay,PRY,1990,NA
+Peru,PER,1990,880
+Philippines,PHL,1990,720
+Poland,POL,1990,NA
+Portugal,PRT,1990,7140
+Romania,ROM,1990,1710
+Rwanda,RWA,1990,350
+Senegal,SEN,1990,710
+Serbia,SRB,1990,NA
+Sierra Leone,SLE,1990,200
+Slovak Republic,SVK,1990,NA
+Slovenia,SVN,1990,NA
+Sri Lanka,LKA,1990,470
+South Africa,ZAF,1990,3390
+Sudan,SDN,1990,530
+Suriname,SUR,1990,1430
+Swaziland,SWZ,1990,1230
+Sweden,SWE,1990,27760
+Tajikistan,TJK,1990,NA
+Tanzania,TZA,1990,200
+Thailand,THA,1990,1490
+Togo,TGO,1990,400
+Tunisia,TUN,1990,1430
+Turkmenistan,TKM,1990,NA
+Uganda,UGA,1990,320
+Ukraine,UKR,1990,1610
+United Arab Emirates,ARE,1990,NA
+Uruguay,URY,1990,2840
+Uzbekistan,UZB,1990,NA
+"Venezuela, RB",VEN,1990,2570
+Vietnam,VNM,1990,130
+"Yemen, Rep.",YEM,1990,NA
+Zambia,ZMB,1990,450
+Zimbabwe,ZWE,1990,860
+Argentina,ARG,1991,3960
+Australia,AUS,1991,18220
+Brazil,BRA,1991,2880
+China,CHN,1991,350
+France,FRA,1991,21550
+Germany,DEU,1991,22910
+India,IND,1991,350
+Indonesia,IDN,1991,620
+Italy,ITA,1991,20310
+Japan,JPN,1991,28290
+"Korea, Rep.",KOR,1991,7550
+Mexico,MEX,1991,3180
+Netherlands,NLD,1991,21090
+Russian Federation,RUS,1991,3420
+Saudi Arabia,SAU,1991,8090
+Spain,ESP,1991,13720
+Switzerland,CHE,1991,37510
+Turkey,TUR,1991,2590
+United Kingdom,GBR,1991,17920
+United States,USA,1991,24370
+Afghanistan,AFG,1991,NA
+Algeria,DZA,1991,1960
+Albania,ALB,1991,420
+Angola,AGO,1991,890
+Armenia,ARM,1991,NA
+Austria,AUT,1991,21730
+Azerbaijan,AZE,1991,NA
+Bangladesh,BGD,1991,300
+Belarus,BLR,1991,NA
+Belgium,BEL,1991,20650
+Belize,BLZ,1991,2380
+Benin,BEN,1991,380
+Bolivia,BOL,1991,750
+Bosnia and Herzegovina,BIH,1991,NA
+Botswana,BWA,1991,2860
+Bulgaria,BGR,1991,1620
+Burkina Faso,BFA,1991,360
+Cambodia,KHM,1991,NA
+Cameroon,CMR,1991,870
+Canada,CAN,1991,20730
+Central African Republic,CAF,1991,460
+Chad,TCD,1991,290
+Chile,CHL,1991,2490
+Colombia,COL,1991,1220
+"Congo, Rep.",COG,1991,950
+Costa Rica,CRI,1991,2340
+Cote d'Ivoire,CIV,1991,740
+Croatia,HRV,1991,NA
+Cuba,CUB,1991,2340
+Cyprus,CYP,1991,9670
+Czech Republic,CZE,1991,NA
+Denmark,DNK,1991,25720
+Dominican Republic,DOM,1991,1020
+Ecuador,ECU,1991,1500
+"Egypt, Arab Rep.",EGY,1991,730
+El Salvador,SLV,1991,940
+Estonia,EST,1991,NA
+Ethiopia,ETH,1991,250
+Finland,FIN,1991,25090
+"Gambia, The",GMB,1991,410
+Gabon,GAB,1991,5190
+Georgia,GEO,1991,NA
+Ghana,GHA,1991,420
+Greece,GRC,1991,9900
+Guatemala,GTM,1991,990
+Guinea,GIN,1991,430
+Guinea-Bissau,GNB,1991,230
+Guyana,GUY,1991,390
+Haiti,HTI,1991,NA
+Honduras,HND,1991,620
+Hungary,HUN,1991,NA
+Iceland,ISL,1991,25130
+Jamaica,JAM,1991,1770
+Jordan,JOR,1991,1160
+Kazakhstan,KAZ,1991,NA
+Kenya,KEN,1991,350
+Kyrgyz Republic,KGZ,1991,NA
+Lao PDR,LAO,1991,220
+Latvia,LVA,1991,NA
+Lebanon,LBN,1991,1780
+Lesotho,LSO,1991,570
+Liberia,LBR,1991,NA
+Libya,LBY,1991,NA
+Lithuania,LTU,1991,NA
+Luxembourg,LUX,1991,29690
+"Macedonia, FYR",MKD,1991,NA
+Malawi,MWI,1991,210
+Malaysia,MYS,1991,2530
+Mali,MLI,1991,290
+Malta,MLT,1991,8080
+Mauritania,MRT,1991,540
+Moldova,MDA,1991,NA
+Mongolia,MNG,1991,1200
+Montenegro,MNE,1991,NA
+Morocco,MAR,1991,1190
+Mozambique,MOZ,1991,180
+Myanmar,MMR,1991,NA
+Namibia,NAM,1991,2170
+Nepal,NPL,1991,220
+New Zealand,NZL,1991,12160
+Nicaragua,NIC,1991,220
+Niger,NER,1991,300
+Nigeria,NGA,1991,270
+Norway,NOR,1991,27830
+Pakistan,PAK,1991,410
+Panama,PAN,1991,2230
+Paraguay,PRY,1991,NA
+Peru,PER,1991,1180
+Philippines,PHL,1991,720
+Poland,POL,1991,NA
+Portugal,PRT,1991,8190
+Romania,ROM,1991,1440
+Rwanda,RWA,1991,330
+Senegal,SEN,1991,710
+Serbia,SRB,1991,NA
+Sierra Leone,SLE,1991,190
+Slovak Republic,SVK,1991,NA
+Slovenia,SVN,1991,NA
+Sri Lanka,LKA,1991,500
+South Africa,ZAF,1991,3320
+Sudan,SDN,1991,440
+Suriname,SUR,1991,1130
+Swaziland,SWZ,1991,1290
+Sweden,SWE,1991,29110
+Tajikistan,TJK,1991,NA
+Tanzania,TZA,1991,180
+Thailand,THA,1991,1660
+Togo,TGO,1991,400
+Tunisia,TUN,1991,1480
+Turkmenistan,TKM,1991,NA
+Uganda,UGA,1991,240
+Ukraine,UKR,1991,1520
+United Arab Emirates,ARE,1991,NA
+Uruguay,URY,1991,3180
+Uzbekistan,UZB,1991,NA
+"Venezuela, RB",VEN,1991,2590
+Vietnam,VNM,1991,110
+"Yemen, Rep.",YEM,1991,NA
+Zambia,ZMB,1991,400
+Zimbabwe,ZWE,1991,850
+Argentina,ARG,1992,6300
+Australia,AUS,1992,18530
+Brazil,BRA,1992,2780
+China,CHN,1992,390
+France,FRA,1992,24010
+Germany,DEU,1992,25850
+India,IND,1992,350
+Indonesia,IDN,1992,680
+Italy,ITA,1992,22890
+Japan,JPN,1992,30190
+"Korea, Rep.",KOR,1992,8290
+Mexico,MEX,1992,3670
+Netherlands,NLD,1992,23320
+Russian Federation,RUS,1992,3070
+Saudi Arabia,SAU,1992,8580
+Spain,ESP,1992,15660
+Switzerland,CHE,1992,40880
+Turkey,TUR,1992,2940
+United Kingdom,GBR,1992,19880
+United States,USA,1992,25780
+Afghanistan,AFG,1992,NA
+Algeria,DZA,1992,1870
+Albania,ALB,1992,300
+Angola,AGO,1992,460
+Armenia,ARM,1992,310
+Austria,AUT,1992,24430
+Azerbaijan,AZE,1992,NA
+Bangladesh,BGD,1992,310
+Belarus,BLR,1992,1670
+Belgium,BEL,1992,23240
+Belize,BLZ,1992,2650
+Benin,BEN,1992,360
+Bolivia,BOL,1992,770
+Bosnia and Herzegovina,BIH,1992,NA
+Botswana,BWA,1992,3040
+Bulgaria,BGR,1992,1430
+Burkina Faso,BFA,1992,320
+Cambodia,KHM,1992,NA
+Cameroon,CMR,1992,870
+Canada,CAN,1992,21140
+Central African Republic,CAF,1992,460
+Chad,TCD,1992,330
+Chile,CHL,1992,3020
+Colombia,COL,1992,1310
+"Congo, Rep.",COG,1992,1050
+Costa Rica,CRI,1992,2600
+Cote d'Ivoire,CIV,1992,770
+Croatia,HRV,1992,NA
+Cuba,CUB,1992,2120
+Cyprus,CYP,1992,11230
+Czech Republic,CZE,1992,3330
+Denmark,DNK,1992,28930
+Dominican Republic,DOM,1992,1310
+Ecuador,ECU,1992,1620
+"Egypt, Arab Rep.",EGY,1992,750
+El Salvador,SLV,1992,1060
+Estonia,EST,1992,NA
+Ethiopia,ETH,1992,220
+Finland,FIN,1992,24170
+"Gambia, The",GMB,1992,550
+Gabon,GAB,1992,5140
+Georgia,GEO,1992,750
+Ghana,GHA,1992,440
+Greece,GRC,1992,11220
+Guatemala,GTM,1992,1060
+Guinea,GIN,1992,460
+Guinea-Bissau,GNB,1992,230
+Guyana,GUY,1992,430
+Haiti,HTI,1992,NA
+Honduras,HND,1992,610
+Hungary,HUN,1992,NA
+Iceland,ISL,1992,26370
+Jamaica,JAM,1992,1630
+Jordan,JOR,1992,1360
+Kazakhstan,KAZ,1992,NA
+Kenya,KEN,1992,330
+Kyrgyz Republic,KGZ,1992,520
+Lao PDR,LAO,1992,250
+Latvia,LVA,1992,NA
+Lebanon,LBN,1992,1830
+Lesotho,LSO,1992,640
+Liberia,LBR,1992,NA
+Libya,LBY,1992,NA
+Lithuania,LTU,1992,NA
+Luxembourg,LUX,1992,32920
+"Macedonia, FYR",MKD,1992,1660
+Malawi,MWI,1992,200
+Malaysia,MYS,1992,2850
+Mali,MLI,1992,340
+Malta,MLT,1992,8870
+Mauritania,MRT,1992,610
+Moldova,MDA,1992,630
+Mongolia,MNG,1992,810
+Montenegro,MNE,1992,NA
+Morocco,MAR,1992,1220
+Mozambique,MOZ,1992,150
+Myanmar,MMR,1992,NA
+Namibia,NAM,1992,2310
+Nepal,NPL,1992,210
+New Zealand,NZL,1992,12050
+Nicaragua,NIC,1992,240
+Niger,NER,1992,290
+Nigeria,NGA,1992,270
+Norway,NOR,1992,30790
+Pakistan,PAK,1992,430
+Panama,PAN,1992,2450
+Paraguay,PRY,1992,NA
+Peru,PER,1992,1390
+Philippines,PHL,1992,770
+Poland,POL,1992,2070
+Portugal,PRT,1992,9870
+Romania,ROM,1992,1240
+Rwanda,RWA,1992,350
+Senegal,SEN,1992,750
+Serbia,SRB,1992,NA
+Sierra Leone,SLE,1992,140
+Slovak Republic,SVK,1992,NA
+Slovenia,SVN,1992,NA
+Sri Lanka,LKA,1992,560
+South Africa,ZAF,1992,3320
+Sudan,SDN,1992,340
+Suriname,SUR,1992,1020
+Swaziland,SWZ,1992,1500
+Sweden,SWE,1992,31340
+Tajikistan,TJK,1992,340
+Tanzania,TZA,1992,180
+Thailand,THA,1992,1890
+Togo,TGO,1992,410
+Tunisia,TUN,1992,1700
+Turkmenistan,TKM,1992,NA
+Uganda,UGA,1992,190
+Ukraine,UKR,1992,1420
+United Arab Emirates,ARE,1992,NA
+Uruguay,URY,1992,3830
+Uzbekistan,UZB,1992,600
+"Venezuela, RB",VEN,1992,2760
+Vietnam,VNM,1992,130
+"Yemen, Rep.",YEM,1992,510
+Zambia,ZMB,1992,370
+Zimbabwe,ZWE,1992,700
+Argentina,ARG,1993,7100
+Australia,AUS,1993,18900
+Brazil,BRA,1993,2740
+China,CHN,1993,420
+France,FRA,1993,23760
+Germany,DEU,1993,25980
+India,IND,1993,330
+Indonesia,IDN,1993,810
+Italy,ITA,1993,21530
+Japan,JPN,1993,33170
+"Korea, Rep.",KOR,1993,8980
+Mexico,MEX,1993,4420
+Netherlands,NLD,1993,23830
+Russian Federation,RUS,1993,2900
+Saudi Arabia,SAU,1993,8170
+Spain,ESP,1993,15090
+Switzerland,CHE,1993,40780
+Turkey,TUR,1993,3150
+United Kingdom,GBR,1993,19790
+United States,USA,1993,26480
+Afghanistan,AFG,1993,NA
+Algeria,DZA,1993,1700
+Albania,ALB,1993,320
+Angola,AGO,1993,300
+Armenia,ARM,1993,330
+Austria,AUT,1993,24780
+Azerbaijan,AZE,1993,590
+Bangladesh,BGD,1993,310
+Belarus,BLR,1993,1590
+Belgium,BEL,1993,23480
+Belize,BLZ,1993,2770
+Benin,BEN,1993,380
+Bolivia,BOL,1993,790
+Bosnia and Herzegovina,BIH,1993,NA
+Botswana,BWA,1993,3090
+Bulgaria,BGR,1993,1250
+Burkina Faso,BFA,1993,280
+Cambodia,KHM,1993,NA
+Cameroon,CMR,1993,870
+Canada,CAN,1993,20990
+Central African Republic,CAF,1993,440
+Chad,TCD,1993,240
+Chile,CHL,1993,3330
+Colombia,COL,1993,1430
+"Congo, Rep.",COG,1993,790
+Costa Rica,CRI,1993,2780
+Cote d'Ivoire,CIV,1993,740
+Croatia,HRV,1993,NA
+Cuba,CUB,1993,1870
+Cyprus,CYP,1993,11190
+Czech Republic,CZE,1993,3470
+Denmark,DNK,1993,28780
+Dominican Republic,DOM,1993,1560
+Ecuador,ECU,1993,1690
+"Egypt, Arab Rep.",EGY,1993,750
+El Salvador,SLV,1993,1180
+Estonia,EST,1993,NA
+Ethiopia,ETH,1993,210
+Finland,FIN,1993,20680
+"Gambia, The",GMB,1993,750
+Gabon,GAB,1993,4450
+Georgia,GEO,1993,540
+Ghana,GHA,1993,420
+Greece,GRC,1993,11120
+Guatemala,GTM,1993,1170
+Guinea,GIN,1993,470
+Guinea-Bissau,GNB,1993,220
+Guyana,GUY,1993,500
+Haiti,HTI,1993,NA
+Honduras,HND,1993,650
+Hungary,HUN,1993,3690
+Iceland,ISL,1993,25960
+Jamaica,JAM,1993,1810
+Jordan,JOR,1993,1390
+Kazakhstan,KAZ,1993,1430
+Kenya,KEN,1993,270
+Kyrgyz Republic,KGZ,1993,450
+Lao PDR,LAO,1993,280
+Latvia,LVA,1993,NA
+Lebanon,LBN,1993,2230
+Lesotho,LSO,1993,640
+Liberia,LBR,1993,NA
+Libya,LBY,1993,NA
+Lithuania,LTU,1993,NA
+Luxembourg,LUX,1993,33820
+"Macedonia, FYR",MKD,1993,1390
+Malawi,MWI,1993,220
+Malaysia,MYS,1993,3200
+Mali,MLI,1993,330
+Malta,MLT,1993,8720
+Mauritania,MRT,1993,640
+Moldova,MDA,1993,640
+Mongolia,MNG,1993,510
+Montenegro,MNE,1993,NA
+Morocco,MAR,1993,1170
+Mozambique,MOZ,1993,150
+Myanmar,MMR,1993,NA
+Namibia,NAM,1993,2220
+Nepal,NPL,1993,200
+New Zealand,NZL,1993,12360
+Nicaragua,NIC,1993,290
+Niger,NER,1993,240
+Nigeria,NGA,1993,190
+Norway,NOR,1993,30220
+Pakistan,PAK,1993,440
+Panama,PAN,1993,2640
+Paraguay,PRY,1993,NA
+Peru,PER,1993,1520
+Philippines,PHL,1993,820
+Poland,POL,1993,2450
+Portugal,PRT,1993,10100
+Romania,ROM,1993,1190
+Rwanda,RWA,1993,320
+Senegal,SEN,1993,710
+Serbia,SRB,1993,NA
+Sierra Leone,SLE,1993,170
+Slovak Republic,SVK,1993,NA
+Slovenia,SVN,1993,NA
+Sri Lanka,LKA,1993,610
+South Africa,ZAF,1993,3500
+Sudan,SDN,1993,300
+Suriname,SUR,1993,NA
+Swaziland,SWZ,1993,1520
+Sweden,SWE,1993,28200
+Tajikistan,TJK,1993,290
+Tanzania,TZA,1993,170
+Thailand,THA,1993,2130
+Togo,TGO,1993,330
+Tunisia,TUN,1993,1700
+Turkmenistan,TKM,1993,800
+Uganda,UGA,1993,180
+Ukraine,UKR,1993,1230
+United Arab Emirates,ARE,1993,NA
+Uruguay,URY,1993,4350
+Uzbekistan,UZB,1993,590
+"Venezuela, RB",VEN,1993,2740
+Vietnam,VNM,1993,170
+"Yemen, Rep.",YEM,1993,460
+Zambia,ZMB,1993,390
+Zimbabwe,ZWE,1993,630
+Argentina,ARG,1994,7570
+Australia,AUS,1994,18870
+Brazil,BRA,1994,3000
+China,CHN,1994,470
+France,FRA,1994,24550
+Germany,DEU,1994,27520
+India,IND,1994,350
+Indonesia,IDN,1994,890
+Italy,ITA,1994,20800
+Japan,JPN,1994,36590
+"Korea, Rep.",KOR,1994,10010
+Mexico,MEX,1994,5150
+Netherlands,NLD,1994,25150
+Russian Federation,RUS,1994,2650
+Saudi Arabia,SAU,1994,7770
+Spain,ESP,1994,14580
+Switzerland,CHE,1994,41860
+Turkey,TUR,1994,2680
+United Kingdom,GBR,1994,20300
+United States,USA,1994,27750
+Afghanistan,AFG,1994,NA
+Algeria,DZA,1994,1590
+Albania,ALB,1994,400
+Angola,AGO,1994,190
+Armenia,ARM,1994,400
+Austria,AUT,1994,26040
+Azerbaijan,AZE,1994,440
+Bangladesh,BGD,1994,310
+Belarus,BLR,1994,1460
+Belgium,BEL,1994,25170
+Belize,BLZ,1994,2780
+Benin,BEN,1994,330
+Bolivia,BOL,1994,810
+Bosnia and Herzegovina,BIH,1994,NA
+Botswana,BWA,1994,2740
+Bulgaria,BGR,1994,1240
+Burkina Faso,BFA,1994,230
+Cambodia,KHM,1994,NA
+Cameroon,CMR,1994,790
+Canada,CAN,1994,20660
+Central African Republic,CAF,1994,360
+Chad,TCD,1994,220
+Chile,CHL,1994,3610
+Colombia,COL,1994,1780
+"Congo, Rep.",COG,1994,680
+Costa Rica,CRI,1994,3040
+Cote d'Ivoire,CIV,1994,680
+Croatia,HRV,1994,NA
+Cuba,CUB,1994,2140
+Cyprus,CYP,1994,11900
+Czech Republic,CZE,1994,4130
+Denmark,DNK,1994,30600
+Dominican Republic,DOM,1994,1680
+Ecuador,ECU,1994,1840
+"Egypt, Arab Rep.",EGY,1994,830
+El Salvador,SLV,1994,1330
+Estonia,EST,1994,NA
+Ethiopia,ETH,1994,160
+Finland,FIN,1994,20170
+"Gambia, The",GMB,1994,730
+Gabon,GAB,1994,4150
+Georgia,GEO,1994,510
+Ghana,GHA,1994,380
+Greece,GRC,1994,11550
+Guatemala,GTM,1994,1260
+Guinea,GIN,1994,470
+Guinea-Bissau,GNB,1994,210
+Guyana,GUY,1994,610
+Haiti,HTI,1994,NA
+Honduras,HND,1994,630
+Hungary,HUN,1994,4060
+Iceland,ISL,1994,25530
+Jamaica,JAM,1994,1830
+Jordan,JOR,1994,1450
+Kazakhstan,KAZ,1994,1310
+Kenya,KEN,1994,260
+Kyrgyz Republic,KGZ,1994,370
+Lao PDR,LAO,1994,310
+Latvia,LVA,1994,NA
+Lebanon,LBN,1994,2840
+Lesotho,LSO,1994,660
+Liberia,LBR,1994,NA
+Libya,LBY,1994,NA
+Lithuania,LTU,1994,NA
+Luxembourg,LUX,1994,34900
+"Macedonia, FYR",MKD,1994,1340
+Malawi,MWI,1994,160
+Malaysia,MYS,1994,3560
+Mali,MLI,1994,270
+Malta,MLT,1994,8760
+Mauritania,MRT,1994,570
+Moldova,MDA,1994,460
+Mongolia,MNG,1994,430
+Montenegro,MNE,1994,NA
+Morocco,MAR,1994,1290
+Mozambique,MOZ,1994,130
+Myanmar,MMR,1994,NA
+Namibia,NAM,1994,2260
+Nepal,NPL,1994,200
+New Zealand,NZL,1994,13400
+Nicaragua,NIC,1994,450
+Niger,NER,1994,210
+Nigeria,NGA,1994,170
+Norway,NOR,1994,30860
+Pakistan,PAK,1994,440
+Panama,PAN,1994,2780
+Paraguay,PRY,1994,NA
+Peru,PER,1994,1730
+Philippines,PHL,1994,920
+Poland,POL,1994,2780
+Portugal,PRT,1994,10450
+Romania,ROM,1994,1270
+Rwanda,RWA,1994,160
+Senegal,SEN,1994,590
+Serbia,SRB,1994,NA
+Sierra Leone,SLE,1994,180
+Slovak Republic,SVK,1994,NA
+Slovenia,SVN,1994,NA
+Sri Lanka,LKA,1994,640
+South Africa,ZAF,1994,3680
+Sudan,SDN,1994,310
+Suriname,SUR,1994,1110
+Swaziland,SWZ,1994,1510
+Sweden,SWE,1994,27690
+Tajikistan,TJK,1994,230
+Tanzania,TZA,1994,160
+Thailand,THA,1994,2400
+Togo,TGO,1994,300
+Tunisia,TUN,1994,1740
+Turkmenistan,TKM,1994,690
+Uganda,UGA,1994,180
+Ukraine,UKR,1994,1010
+United Arab Emirates,ARE,1994,NA
+Uruguay,URY,1994,5040
+Uzbekistan,UZB,1994,570
+"Venezuela, RB",VEN,1994,2630
+Vietnam,VNM,1994,200
+"Yemen, Rep.",YEM,1994,380
+Zambia,ZMB,1994,360
+Zimbabwe,ZWE,1994,620
+Argentina,ARG,1995,7360
+Australia,AUS,1995,19300
+Brazil,BRA,1995,3700
+China,CHN,1995,540
+France,FRA,1995,25910
+Germany,DEU,1995,29550
+India,IND,1995,380
+Indonesia,IDN,1995,1000
+Italy,ITA,1995,20610
+Japan,JPN,1995,41270
+"Korea, Rep.",KOR,1995,11650
+Mexico,MEX,1995,4520
+Netherlands,NLD,1995,27440
+Russian Federation,RUS,1995,2640
+Saudi Arabia,SAU,1995,7830
+Spain,ESP,1995,14970
+Switzerland,CHE,1995,45400
+Turkey,TUR,1995,2850
+United Kingdom,GBR,1995,20690
+United States,USA,1995,29150
+Afghanistan,AFG,1995,NA
+Algeria,DZA,1995,1530
+Albania,ALB,1995,660
+Angola,AGO,1995,320
+Armenia,ARM,1995,450
+Austria,AUT,1995,28090
+Azerbaijan,AZE,1995,400
+Bangladesh,BGD,1995,330
+Belarus,BLR,1995,1370
+Belgium,BEL,1995,27160
+Belize,BLZ,1995,2860
+Benin,BEN,1995,350
+Bolivia,BOL,1995,850
+Bosnia and Herzegovina,BIH,1995,NA
+Botswana,BWA,1995,3030
+Bulgaria,BGR,1995,1360
+Burkina Faso,BFA,1995,230
+Cambodia,KHM,1995,300
+Cameroon,CMR,1995,730
+Canada,CAN,1995,20670
+Central African Republic,CAF,1995,350
+Chad,TCD,1995,210
+Chile,CHL,1995,4320
+Colombia,COL,1995,2190
+"Congo, Rep.",COG,1995,430
+Costa Rica,CRI,1995,3250
+Cote d'Ivoire,CIV,1995,700
+Croatia,HRV,1995,NA
+Cuba,CUB,1995,2540
+Cyprus,CYP,1995,12610
+Czech Republic,CZE,1995,5090
+Denmark,DNK,1995,32830
+Dominican Republic,DOM,1995,1890
+Ecuador,ECU,1995,2000
+"Egypt, Arab Rep.",EGY,1995,940
+El Salvador,SLV,1995,1550
+Estonia,EST,1995,NA
+Ethiopia,ETH,1995,150
+Finland,FIN,1995,22030
+"Gambia, The",GMB,1995,740
+Gabon,GAB,1995,3920
+Georgia,GEO,1995,540
+Ghana,GHA,1995,380
+Greece,GRC,1995,12310
+Guatemala,GTM,1995,1400
+Guinea,GIN,1995,470
+Guinea-Bissau,GNB,1995,210
+Guyana,GUY,1995,730
+Haiti,HTI,1995,NA
+Honduras,HND,1995,640
+Hungary,HUN,1995,4290
+Iceland,ISL,1995,25350
+Jamaica,JAM,1995,2130
+Jordan,JOR,1995,1560
+Kazakhstan,KAZ,1995,1280
+Kenya,KEN,1995,270
+Kyrgyz Republic,KGZ,1995,360
+Lao PDR,LAO,1995,350
+Latvia,LVA,1995,NA
+Lebanon,LBN,1995,3610
+Lesotho,LSO,1995,660
+Liberia,LBR,1995,NA
+Libya,LBY,1995,NA
+Lithuania,LTU,1995,NA
+Luxembourg,LUX,1995,38640
+"Macedonia, FYR",MKD,1995,1710
+Malawi,MWI,1995,160
+Malaysia,MYS,1995,4010
+Mali,MLI,1995,260
+Malta,MLT,1995,9290
+Mauritania,MRT,1995,590
+Moldova,MDA,1995,470
+Mongolia,MNG,1995,460
+Montenegro,MNE,1995,NA
+Morocco,MAR,1995,1250
+Mozambique,MOZ,1995,130
+Myanmar,MMR,1995,NA
+Namibia,NAM,1995,2420
+Nepal,NPL,1995,210
+New Zealand,NZL,1995,15270
+Nicaragua,NIC,1995,610
+Niger,NER,1995,190
+Nigeria,NGA,1995,170
+Norway,NOR,1995,32700
+Pakistan,PAK,1995,470
+Panama,PAN,1995,2810
+Paraguay,PRY,1995,1670
+Peru,PER,1995,1930
+Philippines,PHL,1995,1030
+Poland,POL,1995,3220
+Portugal,PRT,1995,11220
+Romania,ROM,1995,1470
+Rwanda,RWA,1995,220
+Senegal,SEN,1995,560
+Serbia,SRB,1995,NA
+Sierra Leone,SLE,1995,200
+Slovak Republic,SVK,1995,4200
+Slovenia,SVN,1995,NA
+Sri Lanka,LKA,1995,700
+South Africa,ZAF,1995,3850
+Sudan,SDN,1995,390
+Suriname,SUR,1995,1350
+Swaziland,SWZ,1995,1750
+Sweden,SWE,1995,28070
+Tajikistan,TJK,1995,200
+Tanzania,TZA,1995,170
+Thailand,THA,1995,2750
+Togo,TGO,1995,300
+Tunisia,TUN,1995,1820
+Turkmenistan,TKM,1995,610
+Uganda,UGA,1995,230
+Ukraine,UKR,1995,920
+United Arab Emirates,ARE,1995,NA
+Uruguay,URY,1995,5530
+Uzbekistan,UZB,1995,580
+"Venezuela, RB",VEN,1995,2920
+Vietnam,VNM,1995,260
+"Yemen, Rep.",YEM,1995,320
+Zambia,ZMB,1995,390
+Zimbabwe,ZWE,1995,600
+Argentina,ARG,1996,7730
+Australia,AUS,1996,20500
+Brazil,BRA,1996,4480
+China,CHN,1996,650
+France,FRA,1996,27270
+Germany,DEU,1996,30880
+India,IND,1996,410
+Indonesia,IDN,1996,1110
+Italy,ITA,1996,21770
+Japan,JPN,1996,42030
+"Korea, Rep.",KOR,1996,13080
+Mexico,MEX,1996,4280
+Netherlands,NLD,1996,29140
+Russian Federation,RUS,1996,2610
+Saudi Arabia,SAU,1996,8230
+Spain,ESP,1996,15740
+Switzerland,CHE,1996,48350
+Turkey,TUR,1996,2920
+United Kingdom,GBR,1996,21770
+United States,USA,1996,30380
+Afghanistan,AFG,1996,NA
+Algeria,DZA,1996,1490
+Albania,ALB,1996,900
+Angola,AGO,1996,380
+Armenia,ARM,1996,520
+Austria,AUT,1996,30050
+Azerbaijan,AZE,1996,400
+Bangladesh,BGD,1996,350
+Belarus,BLR,1996,1450
+Belgium,BEL,1996,28700
+Belize,BLZ,1996,2910
+Benin,BEN,1996,340
+Bolivia,BOL,1996,900
+Bosnia and Herzegovina,BIH,1996,830
+Botswana,BWA,1996,2950
+Bulgaria,BGR,1996,1310
+Burkina Faso,BFA,1996,250
+Cambodia,KHM,1996,310
+Cameroon,CMR,1996,650
+Canada,CAN,1996,20640
+Central African Republic,CAF,1996,300
+Chad,TCD,1996,200
+Chile,CHL,1996,4930
+Colombia,COL,1996,2530
+"Congo, Rep.",COG,1996,470
+Costa Rica,CRI,1996,3300
+Cote d'Ivoire,CIV,1996,720
+Croatia,HRV,1996,NA
+Cuba,CUB,1996,2700
+Cyprus,CYP,1996,13790
+Czech Republic,CZE,1996,5930
+Denmark,DNK,1996,35040
+Dominican Republic,DOM,1996,2120
+Ecuador,ECU,1996,2110
+"Egypt, Arab Rep.",EGY,1996,1050
+El Salvador,SLV,1996,1680
+Estonia,EST,1996,NA
+Ethiopia,ETH,1996,150
+Finland,FIN,1996,24970
+"Gambia, The",GMB,1996,750
+Gabon,GAB,1996,4110
+Georgia,GEO,1996,650
+Ghana,GHA,1996,380
+Greece,GRC,1996,13280
+Guatemala,GTM,1996,1490
+Guinea,GIN,1996,470
+Guinea-Bissau,GNB,1996,230
+Guyana,GUY,1996,860
+Haiti,HTI,1996,NA
+Honduras,HND,1996,660
+Hungary,HUN,1996,4400
+Iceland,ISL,1996,27180
+Jamaica,JAM,1996,2320
+Jordan,JOR,1996,1560
+Kazakhstan,KAZ,1996,1340
+Kenya,KEN,1996,340
+Kyrgyz Republic,KGZ,1996,390
+Lao PDR,LAO,1996,380
+Latvia,LVA,1996,NA
+Lebanon,LBN,1996,4210
+Lesotho,LSO,1996,680
+Liberia,LBR,1996,NA
+Libya,LBY,1996,NA
+Lithuania,LTU,1996,NA
+Luxembourg,LUX,1996,41210
+"Macedonia, FYR",MKD,1996,2090
+Malawi,MWI,1996,170
+Malaysia,MYS,1996,4450
+Mali,MLI,1996,260
+Malta,MLT,1996,9910
+Mauritania,MRT,1996,650
+Moldova,MDA,1996,480
+Mongolia,MNG,1996,550
+Montenegro,MNE,1996,NA
+Morocco,MAR,1996,1450
+Mozambique,MOZ,1996,160
+Myanmar,MMR,1996,NA
+Namibia,NAM,1996,2450
+Nepal,NPL,1996,220
+New Zealand,NZL,1996,16720
+Nicaragua,NIC,1996,870
+Niger,NER,1996,200
+Nigeria,NGA,1996,230
+Norway,NOR,1996,35800
+Pakistan,PAK,1996,480
+Panama,PAN,1996,3010
+Paraguay,PRY,1996,1830
+Peru,PER,1996,2120
+Philippines,PHL,1996,1170
+Poland,POL,1996,3810
+Portugal,PRT,1996,12080
+Romania,ROM,1996,1590
+Rwanda,RWA,1996,230
+Senegal,SEN,1996,540
+Serbia,SRB,1996,NA
+Sierra Leone,SLE,1996,230
+Slovak Republic,SVK,1996,5000
+Slovenia,SVN,1996,NA
+Sri Lanka,LKA,1996,740
+South Africa,ZAF,1996,3870
+Sudan,SDN,1996,390
+Suriname,SUR,1996,1680
+Swaziland,SWZ,1996,1850
+Sweden,SWE,1996,30390
+Tajikistan,TJK,1996,170
+Tanzania,TZA,1996,190
+Thailand,THA,1996,2980
+Togo,TGO,1996,310
+Tunisia,TUN,1996,2010
+Turkmenistan,TKM,1996,610
+Uganda,UGA,1996,270
+Ukraine,UKR,1996,860
+United Arab Emirates,ARE,1996,NA
+Uruguay,URY,1996,6160
+Uzbekistan,UZB,1996,600
+"Venezuela, RB",VEN,1996,2980
+Vietnam,VNM,1996,310
+"Yemen, Rep.",YEM,1996,300
+Zambia,ZMB,1996,410
+Zimbabwe,ZWE,1996,670
+Argentina,ARG,1997,8140
+Australia,AUS,1997,21960
+Brazil,BRA,1997,5050
+China,CHN,1997,750
+France,FRA,1997,27090
+Germany,DEU,1997,30160
+India,IND,1997,420
+Indonesia,IDN,1997,1110
+Italy,ITA,1997,22250
+Japan,JPN,1997,39230
+"Korea, Rep.",KOR,1997,13300
+Mexico,MEX,1997,4260
+Netherlands,NLD,1997,29480
+Russian Federation,RUS,1997,2650
+Saudi Arabia,SAU,1997,8580
+Spain,ESP,1997,16020
+Switzerland,CHE,1997,48040
+Turkey,TUR,1997,3190
+United Kingdom,GBR,1997,23240
+United States,USA,1997,31390
+Afghanistan,AFG,1997,NA
+Algeria,DZA,1997,1480
+Albania,ALB,1997,790
+Angola,AGO,1997,470
+Armenia,ARM,1997,560
+Austria,AUT,1997,29550
+Azerbaijan,AZE,1997,450
+Bangladesh,BGD,1997,380
+Belarus,BLR,1997,1530
+Belgium,BEL,1997,28590
+Belize,BLZ,1997,2930
+Benin,BEN,1997,370
+Bolivia,BOL,1997,950
+Bosnia and Herzegovina,BIH,1997,1070
+Botswana,BWA,1997,3090
+Bulgaria,BGR,1997,1330
+Burkina Faso,BFA,1997,250
+Cambodia,KHM,1997,320
+Cameroon,CMR,1997,640
+Canada,CAN,1997,21130
+Central African Republic,CAF,1997,300
+Chad,TCD,1997,210
+Chile,CHL,1997,5380
+Colombia,COL,1997,2650
+"Congo, Rep.",COG,1997,590
+Costa Rica,CRI,1997,3410
+Cote d'Ivoire,CIV,1997,770
+Croatia,HRV,1997,5470
+Cuba,CUB,1997,2490
+Cyprus,CYP,1997,14230
+Czech Republic,CZE,1997,6110
+Denmark,DNK,1997,35320
+Dominican Republic,DOM,1997,2270
+Ecuador,ECU,1997,2210
+"Egypt, Arab Rep.",EGY,1997,1160
+El Salvador,SLV,1997,1810
+Estonia,EST,1997,NA
+Ethiopia,ETH,1997,140
+Finland,FIN,1997,26650
+"Gambia, The",GMB,1997,730
+Gabon,GAB,1997,4290
+Georgia,GEO,1997,790
+Ghana,GHA,1997,400
+Greece,GRC,1997,13960
+Guatemala,GTM,1997,1590
+Guinea,GIN,1997,470
+Guinea-Bissau,GNB,1997,230
+Guyana,GUY,1997,910
+Haiti,HTI,1997,NA
+Honduras,HND,1997,720
+Hungary,HUN,1997,4440
+Iceland,ISL,1997,28300
+Jamaica,JAM,1997,2540
+Jordan,JOR,1997,1580
+Kazakhstan,KAZ,1997,1390
+Kenya,KEN,1997,390
+Kyrgyz Republic,KGZ,1997,390
+Lao PDR,LAO,1997,370
+Latvia,LVA,1997,NA
+Lebanon,LBN,1997,4520
+Lesotho,LSO,1997,680
+Liberia,LBR,1997,120
+Libya,LBY,1997,NA
+Lithuania,LTU,1997,NA
+Luxembourg,LUX,1997,42970
+"Macedonia, FYR",MKD,1997,2110
+Malawi,MWI,1997,200
+Malaysia,MYS,1997,4570
+Mali,MLI,1997,280
+Malta,MLT,1997,10270
+Mauritania,MRT,1997,580
+Moldova,MDA,1997,500
+Mongolia,MNG,1997,580
+Montenegro,MNE,1997,NA
+Morocco,MAR,1997,1390
+Mozambique,MOZ,1997,190
+Myanmar,MMR,1997,NA
+Namibia,NAM,1997,2420
+Nepal,NPL,1997,230
+New Zealand,NZL,1997,17160
+Nicaragua,NIC,1997,880
+Niger,NER,1997,200
+Nigeria,NGA,1997,280
+Norway,NOR,1997,37920
+Pakistan,PAK,1997,480
+Panama,PAN,1997,3210
+Paraguay,PRY,1997,1830
+Peru,PER,1997,2250
+Philippines,PHL,1997,1230
+Poland,POL,1997,4240
+Portugal,PRT,1997,12350
+Romania,ROM,1997,1520
+Rwanda,RWA,1997,260
+Senegal,SEN,1997,540
+Serbia,SRB,1997,NA
+Sierra Leone,SLE,1997,220
+Slovak Republic,SVK,1997,5400
+Slovenia,SVN,1997,11300
+Sri Lanka,LKA,1997,790
+South Africa,ZAF,1997,3780
+Sudan,SDN,1997,370
+Suriname,SUR,1997,1910
+Swaziland,SWZ,1997,1870
+Sweden,SWE,1997,31380
+Tajikistan,TJK,1997,170
+Tanzania,TZA,1997,210
+Thailand,THA,1997,2740
+Togo,TGO,1997,350
+Tunisia,TUN,1997,2160
+Turkmenistan,TKM,1997,550
+Uganda,UGA,1997,290
+Ukraine,UKR,1997,890
+United Arab Emirates,ARE,1997,NA
+Uruguay,URY,1997,6970
+Uzbekistan,UZB,1997,610
+"Venezuela, RB",VEN,1997,3360
+Vietnam,VNM,1997,350
+"Yemen, Rep.",YEM,1997,330
+Zambia,ZMB,1997,410
+Zimbabwe,ZWE,1997,670
+Argentina,ARG,1998,8020
+Australia,AUS,1998,21770
+Brazil,BRA,1998,4850
+China,CHN,1998,800
+France,FRA,1998,25970
+Germany,DEU,1998,27950
+India,IND,1998,420
+Indonesia,IDN,1998,670
+Italy,ITA,1998,22140
+Japan,JPN,1998,33480
+"Korea, Rep.",KOR,1998,10120
+Mexico,MEX,1998,4570
+Netherlands,NLD,1998,27680
+Russian Federation,RUS,1998,2130
+Saudi Arabia,SAU,1998,8290
+Spain,ESP,1998,15650
+Switzerland,CHE,1998,44960
+Turkey,TUR,1998,3410
+United Kingdom,GBR,1998,24670
+United States,USA,1998,32150
+Afghanistan,AFG,1998,NA
+Algeria,DZA,1998,1510
+Albania,ALB,1998,870
+Angola,AGO,1998,460
+Armenia,ARM,1998,590
+Austria,AUT,1998,27920
+Azerbaijan,AZE,1998,510
+Bangladesh,BGD,1998,400
+Belarus,BLR,1998,1550
+Belgium,BEL,1998,26650
+Belize,BLZ,1998,2860
+Benin,BEN,1998,370
+Bolivia,BOL,1998,980
+Bosnia and Herzegovina,BIH,1998,1360
+Botswana,BWA,1998,2990
+Bulgaria,BGR,1998,1390
+Burkina Faso,BFA,1998,250
+Cambodia,KHM,1998,290
+Cameroon,CMR,1998,630
+Canada,CAN,1998,20760
+Central African Republic,CAF,1998,280
+Chad,TCD,1998,220
+Chile,CHL,1998,5250
+Colombia,COL,1998,2550
+"Congo, Rep.",COG,1998,580
+Costa Rica,CRI,1998,3500
+Cote d'Ivoire,CIV,1998,770
+Croatia,HRV,1998,5440
+Cuba,CUB,1998,2230
+Cyprus,CYP,1998,15330
+Czech Republic,CZE,1998,6060
+Denmark,DNK,1998,33580
+Dominican Republic,DOM,1998,2350
+Ecuador,ECU,1998,2190
+"Egypt, Arab Rep.",EGY,1998,1240
+El Salvador,SLV,1998,1900
+Estonia,EST,1998,NA
+Ethiopia,ETH,1998,130
+Finland,FIN,1998,25790
+"Gambia, The",GMB,1998,710
+Gabon,GAB,1998,3960
+Georgia,GEO,1998,820
+Ghana,GHA,1998,400
+Greece,GRC,1998,13650
+Guatemala,GTM,1998,1670
+Guinea,GIN,1998,440
+Guinea-Bissau,GNB,1998,150
+Guyana,GUY,1998,880
+Haiti,HTI,1998,NA
+Honduras,HND,1998,750
+Hungary,HUN,1998,4460
+Iceland,ISL,1998,29000
+Jamaica,JAM,1998,2700
+Jordan,JOR,1998,1600
+Kazakhstan,KAZ,1998,1390
+Kenya,KEN,1998,440
+Kyrgyz Republic,KGZ,1998,360
+Lao PDR,LAO,1998,300
+Latvia,LVA,1998,NA
+Lebanon,LBN,1998,4970
+Lesotho,LSO,1998,610
+Liberia,LBR,1998,130
+Libya,LBY,1998,NA
+Lithuania,LTU,1998,NA
+Luxembourg,LUX,1998,39250
+"Macedonia, FYR",MKD,1998,1910
+Malawi,MWI,1998,200
+Malaysia,MYS,1998,3600
+Mali,MLI,1998,270
+Malta,MLT,1998,9940
+Mauritania,MRT,1998,550
+Moldova,MDA,1998,460
+Mongolia,MNG,1998,520
+Montenegro,MNE,1998,NA
+Morocco,MAR,1998,1390
+Mozambique,MOZ,1998,220
+Myanmar,MMR,1998,NA
+Namibia,NAM,1998,2270
+Nepal,NPL,1998,220
+New Zealand,NZL,1998,15760
+Nicaragua,NIC,1998,880
+Niger,NER,1998,200
+Nigeria,NGA,1998,270
+Norway,NOR,1998,36110
+Pakistan,PAK,1998,450
+Panama,PAN,1998,3440
+Paraguay,PRY,1998,1700
+Peru,PER,1998,2130
+Philippines,PHL,1998,1200
+Poland,POL,1998,4380
+Portugal,PRT,1998,12170
+Romania,ROM,1998,1520
+Rwanda,RWA,1998,260
+Senegal,SEN,1998,530
+Serbia,SRB,1998,NA
+Sierra Leone,SLE,1998,190
+Slovak Republic,SVK,1998,5410
+Slovenia,SVN,1998,11050
+Sri Lanka,LKA,1998,810
+South Africa,ZAF,1998,3370
+Sudan,SDN,1998,330
+Suriname,SUR,1998,2000
+Swaziland,SWZ,1998,1650
+Sweden,SWE,1998,31120
+Tajikistan,TJK,1998,180
+Tanzania,TZA,1998,250
+Thailand,THA,1998,2070
+Togo,TGO,1998,330
+Tunisia,TUN,1998,2190
+Turkmenistan,TKM,1998,560
+Uganda,UGA,1998,280
+Ukraine,UKR,1998,850
+United Arab Emirates,ARE,1998,NA
+Uruguay,URY,1998,7240
+Uzbekistan,UZB,1998,620
+"Venezuela, RB",VEN,1998,3350
+Vietnam,VNM,1998,360
+"Yemen, Rep.",YEM,1998,370
+Zambia,ZMB,1998,370
+Zimbabwe,ZWE,1998,590
+Argentina,ARG,1999,7570
+Australia,AUS,1999,21430
+Brazil,BRA,1999,4130
+China,CHN,1999,850
+France,FRA,1999,25560
+Germany,DEU,1999,26840
+India,IND,1999,450
+Indonesia,IDN,1999,580
+Italy,ITA,1999,21910
+Japan,JPN,1999,32830
+"Korea, Rep.",KOR,1999,10160
+Mexico,MEX,1999,5030
+Netherlands,NLD,1999,28140
+Russian Federation,RUS,1999,1750
+Saudi Arabia,SAU,1999,8030
+Spain,ESP,1999,15660
+Switzerland,CHE,1999,43130
+Turkey,TUR,1999,3530
+United Kingdom,GBR,1999,26020
+United States,USA,1999,33780
+Afghanistan,AFG,1999,NA
+Algeria,DZA,1999,1500
+Albania,ALB,1999,970
+Angola,AGO,1999,390
+Armenia,ARM,1999,610
+Austria,AUT,1999,27210
+Azerbaijan,AZE,1999,570
+Bangladesh,BGD,1999,410
+Belarus,BLR,1999,1400
+Belgium,BEL,1999,26140
+Belize,BLZ,1999,2960
+Benin,BEN,1999,360
+Bolivia,BOL,1999,970
+Bosnia and Herzegovina,BIH,1999,1400
+Botswana,BWA,1999,2940
+Bulgaria,BGR,1999,1490
+Burkina Faso,BFA,1999,260
+Cambodia,KHM,1999,290
+Cameroon,CMR,1999,630
+Canada,CAN,1999,21250
+Central African Republic,CAF,1999,270
+Chad,TCD,1999,200
+Chile,CHL,1999,4910
+Colombia,COL,1999,2310
+"Congo, Rep.",COG,1999,490
+Costa Rica,CRI,1999,3480
+Cote d'Ivoire,CIV,1999,740
+Croatia,HRV,1999,5110
+Cuba,CUB,1999,2390
+Cyprus,CYP,1999,14200
+Czech Republic,CZE,1999,6070
+Denmark,DNK,1999,33130
+Dominican Republic,DOM,1999,2450
+Ecuador,ECU,1999,1800
+"Egypt, Arab Rep.",EGY,1999,1360
+El Salvador,SLV,1999,1990
+Estonia,EST,1999,NA
+Ethiopia,ETH,1999,120
+Finland,FIN,1999,26040
+"Gambia, The",GMB,1999,690
+Gabon,GAB,1999,3290
+Georgia,GEO,1999,780
+Ghana,GHA,1999,400
+Greece,GRC,1999,13210
+Guatemala,GTM,1999,1710
+Guinea,GIN,1999,420
+Guinea-Bissau,GNB,1999,150
+Guyana,GUY,1999,890
+Haiti,HTI,1999,NA
+Honduras,HND,1999,790
+Hungary,HUN,1999,4530
+Iceland,ISL,1999,30220
+Jamaica,JAM,1999,3040
+Jordan,JOR,1999,1650
+Kazakhstan,KAZ,1999,1290
+Kenya,KEN,1999,440
+Kyrgyz Republic,KGZ,1999,300
+Lao PDR,LAO,1999,280
+Latvia,LVA,1999,3220
+Lebanon,LBN,1999,5330
+Lesotho,LSO,1999,600
+Liberia,LBR,1999,120
+Libya,LBY,1999,NA
+Lithuania,LTU,1999,NA
+Luxembourg,LUX,1999,38920
+"Macedonia, FYR",MKD,1999,1800
+Malawi,MWI,1999,180
+Malaysia,MYS,1999,3350
+Mali,MLI,1999,260
+Malta,MLT,1999,10380
+Mauritania,MRT,1999,560
+Moldova,MDA,1999,400
+Mongolia,MNG,1999,480
+Montenegro,MNE,1999,NA
+Morocco,MAR,1999,1340
+Mozambique,MOZ,1999,240
+Myanmar,MMR,1999,NA
+Namibia,NAM,1999,2130
+Nepal,NPL,1999,220
+New Zealand,NZL,1999,15040
+Nicaragua,NIC,1999,920
+Niger,NER,1999,190
+Nigeria,NGA,1999,NA
+Norway,NOR,1999,35550
+Pakistan,PAK,1999,450
+Panama,PAN,1999,3500
+Paraguay,PRY,1999,1550
+Peru,PER,1999,2020
+Philippines,PHL,1999,1180
+Poland,POL,1999,4450
+Portugal,PRT,1999,12240
+Romania,ROM,1999,1580
+Rwanda,RWA,1999,250
+Senegal,SEN,1999,530
+Serbia,SRB,1999,2390
+Sierra Leone,SLE,1999,170
+Slovak Republic,SVK,1999,5360
+Slovenia,SVN,1999,11370
+Sri Lanka,LKA,1999,820
+South Africa,ZAF,1999,3230
+Sudan,SDN,1999,330
+Suriname,SUR,1999,1820
+Swaziland,SWZ,1999,1640
+Sweden,SWE,1999,30910
+Tajikistan,TJK,1999,180
+Tanzania,TZA,1999,280
+Thailand,THA,1999,1960
+Togo,TGO,1999,320
+Tunisia,TUN,1999,2300
+Turkmenistan,TKM,1999,620
+Uganda,UGA,1999,280
+Ukraine,UKR,1999,760
+United Arab Emirates,ARE,1999,NA
+Uruguay,URY,1999,7260
+Uzbekistan,UZB,1999,650
+"Venezuela, RB",VEN,1999,3540
+Vietnam,VNM,1999,370
+"Yemen, Rep.",YEM,1999,380
+Zambia,ZMB,1999,360
+Zimbabwe,ZWE,1999,540
+Argentina,ARG,2000,7470
+Australia,AUS,2000,21110
+Brazil,BRA,2000,3880
+China,CHN,2000,930
+France,FRA,2000,25150
+Germany,DEU,2000,26170
+India,IND,2000,460
+Indonesia,IDN,2000,570
+Italy,ITA,2000,21820
+Japan,JPN,2000,34980
+"Korea, Rep.",KOR,2000,10750
+Mexico,MEX,2000,5690
+Netherlands,NLD,2000,28470
+Russian Federation,RUS,2000,1710
+Saudi Arabia,SAU,2000,8350
+Spain,ESP,2000,15900
+Switzerland,CHE,2000,43490
+Turkey,TUR,2000,4190
+United Kingdom,GBR,2000,27230
+United States,USA,2000,36070
+Afghanistan,AFG,2000,NA
+Algeria,DZA,2000,1540
+Albania,ALB,2000,1170
+Angola,AGO,2000,420
+Armenia,ARM,2000,660
+Austria,AUT,2000,26690
+Azerbaijan,AZE,2000,610
+Bangladesh,BGD,2000,420
+Belarus,BLR,2000,1380
+Belgium,BEL,2000,25980
+Belize,BLZ,2000,3270
+Benin,BEN,2000,360
+Bolivia,BOL,2000,980
+Bosnia and Herzegovina,BIH,2000,1450
+Botswana,BWA,2000,2970
+Bulgaria,BGR,2000,1680
+Burkina Faso,BFA,2000,250
+Cambodia,KHM,2000,300
+Cameroon,CMR,2000,600
+Canada,CAN,2000,22530
+Central African Republic,CAF,2000,260
+Chad,TCD,2000,180
+Chile,CHL,2000,4920
+Colombia,COL,2000,2340
+"Congo, Rep.",COG,2000,570
+Costa Rica,CRI,2000,3700
+Cote d'Ivoire,CIV,2000,660
+Croatia,HRV,2000,5290
+Cuba,CUB,2000,2620
+Cyprus,CYP,2000,14070
+Czech Republic,CZE,2000,6320
+Denmark,DNK,2000,32660
+Dominican Republic,DOM,2000,2600
+Ecuador,ECU,2000,1550
+"Egypt, Arab Rep.",EGY,2000,1470
+El Salvador,SLV,2000,2110
+Estonia,EST,2000,4130
+Ethiopia,ETH,2000,130
+Finland,FIN,2000,26420
+"Gambia, The",GMB,2000,670
+Gabon,GAB,2000,3100
+Georgia,GEO,2000,750
+Ghana,GHA,2000,340
+Greece,GRC,2000,13180
+Guatemala,GTM,2000,1730
+Guinea,GIN,2000,380
+Guinea-Bissau,GNB,2000,200
+Guyana,GUY,2000,880
+Haiti,HTI,2000,NA
+Honduras,HND,2000,930
+Hungary,HUN,2000,4650
+Iceland,ISL,2000,31540
+Jamaica,JAM,2000,3310
+Jordan,JOR,2000,1790
+Kazakhstan,KAZ,2000,1260
+Kenya,KEN,2000,420
+Kyrgyz Republic,KGZ,2000,280
+Lao PDR,LAO,2000,280
+Latvia,LVA,2000,3740
+Lebanon,LBN,2000,5470
+Lesotho,LSO,2000,580
+Liberia,LBR,2000,180
+Libya,LBY,2000,NA
+Lithuania,LTU,2000,NA
+Luxembourg,LUX,2000,39100
+"Macedonia, FYR",MKD,2000,1830
+Malawi,MWI,2000,150
+Malaysia,MYS,2000,3420
+Mali,MLI,2000,250
+Malta,MLT,2000,10510
+Mauritania,MRT,2000,520
+Moldova,MDA,2000,370
+Mongolia,MNG,2000,470
+Montenegro,MNE,2000,NA
+Morocco,MAR,2000,1320
+Mozambique,MOZ,2000,230
+Myanmar,MMR,2000,NA
+Namibia,NAM,2000,2110
+Nepal,NPL,2000,230
+New Zealand,NZL,2000,14070
+Nicaragua,NIC,2000,960
+Niger,NER,2000,170
+Nigeria,NGA,2000,270
+Norway,NOR,2000,36560
+Pakistan,PAK,2000,470
+Panama,PAN,2000,3610
+Paraguay,PRY,2000,1350
+Peru,PER,2000,1960
+Philippines,PHL,2000,1230
+Poland,POL,2000,4690
+Portugal,PRT,2000,12140
+Romania,ROM,2000,1700
+Rwanda,RWA,2000,230
+Senegal,SEN,2000,510
+Serbia,SRB,2000,1530
+Sierra Leone,SLE,2000,160
+Slovak Republic,SVK,2000,5520
+Slovenia,SVN,2000,11350
+Sri Lanka,LKA,2000,860
+South Africa,ZAF,2000,3140
+Sudan,SDN,2000,330
+Suriname,SUR,2000,1930
+Swaziland,SWZ,2000,1520
+Sweden,SWE,2000,31220
+Tajikistan,TJK,2000,170
+Tanzania,TZA,2000,310
+Thailand,THA,2000,1960
+Togo,TGO,2000,300
+Tunisia,TUN,2000,2310
+Turkmenistan,TKM,2000,600
+Uganda,UGA,2000,260
+Ukraine,UKR,2000,700
+United Arab Emirates,ARE,2000,NA
+Uruguay,URY,2000,7050
+Uzbekistan,UZB,2000,630
+"Venezuela, RB",VEN,2000,4090
+Vietnam,VNM,2000,400
+"Yemen, Rep.",YEM,2000,420
+Zambia,ZMB,2000,350
+Zimbabwe,ZWE,2000,490
+Argentina,ARG,2001,7000
+Australia,AUS,2001,20110
+Brazil,BRA,2001,3320
+China,CHN,2001,1010
+France,FRA,2001,23940
+Germany,DEU,2001,24750
+India,IND,2001,470
+Indonesia,IDN,2001,680
+Italy,ITA,2001,21080
+Japan,JPN,2001,35600
+"Korea, Rep.",KOR,2001,11630
+Mexico,MEX,2001,6180
+Netherlands,NLD,2001,26920
+Russian Federation,RUS,2001,1780
+Saudi Arabia,SAU,2001,8570
+Spain,ESP,2001,15580
+Switzerland,CHE,2001,40950
+Turkey,TUR,2001,3470
+United Kingdom,GBR,2001,27040
+United States,USA,2001,36840
+Afghanistan,AFG,2001,NA
+Algeria,DZA,2001,1640
+Albania,ALB,2001,1340
+Angola,AGO,2001,470
+Armenia,ARM,2001,710
+Austria,AUT,2001,25270
+Azerbaijan,AZE,2001,660
+Bangladesh,BGD,2001,420
+Belarus,BLR,2001,1300
+Belgium,BEL,2001,24490
+Belize,BLZ,2001,3270
+Benin,BEN,2001,360
+Bolivia,BOL,2001,940
+Bosnia and Herzegovina,BIH,2001,1550
+Botswana,BWA,2001,3060
+Bulgaria,BGR,2001,1790
+Burkina Faso,BFA,2001,240
+Cambodia,KHM,2001,310
+Cameroon,CMR,2001,580
+Canada,CAN,2001,22870
+Central African Republic,CAF,2001,260
+Chad,TCD,2001,190
+Chile,CHL,2001,4760
+Colombia,COL,2001,2320
+"Congo, Rep.",COG,2001,630
+Costa Rica,CRI,2001,3870
+Cote d'Ivoire,CIV,2001,610
+Croatia,HRV,2001,5190
+Cuba,CUB,2001,2750
+Cyprus,CYP,2001,14040
+Czech Republic,CZE,2001,6320
+Denmark,DNK,2001,31440
+Dominican Republic,DOM,2001,2620
+Ecuador,ECU,2001,1560
+"Egypt, Arab Rep.",EGY,2001,1500
+El Salvador,SLV,2001,2180
+Estonia,EST,2001,4310
+Ethiopia,ETH,2001,130
+Finland,FIN,2001,25780
+"Gambia, The",GMB,2001,600
+Gabon,GAB,2001,3430
+Georgia,GEO,2001,720
+Ghana,GHA,2001,300
+Greece,GRC,2001,12950
+Guatemala,GTM,2001,1670
+Guinea,GIN,2001,340
+Guinea-Bissau,GNB,2001,240
+Guyana,GUY,2001,860
+Haiti,HTI,2001,NA
+Honduras,HND,2001,1030
+Hungary,HUN,2001,4800
+Iceland,ISL,2001,30450
+Jamaica,JAM,2001,3300
+Jordan,JOR,2001,1840
+Kazakhstan,KAZ,2001,1350
+Kenya,KEN,2001,400
+Kyrgyz Republic,KGZ,2001,280
+Lao PDR,LAO,2001,300
+Latvia,LVA,2001,4320
+Lebanon,LBN,2001,5300
+Lesotho,LSO,2001,640
+Liberia,LBR,2001,140
+Libya,LBY,2001,NA
+Lithuania,LTU,2001,NA
+Luxembourg,LUX,2001,39170
+"Macedonia, FYR",MKD,2001,1770
+Malawi,MWI,2001,140
+Malaysia,MYS,2001,3510
+Mali,MLI,2001,240
+Malta,MLT,2001,10160
+Mauritania,MRT,2001,470
+Moldova,MDA,2001,400
+Mongolia,MNG,2001,480
+Montenegro,MNE,2001,NA
+Morocco,MAR,2001,1330
+Mozambique,MOZ,2001,230
+Myanmar,MMR,2001,NA
+Namibia,NAM,2001,1970
+Nepal,NPL,2001,240
+New Zealand,NZL,2001,13800
+Nicaragua,NIC,2001,970
+Niger,NER,2001,170
+Nigeria,NGA,2001,310
+Norway,NOR,2001,38250
+Pakistan,PAK,2001,480
+Panama,PAN,2001,3570
+Paraguay,PRY,2001,1280
+Peru,PER,2001,1890
+Philippines,PHL,2001,1230
+Poland,POL,2001,4750
+Portugal,PRT,2001,11800
+Romania,ROM,2001,1760
+Rwanda,RWA,2001,210
+Senegal,SEN,2001,490
+Serbia,SRB,2001,1450
+Sierra Leone,SLE,2001,160
+Slovak Republic,SVK,2001,5710
+Slovenia,SVN,2001,11000
+Sri Lanka,LKA,2001,830
+South Africa,ZAF,2001,2900
+Sudan,SDN,2001,340
+Suriname,SUR,2001,1630
+Swaziland,SWZ,2001,1480
+Sweden,SWE,2001,29390
+Tajikistan,TJK,2001,160
+Tanzania,TZA,2001,310
+Thailand,THA,2001,1900
+Togo,TGO,2001,270
+Tunisia,TUN,2001,2280
+Turkmenistan,TKM,2001,650
+Uganda,UGA,2001,240
+Ukraine,UKR,2001,730
+United Arab Emirates,ARE,2001,33720
+Uruguay,URY,2001,6500
+Uzbekistan,UZB,2001,560
+"Venezuela, RB",VEN,2001,4560
+Vietnam,VNM,2001,430
+"Yemen, Rep.",YEM,2001,480
+Zambia,ZMB,2001,360
+Zimbabwe,ZWE,2001,510
+Argentina,ARG,2002,4050
+Australia,AUS,2002,19960
+Brazil,BRA,2002,3070
+China,CHN,2002,1100
+France,FRA,2002,23180
+Germany,DEU,2002,23680
+India,IND,2002,470
+Indonesia,IDN,2002,730
+Italy,ITA,2002,20640
+Japan,JPN,2002,33750
+"Korea, Rep.",KOR,2002,12470
+Mexico,MEX,2002,6510
+Netherlands,NLD,2002,26660
+Russian Federation,RUS,2002,2100
+Saudi Arabia,SAU,2002,8470
+Spain,ESP,2002,15580
+Switzerland,CHE,2002,39730
+Turkey,TUR,2002,3480
+United Kingdom,GBR,2002,27420
+United States,USA,2002,37470
+Afghanistan,AFG,2002,NA
+Algeria,DZA,2002,1700
+Albania,ALB,2002,1410
+Angola,AGO,2002,640
+Armenia,ARM,2002,800
+Austria,AUT,2002,24950
+Azerbaijan,AZE,2002,720
+Bangladesh,BGD,2002,420
+Belarus,BLR,2002,1380
+Belgium,BEL,2002,24050
+Belize,BLZ,2002,3360
+Benin,BEN,2002,350
+Bolivia,BOL,2002,910
+Bosnia and Herzegovina,BIH,2002,1700
+Botswana,BWA,2002,2760
+Bulgaria,BGR,2002,1950
+Burkina Faso,BFA,2002,240
+Cambodia,KHM,2002,320
+Cameroon,CMR,2002,570
+Canada,CAN,2002,23330
+Central African Republic,CAF,2002,260
+Chad,TCD,2002,200
+Chile,CHL,2002,4550
+Colombia,COL,2002,2350
+"Congo, Rep.",COG,2002,680
+Costa Rica,CRI,2002,3940
+Cote d'Ivoire,CIV,2002,580
+Croatia,HRV,2002,5470
+Cuba,CUB,2002,2820
+Cyprus,CYP,2002,14340
+Czech Republic,CZE,2002,6620
+Denmark,DNK,2002,30870
+Dominican Republic,DOM,2002,2780
+Ecuador,ECU,2002,1740
+"Egypt, Arab Rep.",EGY,2002,1410
+El Salvador,SLV,2002,2260
+Estonia,EST,2002,4620
+Ethiopia,ETH,2002,120
+Finland,FIN,2002,25510
+"Gambia, The",GMB,2002,480
+Gabon,GAB,2002,3610
+Georgia,GEO,2002,770
+Ghana,GHA,2002,280
+Greece,GRC,2002,13030
+Guatemala,GTM,2002,1680
+Guinea,GIN,2002,330
+Guinea-Bissau,GNB,2002,290
+Guyana,GUY,2002,880
+Haiti,HTI,2002,NA
+Honduras,HND,2002,1130
+Hungary,HUN,2002,5290
+Iceland,ISL,2002,30380
+Jamaica,JAM,2002,NA
+Jordan,JOR,2002,1880
+Kazakhstan,KAZ,2002,1520
+Kenya,KEN,2002,390
+Kyrgyz Republic,KGZ,2002,290
+Lao PDR,LAO,2002,320
+Latvia,LVA,2002,4860
+Lebanon,LBN,2002,5000
+Lesotho,LSO,2002,580
+Liberia,LBR,2002,150
+Libya,LBY,2002,5360
+Lithuania,LTU,2002,NA
+Luxembourg,LUX,2002,40620
+"Macedonia, FYR",MKD,2002,1800
+Malawi,MWI,2002,160
+Malaysia,MYS,2002,3760
+Mali,MLI,2002,250
+Malta,MLT,2002,10310
+Mauritania,MRT,2002,500
+Moldova,MDA,2002,460
+Mongolia,MNG,2002,530
+Montenegro,MNE,2002,1960
+Morocco,MAR,2002,1310
+Mozambique,MOZ,2002,230
+Myanmar,MMR,2002,NA
+Namibia,NAM,2002,1890
+Nepal,NPL,2002,240
+New Zealand,NZL,2002,14200
+Nicaragua,NIC,2002,960
+Niger,NER,2002,170
+Nigeria,NGA,2002,350
+Norway,NOR,2002,39900
+Pakistan,PAK,2002,500
+Panama,PAN,2002,3680
+Paraguay,PRY,2002,1170
+Peru,PER,2002,1960
+Philippines,PHL,2002,1190
+Poland,POL,2002,4930
+Portugal,PRT,2002,11730
+Romania,ROM,2002,1950
+Rwanda,RWA,2002,210
+Senegal,SEN,2002,470
+Serbia,SRB,2002,1430
+Sierra Leone,SLE,2002,220
+Slovak Republic,SVK,2002,6020
+Slovenia,SVN,2002,10990
+Sri Lanka,LKA,2002,860
+South Africa,ZAF,2002,2710
+Sudan,SDN,2002,360
+Suriname,SUR,2002,1840
+Swaziland,SWZ,2002,1260
+Sweden,SWE,2002,28740
+Tajikistan,TJK,2002,170
+Tanzania,TZA,2002,310
+Thailand,THA,2002,1900
+Togo,TGO,2002,260
+Tunisia,TUN,2002,2210
+Turkmenistan,TKM,2002,750
+Uganda,UGA,2002,240
+Ukraine,UKR,2002,790
+United Arab Emirates,ARE,2002,33380
+Uruguay,URY,2002,5140
+Uzbekistan,UZB,2002,450
+"Venezuela, RB",VEN,2002,3950
+Vietnam,VNM,2002,460
+"Yemen, Rep.",YEM,2002,510
+Zambia,ZMB,2002,370
+Zimbabwe,ZWE,2002,470
+Argentina,ARG,2003,3670
+Australia,AUS,2003,21110
+Brazil,BRA,2003,2950
+China,CHN,2003,1270
+France,FRA,2003,26020
+Germany,DEU,2003,26210
+India,IND,2003,530
+Indonesia,IDN,2003,910
+Italy,ITA,2003,23270
+Japan,JPN,2003,34010
+"Korea, Rep.",KOR,2003,13360
+Mexico,MEX,2003,6790
+Netherlands,NLD,2003,30570
+Russian Federation,RUS,2003,2580
+Saudi Arabia,SAU,2003,9070
+Spain,ESP,2003,18060
+Switzerland,CHE,2003,45630
+Turkey,TUR,2003,3810
+United Kingdom,GBR,2003,30640
+United States,USA,2003,39950
+Afghanistan,AFG,2003,NA
+Algeria,DZA,2003,1890
+Albania,ALB,2003,1690
+Angola,AGO,2003,730
+Armenia,ARM,2003,950
+Austria,AUT,2003,27940
+Azerbaijan,AZE,2003,820
+Bangladesh,BGD,2003,450
+Belarus,BLR,2003,1630
+Belgium,BEL,2003,27060
+Belize,BLZ,2003,3600
+Benin,BEN,2003,400
+Bolivia,BOL,2003,900
+Bosnia and Herzegovina,BIH,2003,1970
+Botswana,BWA,2003,3190
+Bulgaria,BGR,2003,2350
+Burkina Faso,BFA,2003,280
+Cambodia,KHM,2003,350
+Cameroon,CMR,2003,660
+Canada,CAN,2003,25210
+Central African Republic,CAF,2003,260
+Chad,TCD,2003,210
+Chile,CHL,2003,4570
+Colombia,COL,2003,2350
+"Congo, Rep.",COG,2003,700
+Costa Rica,CRI,2003,4150
+Cote d'Ivoire,CIV,2003,640
+Croatia,HRV,2003,6490
+Cuba,CUB,2003,3090
+Cyprus,CYP,2003,16580
+Czech Republic,CZE,2003,8060
+Denmark,DNK,2003,34850
+Dominican Republic,DOM,2003,2560
+Ecuador,ECU,2003,2130
+"Egypt, Arab Rep.",EGY,2003,1340
+El Salvador,SLV,2003,2410
+Estonia,EST,2003,5710
+Ethiopia,ETH,2003,110
+Finland,FIN,2003,28680
+"Gambia, The",GMB,2003,420
+Gabon,GAB,2003,3880
+Georgia,GEO,2003,910
+Ghana,GHA,2003,320
+Greece,GRC,2003,15570
+Guatemala,GTM,2003,1750
+Guinea,GIN,2003,320
+Guinea-Bissau,GNB,2003,310
+Guyana,GUY,2003,900
+Haiti,HTI,2003,NA
+Honduras,HND,2003,1200
+Hungary,HUN,2003,6650
+Iceland,ISL,2003,33130
+Jamaica,JAM,2003,NA
+Jordan,JOR,2003,2000
+Kazakhstan,KAZ,2003,1800
+Kenya,KEN,2003,410
+Kyrgyz Republic,KGZ,2003,340
+Lao PDR,LAO,2003,330
+Latvia,LVA,2003,5560
+Lebanon,LBN,2003,4470
+Lesotho,LSO,2003,640
+Liberia,LBR,2003,80
+Libya,LBY,2003,5350
+Lithuania,LTU,2003,NA
+Luxembourg,LUX,2003,43840
+"Macedonia, FYR",MKD,2003,2060
+Malawi,MWI,2003,190
+Malaysia,MYS,2003,4130
+Mali,MLI,2003,310
+Malta,MLT,2003,11300
+Mauritania,MRT,2003,510
+Moldova,MDA,2003,570
+Mongolia,MNG,2003,610
+Montenegro,MNE,2003,2440
+Morocco,MAR,2003,1480
+Mozambique,MOZ,2003,230
+Myanmar,MMR,2003,NA
+Namibia,NAM,2003,2170
+Nepal,NPL,2003,260
+New Zealand,NZL,2003,17000
+Nicaragua,NIC,2003,990
+Niger,NER,2003,190
+Nigeria,NGA,2003,410
+Norway,NOR,2003,44760
+Pakistan,PAK,2003,540
+Panama,PAN,2003,3780
+Paraguay,PRY,2003,1040
+Peru,PER,2003,2080
+Philippines,PHL,2003,1270
+Poland,POL,2003,5550
+Portugal,PRT,2003,13230
+Romania,ROM,2003,2340
+Rwanda,RWA,2003,200
+Senegal,SEN,2003,550
+Serbia,SRB,2003,2260
+Sierra Leone,SLE,2003,300
+Slovak Republic,SVK,2003,6960
+Slovenia,SVN,2003,12700
+Sri Lanka,LKA,2003,950
+South Africa,ZAF,2003,2960
+Sudan,SDN,2003,410
+Suriname,SUR,2003,2120
+Swaziland,SWZ,2003,1340
+Sweden,SWE,2003,32410
+Tajikistan,TJK,2003,210
+Tanzania,TZA,2003,330
+Thailand,THA,2003,2060
+Togo,TGO,2003,290
+Tunisia,TUN,2003,2500
+Turkmenistan,TKM,2003,990
+Uganda,UGA,2003,240
+Ukraine,UKR,2003,980
+United Arab Emirates,ARE,2003,36120
+Uruguay,URY,2003,4240
+Uzbekistan,UZB,2003,420
+"Venezuela, RB",VEN,2003,3450
+Vietnam,VNM,2003,510
+"Yemen, Rep.",YEM,2003,540
+Zambia,ZMB,2003,420
+Zimbabwe,ZWE,2003,410
+Argentina,ARG,2004,3810
+Australia,AUS,2004,25500
+Brazil,BRA,2004,3320
+China,CHN,2004,1500
+France,FRA,2004,31500
+Germany,DEU,2004,31710
+India,IND,2004,630
+Indonesia,IDN,2004,1090
+Italy,ITA,2004,28220
+Japan,JPN,2004,37150
+"Korea, Rep.",KOR,2004,15650
+Mexico,MEX,2004,7310
+Netherlands,NLD,2004,37250
+Russian Federation,RUS,2004,3410
+Saudi Arabia,SAU,2004,10620
+Spain,ESP,2004,22120
+Switzerland,CHE,2004,53810
+Turkey,TUR,2004,5070
+United Kingdom,GBR,2004,36170
+United States,USA,2004,43680
+Afghanistan,AFG,2004,210
+Algeria,DZA,2004,2200
+Albania,ALB,2004,2160
+Angola,AGO,2004,950
+Armenia,ARM,2004,1160
+Austria,AUT,2004,33620
+Azerbaijan,AZE,2004,950
+Bangladesh,BGD,2004,490
+Belarus,BLR,2004,2180
+Belgium,BEL,2004,32860
+Belize,BLZ,2004,3740
+Benin,BEN,2004,470
+Bolivia,BOL,2004,940
+Bosnia and Herzegovina,BIH,2004,2480
+Botswana,BWA,2004,3740
+Bulgaria,BGR,2004,3020
+Burkina Faso,BFA,2004,340
+Cambodia,KHM,2004,400
+Cameroon,CMR,2004,800
+Canada,CAN,2004,29220
+Central African Republic,CAF,2004,310
+Chad,TCD,2004,340
+Chile,CHL,2004,5230
+Colombia,COL,2004,2590
+"Congo, Rep.",COG,2004,780
+Costa Rica,CRI,2004,4510
+Cote d'Ivoire,CIV,2004,810
+Croatia,HRV,2004,8270
+Cuba,CUB,2004,3480
+Cyprus,CYP,2004,20030
+Czech Republic,CZE,2004,10210
+Denmark,DNK,2004,42760
+Dominican Republic,DOM,2004,2450
+Ecuador,ECU,2004,2560
+"Egypt, Arab Rep.",EGY,2004,1280
+El Salvador,SLV,2004,2610
+Estonia,EST,2004,7480
+Ethiopia,ETH,2004,140
+Finland,FIN,2004,35200
+"Gambia, The",GMB,2004,430
+Gabon,GAB,2004,4320
+Georgia,GEO,2004,1100
+Ghana,GHA,2004,390
+Greece,GRC,2004,19400
+Guatemala,GTM,2004,1920
+Guinea,GIN,2004,360
+Guinea-Bissau,GNB,2004,360
+Guyana,GUY,2004,920
+Haiti,HTI,2004,380
+Honduras,HND,2004,1290
+Hungary,HUN,2004,8680
+Iceland,ISL,2004,41410
+Jamaica,JAM,2004,NA
+Jordan,JOR,2004,2280
+Kazakhstan,KAZ,2004,2300
+Kenya,KEN,2004,460
+Kyrgyz Republic,KGZ,2004,400
+Lao PDR,LAO,2004,390
+Latvia,LVA,2004,6600
+Lebanon,LBN,2004,5610
+Lesotho,LSO,2004,750
+Liberia,LBR,2004,90
+Libya,LBY,2004,5330
+Lithuania,LTU,2004,NA
+Luxembourg,LUX,2004,55470
+"Macedonia, FYR",MKD,2004,2530
+Malawi,MWI,2004,220
+Malaysia,MYS,2004,4700
+Mali,MLI,2004,380
+Malta,MLT,2004,12940
+Mauritania,MRT,2004,590
+Moldova,MDA,2004,730
+Mongolia,MNG,2004,760
+Montenegro,MNE,2004,3100
+Morocco,MAR,2004,1760
+Mozambique,MOZ,2004,260
+Myanmar,MMR,2004,NA
+Namibia,NAM,2004,2760
+Nepal,NPL,2004,290
+New Zealand,NZL,2004,21510
+Nicaragua,NIC,2004,1080
+Niger,NER,2004,220
+Nigeria,NGA,2004,610
+Norway,NOR,2004,54110
+Pakistan,PAK,2004,620
+Panama,PAN,2004,4140
+Paraguay,PRY,2004,1110
+Peru,PER,2004,2290
+Philippines,PHL,2004,1400
+Poland,POL,2004,6260
+Portugal,PRT,2004,16120
+Romania,ROM,2004,3000
+Rwanda,RWA,2004,220
+Senegal,SEN,2004,670
+Serbia,SRB,2004,3070
+Sierra Leone,SLE,2004,300
+Slovak Republic,SVK,2004,9030
+Slovenia,SVN,2004,15710
+Sri Lanka,LKA,2004,1070
+South Africa,ZAF,2004,3770
+Sudan,SDN,2004,470
+Suriname,SUR,2004,2820
+Swaziland,SWZ,2004,1710
+Sweden,SWE,2004,39390
+Tajikistan,TJK,2004,270
+Tanzania,TZA,2004,360
+Thailand,THA,2004,2370
+Togo,TGO,2004,330
+Tunisia,TUN,2004,2920
+Turkmenistan,TKM,2004,1310
+Uganda,UGA,2004,270
+Ukraine,UKR,2004,1270
+United Arab Emirates,ARE,2004,40210
+Uruguay,URY,2004,4130
+Uzbekistan,UZB,2004,460
+"Venezuela, RB",VEN,2004,4060
+Vietnam,VNM,2004,590
+"Yemen, Rep.",YEM,2004,610
+Zambia,ZMB,2004,480
+Zimbabwe,ZWE,2004,430
+Argentina,ARG,2005,5060
+Australia,AUS,2005,30320
+Brazil,BRA,2005,3950
+China,CHN,2005,1750
+France,FRA,2005,36010
+Germany,DEU,2005,35880
+India,IND,2005,740
+Indonesia,IDN,2005,1230
+Italy,ITA,2005,32390
+Japan,JPN,2005,39140
+"Korea, Rep.",KOR,2005,17800
+Mexico,MEX,2005,7650
+Netherlands,NLD,2005,42010
+Russian Federation,RUS,2005,4450
+Saudi Arabia,SAU,2005,12480
+Spain,ESP,2005,25930
+Switzerland,CHE,2005,61550
+Turkey,TUR,2005,6520
+United Kingdom,GBR,2005,41010
+United States,USA,2005,46340
+Afghanistan,AFG,2005,250
+Algeria,DZA,2005,2660
+Albania,ALB,2005,2690
+Angola,AGO,2005,1270
+Armenia,ARM,2005,1520
+Austria,AUT,2005,38500
+Azerbaijan,AZE,2005,1270
+Bangladesh,BGD,2005,540
+Belarus,BLR,2005,2820
+Belgium,BEL,2005,37630
+Belize,BLZ,2005,3830
+Benin,BEN,2005,530
+Bolivia,BOL,2005,1000
+Bosnia and Herzegovina,BIH,2005,2940
+Botswana,BWA,2005,4730
+Bulgaria,BGR,2005,3700
+Burkina Faso,BFA,2005,410
+Cambodia,KHM,2005,460
+Cameroon,CMR,2005,900
+Canada,CAN,2005,33950
+Central African Republic,CAF,2005,340
+Chad,TCD,2005,470
+Chile,CHL,2005,6250
+Colombia,COL,2005,2930
+"Congo, Rep.",COG,2005,970
+Costa Rica,CRI,2005,4810
+Cote d'Ivoire,CIV,2005,980
+Croatia,HRV,2005,9870
+Cuba,CUB,2005,3950
+Cyprus,CYP,2005,23580
+Czech Republic,CZE,2005,12380
+Denmark,DNK,2005,49620
+Dominican Republic,DOM,2005,2860
+Ecuador,ECU,2005,2890
+"Egypt, Arab Rep.",EGY,2005,1290
+El Salvador,SLV,2005,2810
+Estonia,EST,2005,9720
+Ethiopia,ETH,2005,160
+Finland,FIN,2005,40100
+"Gambia, The",GMB,2005,410
+Gabon,GAB,2005,5570
+Georgia,GEO,2005,1360
+Ghana,GHA,2005,470
+Greece,GRC,2005,22510
+Guatemala,GTM,2005,2070
+Guinea,GIN,2005,340
+Guinea-Bissau,GNB,2005,400
+Guyana,GUY,2005,1030
+Haiti,HTI,2005,420
+Honduras,HND,2005,1380
+Hungary,HUN,2005,10410
+Iceland,ISL,2005,50730
+Jamaica,JAM,2005,NA
+Jordan,JOR,2005,2490
+Kazakhstan,KAZ,2005,2950
+Kenya,KEN,2005,520
+Kyrgyz Republic,KGZ,2005,450
+Lao PDR,LAO,2005,450
+Latvia,LVA,2005,7760
+Lebanon,LBN,2005,5740
+Lesotho,LSO,2005,910
+Liberia,LBR,2005,120
+Libya,LBY,2005,7110
+Lithuania,LTU,2005,NA
+Luxembourg,LUX,2005,70340
+"Macedonia, FYR",MKD,2005,2950
+Malawi,MWI,2005,220
+Malaysia,MYS,2005,5240
+Mali,MLI,2005,440
+Malta,MLT,2005,14390
+Mauritania,MRT,2005,690
+Moldova,MDA,2005,890
+Mongolia,MNG,2005,900
+Montenegro,MNE,2005,3660
+Morocco,MAR,2005,1980
+Mozambique,MOZ,2005,290
+Myanmar,MMR,2005,NA
+Namibia,NAM,2005,3390
+Nepal,NPL,2005,320
+New Zealand,NZL,2005,25490
+Nicaragua,NIC,2005,1160
+Niger,NER,2005,250
+Nigeria,NGA,2005,660
+Norway,NOR,2005,63790
+Pakistan,PAK,2005,710
+Panama,PAN,2005,4460
+Paraguay,PRY,2005,1210
+Peru,PER,2005,2530
+Philippines,PHL,2005,1530
+Poland,POL,2005,7330
+Portugal,PRT,2005,18550
+Romania,ROM,2005,3920
+Rwanda,RWA,2005,260
+Senegal,SEN,2005,770
+Serbia,SRB,2005,3630
+Sierra Leone,SLE,2005,310
+Slovak Republic,SVK,2005,11330
+Slovenia,SVN,2005,18460
+Sri Lanka,LKA,2005,1210
+South Africa,ZAF,2005,5050
+Sudan,SDN,2005,570
+Suriname,SUR,2005,3330
+Swaziland,SWZ,2005,2390
+Sweden,SWE,2005,45350
+Tajikistan,TJK,2005,320
+Tanzania,TZA,2005,340
+Thailand,THA,2005,2600
+Togo,TGO,2005,370
+Tunisia,TUN,2005,3190
+Turkmenistan,TKM,2005,1600
+Uganda,UGA,2005,290
+Ukraine,UKR,2005,1540
+United Arab Emirates,ARE,2005,41470
+Uruguay,URY,2005,4720
+Uzbekistan,UZB,2005,530
+"Venezuela, RB",VEN,2005,4920
+Vietnam,VNM,2005,680
+"Yemen, Rep.",YEM,2005,700
+Zambia,ZMB,2005,580
+Zimbabwe,ZWE,2005,430
+Argentina,ARG,2006,6260
+Australia,AUS,2006,34160
+Brazil,BRA,2006,4780
+China,CHN,2006,2050
+France,FRA,2006,37960
+Germany,DEU,2006,38380
+India,IND,2006,820
+Indonesia,IDN,2006,1390
+Italy,ITA,2006,34210
+Japan,JPN,2006,38570
+"Korea, Rep.",KOR,2006,19980
+Mexico,MEX,2006,8230
+Netherlands,NLD,2006,45500
+Russian Federation,RUS,2006,5800
+Saudi Arabia,SAU,2006,14180
+Spain,ESP,2006,27970
+Switzerland,CHE,2006,63900
+Turkey,TUR,2006,7520
+United Kingdom,GBR,2006,43430
+United States,USA,2006,48080
+Afghanistan,AFG,2006,270
+Algeria,DZA,2006,3030
+Albania,ALB,2006,3120
+Angola,AGO,2006,1760
+Armenia,ARM,2006,1990
+Austria,AUT,2006,41260
+Azerbaijan,AZE,2006,1890
+Bangladesh,BGD,2006,560
+Belarus,BLR,2006,3520
+Belgium,BEL,2006,39890
+Belize,BLZ,2006,3940
+Benin,BEN,2006,560
+Bolivia,BOL,2006,1090
+Bosnia and Herzegovina,BIH,2006,3270
+Botswana,BWA,2006,5270
+Bulgaria,BGR,2006,4150
+Burkina Faso,BFA,2006,430
+Cambodia,KHM,2006,510
+Cameroon,CMR,2006,960
+Canada,CAN,2006,37610
+Central African Republic,CAF,2006,360
+Chad,TCD,2006,540
+Chile,CHL,2006,7260
+Colombia,COL,2006,3430
+"Congo, Rep.",COG,2006,1210
+Costa Rica,CRI,2006,5210
+Cote d'Ivoire,CIV,2006,990
+Croatia,HRV,2006,10990
+Cuba,CUB,2006,4510
+Cyprus,CYP,2006,25240
+Czech Republic,CZE,2006,13920
+Denmark,DNK,2006,53520
+Dominican Republic,DOM,2006,3420
+Ecuador,ECU,2006,3110
+"Egypt, Arab Rep.",EGY,2006,1390
+El Salvador,SLV,2006,2980
+Estonia,EST,2006,11510
+Ethiopia,ETH,2006,180
+Finland,FIN,2006,42740
+"Gambia, The",GMB,2006,420
+Gabon,GAB,2006,5730
+Georgia,GEO,2006,1680
+Ghana,GHA,2006,610
+Greece,GRC,2006,24290
+Guatemala,GTM,2006,2220
+Guinea,GIN,2006,300
+Guinea-Bissau,GNB,2006,420
+Guyana,GUY,2006,1200
+Haiti,HTI,2006,470
+Honduras,HND,2006,1460
+Hungary,HUN,2006,11250
+Iceland,ISL,2006,53470
+Jamaica,JAM,2006,NA
+Jordan,JOR,2006,2720
+Kazakhstan,KAZ,2006,3860
+Kenya,KEN,2006,590
+Kyrgyz Republic,KGZ,2006,500
+Lao PDR,LAO,2006,510
+Latvia,LVA,2006,9060
+Lebanon,LBN,2006,5620
+Lesotho,LSO,2006,980
+Liberia,LBR,2006,140
+Libya,LBY,2006,8900
+Lithuania,LTU,2006,NA
+Luxembourg,LUX,2006,63170
+"Macedonia, FYR",MKD,2006,3270
+Malawi,MWI,2006,220
+Malaysia,MYS,2006,5810
+Mali,MLI,2006,470
+Malta,MLT,2006,15300
+Mauritania,MRT,2006,840
+Moldova,MDA,2006,1030
+Mongolia,MNG,2006,1120
+Montenegro,MNE,2006,4310
+Morocco,MAR,2006,2150
+Mozambique,MOZ,2006,300
+Myanmar,MMR,2006,NA
+Namibia,NAM,2006,3880
+Nepal,NPL,2006,350
+New Zealand,NZL,2006,26420
+Nicaragua,NIC,2006,1190
+Niger,NER,2006,270
+Nigeria,NGA,2006,840
+Norway,NOR,2006,69980
+Pakistan,PAK,2006,800
+Panama,PAN,2006,5500
+Paraguay,PRY,2006,1430
+Peru,PER,2006,2780
+Philippines,PHL,2006,1660
+Poland,POL,2006,8440
+Portugal,PRT,2006,19330
+Romania,ROM,2006,4950
+Rwanda,RWA,2006,300
+Senegal,SEN,2006,800
+Serbia,SRB,2006,3970
+Sierra Leone,SLE,2006,330
+Slovak Republic,SVK,2006,12880
+Slovenia,SVN,2006,19970
+Sri Lanka,LKA,2006,1350
+South Africa,ZAF,2006,5690
+Sudan,SDN,2006,710
+Suriname,SUR,2006,4040
+Swaziland,SWZ,2006,2560
+Sweden,SWE,2006,48650
+Tajikistan,TJK,2006,370
+Tanzania,TZA,2006,450
+Thailand,THA,2006,2890
+Togo,TGO,2006,390
+Tunisia,TUN,2006,3370
+Turkmenistan,TKM,2006,1960
+Uganda,UGA,2006,330
+Ukraine,UKR,2006,1950
+United Arab Emirates,ARE,2006,42810
+Uruguay,URY,2006,5380
+Uzbekistan,UZB,2006,600
+"Venezuela, RB",VEN,2006,6050
+Vietnam,VNM,2006,760
+"Yemen, Rep.",YEM,2006,810
+Zambia,ZMB,2006,740
+Zimbabwe,ZWE,2006,420
+Argentina,ARG,2007,7460
+Australia,AUS,2007,37330
+Brazil,BRA,2007,6070
+China,CHN,2007,2490
+France,FRA,2007,40250
+Germany,DEU,2007,40730
+India,IND,2007,960
+Indonesia,IDN,2007,1610
+Italy,ITA,2007,35830
+Japan,JPN,2007,37590
+"Korea, Rep.",KOR,2007,22460
+Mexico,MEX,2007,8820
+Netherlands,NLD,2007,48730
+Russian Federation,RUS,2007,7560
+Saudi Arabia,SAU,2007,15930
+Spain,ESP,2007,29920
+Switzerland,CHE,2007,62680
+Turkey,TUR,2007,8500
+United Kingdom,GBR,2007,46110
+United States,USA,2007,48640
+Afghanistan,AFG,2007,330
+Algeria,DZA,2007,3510
+Albania,ALB,2007,3530
+Angola,AGO,2007,2550
+Armenia,ARM,2007,2710
+Austria,AUT,2007,44200
+Azerbaijan,AZE,2007,2710
+Bangladesh,BGD,2007,590
+Belarus,BLR,2007,4310
+Belgium,BEL,2007,42640
+Belize,BLZ,2007,3900
+Benin,BEN,2007,600
+Bolivia,BOL,2007,1210
+Bosnia and Herzegovina,BIH,2007,3750
+Botswana,BWA,2007,5610
+Bulgaria,BGR,2007,4720
+Burkina Faso,BFA,2007,460
+Cambodia,KHM,2007,580
+Cameroon,CMR,2007,990
+Canada,CAN,2007,41230
+Central African Republic,CAF,2007,390
+Chad,TCD,2007,640
+Chile,CHL,2007,8630
+Colombia,COL,2007,4060
+"Congo, Rep.",COG,2007,1390
+Costa Rica,CRI,2007,5520
+Cote d'Ivoire,CIV,2007,1030
+Croatia,HRV,2007,12350
+Cuba,CUB,2007,4980
+Cyprus,CYP,2007,27000
+Czech Republic,CZE,2007,15740
+Denmark,DNK,2007,55700
+Dominican Republic,DOM,2007,4160
+Ecuador,ECU,2007,3310
+"Egypt, Arab Rep.",EGY,2007,1620
+El Salvador,SLV,2007,3170
+Estonia,EST,2007,13520
+Ethiopia,ETH,2007,220
+Finland,FIN,2007,46040
+"Gambia, The",GMB,2007,460
+Gabon,GAB,2007,6730
+Georgia,GEO,2007,2090
+Ghana,GHA,2007,820
+Greece,GRC,2007,26110
+Guatemala,GTM,2007,2440
+Guinea,GIN,2007,310
+Guinea-Bissau,GNB,2007,440
+Guyana,GUY,2007,1650
+Haiti,HTI,2007,550
+Honduras,HND,2007,1610
+Hungary,HUN,2007,11780
+Iceland,ISL,2007,62220
+Jamaica,JAM,2007,NA
+Jordan,JOR,2007,3030
+Kazakhstan,KAZ,2007,4980
+Kenya,KEN,2007,720
+Kyrgyz Republic,KGZ,2007,610
+Lao PDR,LAO,2007,610
+Latvia,LVA,2007,11120
+Lebanon,LBN,2007,6170
+Lesotho,LSO,2007,1020
+Liberia,LBR,2007,160
+Libya,LBY,2007,10750
+Lithuania,LTU,2007,10470
+Luxembourg,LUX,2007,78300
+"Macedonia, FYR",MKD,2007,3530
+Malawi,MWI,2007,250
+Malaysia,MYS,2007,6600
+Mali,MLI,2007,500
+Malta,MLT,2007,16590
+Mauritania,MRT,2007,950
+Moldova,MDA,2007,1160
+Mongolia,MNG,2007,1410
+Montenegro,MNE,2007,5230
+Morocco,MAR,2007,2270
+Mozambique,MOZ,2007,350
+Myanmar,MMR,2007,NA
+Namibia,NAM,2007,4140
+Nepal,NPL,2007,380
+New Zealand,NZL,2007,28110
+Nicaragua,NIC,2007,1280
+Niger,NER,2007,280
+Nigeria,NGA,2007,970
+Norway,NOR,2007,78400
+Pakistan,PAK,2007,890
+Panama,PAN,2007,6210
+Paraguay,PRY,2007,1780
+Peru,PER,2007,3170
+Philippines,PHL,2007,1900
+Poland,POL,2007,9970
+Portugal,PRT,2007,20770
+Romania,ROM,2007,6470
+Rwanda,RWA,2007,350
+Senegal,SEN,2007,870
+Serbia,SRB,2007,4580
+Sierra Leone,SLE,2007,400
+Slovak Republic,SVK,2007,14840
+Slovenia,SVN,2007,21950
+Sri Lanka,LKA,2007,1540
+South Africa,ZAF,2007,5970
+Sudan,SDN,2007,890
+Suriname,SUR,2007,5020
+Swaziland,SWZ,2007,2720
+Sweden,SWE,2007,52190
+Tajikistan,TJK,2007,440
+Tanzania,TZA,2007,510
+Thailand,THA,2007,3280
+Togo,TGO,2007,410
+Tunisia,TUN,2007,3550
+Turkmenistan,TKM,2007,2330
+Uganda,UGA,2007,370
+Ukraine,UKR,2007,2570
+United Arab Emirates,ARE,2007,42160
+Uruguay,URY,2007,6380
+Uzbekistan,UZB,2007,760
+"Venezuela, RB",VEN,2007,7520
+Vietnam,VNM,2007,850
+"Yemen, Rep.",YEM,2007,960
+Zambia,ZMB,2007,930
+Zimbabwe,ZWE,2007,400
+Argentina,ARG,2008,8790
+Australia,AUS,2008,42380
+Brazil,BRA,2008,7440
+China,CHN,2008,3070
+France,FRA,2008,43510
+Germany,DEU,2008,43910
+India,IND,2008,1050
+Indonesia,IDN,2008,1950
+Italy,ITA,2008,37770
+Japan,JPN,2008,37760
+"Korea, Rep.",KOR,2008,22850
+Mexico,MEX,2008,9350
+Netherlands,NLD,2008,52110
+Russian Federation,RUS,2008,9590
+Saudi Arabia,SAU,2008,18640
+Spain,ESP,2008,32440
+Switzerland,CHE,2008,63020
+Turkey,TUR,2008,9340
+United Kingdom,GBR,2008,46860
+United States,USA,2008,49330
+Afghanistan,AFG,2008,370
+Algeria,DZA,2008,4090
+Albania,ALB,2008,4080
+Angola,AGO,2008,3270
+Armenia,ARM,2008,3510
+Austria,AUT,2008,48790
+Azerbaijan,AZE,2008,3870
+Bangladesh,BGD,2008,650
+Belarus,BLR,2008,5470
+Belgium,BEL,2008,46530
+Belize,BLZ,2008,4110
+Benin,BEN,2008,670
+Bolivia,BOL,2008,1460
+Bosnia and Herzegovina,BIH,2008,4520
+Botswana,BWA,2008,5750
+Bulgaria,BGR,2008,5940
+Burkina Faso,BFA,2008,520
+Cambodia,KHM,2008,660
+Cameroon,CMR,2008,1090
+Canada,CAN,2008,44650
+Central African Republic,CAF,2008,430
+Chad,TCD,2008,710
+Chile,CHL,2008,10020
+Colombia,COL,2008,4640
+"Congo, Rep.",COG,2008,1850
+Costa Rica,CRI,2008,6130
+Cote d'Ivoire,CIV,2008,1150
+Croatia,HRV,2008,13960
+Cuba,CUB,2008,5430
+Cyprus,CYP,2008,31450
+Czech Republic,CZE,2008,18300
+Denmark,DNK,2008,60260
+Dominican Republic,DOM,2008,4510
+Ecuador,ECU,2008,3860
+"Egypt, Arab Rep.",EGY,2008,1950
+El Salvador,SLV,2008,3380
+Estonia,EST,2008,15060
+Ethiopia,ETH,2008,280
+Finland,FIN,2008,49920
+"Gambia, The",GMB,2008,530
+Gabon,GAB,2008,7640
+Georgia,GEO,2008,2460
+Ghana,GHA,2008,1170
+Greece,GRC,2008,28330
+Guatemala,GTM,2008,2650
+Guinea,GIN,2008,350
+Guinea-Bissau,GNB,2008,490
+Guyana,GUY,2008,2330
+Haiti,HTI,2008,620
+Honduras,HND,2008,1760
+Hungary,HUN,2008,13150
+Iceland,ISL,2008,50000
+Jamaica,JAM,2008,4760
+Jordan,JOR,2008,3530
+Kazakhstan,KAZ,2008,6150
+Kenya,KEN,2008,840
+Kyrgyz Republic,KGZ,2008,760
+Lao PDR,LAO,2008,740
+Latvia,LVA,2008,13360
+Lebanon,LBN,2008,6840
+Lesotho,LSO,2008,1070
+Liberia,LBR,2008,190
+Libya,LBY,2008,12580
+Lithuania,LTU,2008,12490
+Luxembourg,LUX,2008,83240
+"Macedonia, FYR",MKD,2008,4260
+Malawi,MWI,2008,290
+Malaysia,MYS,2008,7500
+Mali,MLI,2008,580
+Malta,MLT,2008,19230
+Mauritania,MRT,2008,1050
+Moldova,MDA,2008,1500
+Mongolia,MNG,2008,1800
+Montenegro,MNE,2008,6500
+Morocco,MAR,2008,2570
+Mozambique,MOZ,2008,410
+Myanmar,MMR,2008,NA
+Namibia,NAM,2008,4200
+Nepal,NPL,2008,440
+New Zealand,NZL,2008,28380
+Nicaragua,NIC,2008,1390
+Niger,NER,2008,330
+Nigeria,NGA,2008,1160
+Norway,NOR,2008,87350
+Pakistan,PAK,2008,990
+Panama,PAN,2008,7060
+Paraguay,PRY,2008,2280
+Peru,PER,2008,3770
+Philippines,PHL,2008,2240
+Poland,POL,2008,11920
+Portugal,PRT,2008,22440
+Romania,ROM,2008,8490
+Rwanda,RWA,2008,420
+Senegal,SEN,2008,980
+Serbia,SRB,2008,5650
+Sierra Leone,SLE,2008,470
+Slovak Republic,SVK,2008,17110
+Slovenia,SVN,2008,24680
+Sri Lanka,LKA,2008,1770
+South Africa,ZAF,2008,6030
+Sudan,SDN,2008,1090
+Suriname,SUR,2008,6330
+Swaziland,SWZ,2008,2770
+Sweden,SWE,2008,55600
+Tajikistan,TJK,2008,570
+Tanzania,TZA,2008,570
+Thailand,THA,2008,3750
+Togo,TGO,2008,400
+Tunisia,TUN,2008,3890
+Turkmenistan,TKM,2008,3050
+Uganda,UGA,2008,420
+Ukraine,UKR,2008,3220
+United Arab Emirates,ARE,2008,41630
+Uruguay,URY,2008,7690
+Uzbekistan,UZB,2008,960
+"Venezuela, RB",VEN,2008,9230
+Vietnam,VNM,2008,1000
+"Yemen, Rep.",YEM,2008,1140
+Zambia,ZMB,2008,1220
+Zimbabwe,ZWE,2008,320
+Argentina,ARG,2009,9440
+Australia,AUS,2009,44000
+Brazil,BRA,2009,8120
+China,CHN,2009,3650
+France,FRA,2009,43760
+Germany,DEU,2009,43810
+India,IND,2009,1170
+Indonesia,IDN,2009,2160
+Italy,ITA,2009,37690
+Japan,JPN,2009,37470
+"Korea, Rep.",KOR,2009,21090
+Mexico,MEX,2009,8500
+Netherlands,NLD,2009,53140
+Russian Federation,RUS,2009,9230
+Saudi Arabia,SAU,2009,18350
+Spain,ESP,2009,32770
+Switzerland,CHE,2009,70230
+Turkey,TUR,2009,9130
+United Kingdom,GBR,2009,42650
+United States,USA,2009,48050
+Afghanistan,AFG,2009,460
+Algeria,DZA,2009,4160
+Albania,ALB,2009,4280
+Angola,AGO,2009,3780
+Armenia,ARM,2009,3240
+Austria,AUT,2009,48710
+Azerbaijan,AZE,2009,4800
+Bangladesh,BGD,2009,710
+Belarus,BLR,2009,5590
+Belgium,BEL,2009,45980
+Belize,BLZ,2009,4310
+Benin,BEN,2009,710
+Bolivia,BOL,2009,1610
+Bosnia and Herzegovina,BIH,2009,4730
+Botswana,BWA,2009,5330
+Bulgaria,BGR,2009,6420
+Burkina Faso,BFA,2009,550
+Cambodia,KHM,2009,690
+Cameroon,CMR,2009,1160
+Canada,CAN,2009,43060
+Central African Republic,CAF,2009,460
+Chad,TCD,2009,840
+Chile,CHL,2009,9930
+Colombia,COL,2009,5040
+"Congo, Rep.",COG,2009,1950
+Costa Rica,CRI,2009,6140
+Cote d'Ivoire,CIV,2009,1250
+Croatia,HRV,2009,13810
+Cuba,CUB,2009,5490
+Cyprus,CYP,2009,30850
+Czech Republic,CZE,2009,18650
+Denmark,DNK,2009,59840
+Dominican Republic,DOM,2009,4730
+Ecuador,ECU,2009,4070
+"Egypt, Arab Rep.",EGY,2009,2240
+El Salvador,SLV,2009,3300
+Estonia,EST,2009,14470
+Ethiopia,ETH,2009,340
+Finland,FIN,2009,48590
+"Gambia, The",GMB,2009,570
+Gabon,GAB,2009,8050
+Georgia,GEO,2009,2550
+Ghana,GHA,2009,1200
+Greece,GRC,2009,29060
+Guatemala,GTM,2009,2670
+Guinea,GIN,2009,390
+Guinea-Bissau,GNB,2009,530
+Guyana,GUY,2009,2540
+Haiti,HTI,2009,680
+Honduras,HND,2009,1820
+Hungary,HUN,2009,13220
+Iceland,ISL,2009,42250
+Jamaica,JAM,2009,4510
+Jordan,JOR,2009,3900
+Kazakhstan,KAZ,2009,6780
+Kenya,KEN,2009,920
+Kyrgyz Republic,KGZ,2009,860
+Lao PDR,LAO,2009,880
+Latvia,LVA,2009,13930
+Lebanon,LBN,2009,7720
+Lesotho,LSO,2009,1090
+Liberia,LBR,2009,240
+Libya,LBY,2009,12430
+Lithuania,LTU,2009,12520
+Luxembourg,LUX,2009,67320
+"Macedonia, FYR",MKD,2009,4540
+Malawi,MWI,2009,320
+Malaysia,MYS,2009,7590
+Mali,MLI,2009,620
+Malta,MLT,2009,18810
+Mauritania,MRT,2009,1050
+Moldova,MDA,2009,1570
+Mongolia,MNG,2009,1790
+Montenegro,MNE,2009,6710
+Morocco,MAR,2009,2800
+Mozambique,MOZ,2009,470
+Myanmar,MMR,2009,NA
+Namibia,NAM,2009,4140
+Nepal,NPL,2009,490
+New Zealand,NZL,2009,29410
+Nicaragua,NIC,2009,1390
+Niger,NER,2009,340
+Nigeria,NGA,2009,1160
+Norway,NOR,2009,87840
+Pakistan,PAK,2009,1040
+Panama,PAN,2009,7570
+Paraguay,PRY,2009,2370
+Peru,PER,2009,3930
+Philippines,PHL,2009,2480
+Poland,POL,2009,12400
+Portugal,PRT,2009,22840
+Romania,ROM,2009,8680
+Rwanda,RWA,2009,480
+Senegal,SEN,2009,1030
+Serbia,SRB,2009,6040
+Sierra Leone,SLE,2009,490
+Slovak Republic,SVK,2009,17010
+Slovenia,SVN,2009,24390
+Sri Lanka,LKA,2009,1970
+South Africa,ZAF,2009,5900
+Sudan,SDN,2009,1150
+Suriname,SUR,2009,7000
+Swaziland,SWZ,2009,2670
+Sweden,SWE,2009,51900
+Tajikistan,TJK,2009,650
+Tanzania,TZA,2009,630
+Thailand,THA,2009,3860
+Togo,TGO,2009,450
+Tunisia,TUN,2009,4130
+Turkmenistan,TKM,2009,3570
+Uganda,UGA,2009,480
+Ukraine,UKR,2009,2840
+United Arab Emirates,ARE,2009,36000
+Uruguay,URY,2009,8780
+Uzbekistan,UZB,2009,1130
+"Venezuela, RB",VEN,2009,10140
+Vietnam,VNM,2009,1120
+"Yemen, Rep.",YEM,2009,1300
+Zambia,ZMB,2009,1320
+Zimbabwe,ZWE,2009,460
+Argentina,ARG,2010,10820
+Australia,AUS,2010,46490
+Brazil,BRA,2010,9810
+China,CHN,2010,4300
+France,FRA,2010,43800
+Germany,DEU,2010,44780
+India,IND,2010,1290
+Indonesia,IDN,2010,2540
+Italy,ITA,2010,37700
+Japan,JPN,2010,41980
+"Korea, Rep.",KOR,2010,21320
+Mexico,MEX,2010,8780
+Netherlands,NLD,2010,53320
+Russian Federation,RUS,2010,9980
+Saudi Arabia,SAU,2010,19040
+Spain,ESP,2010,32130
+Switzerland,CHE,2010,77360
+Turkey,TUR,2010,9980
+United Kingdom,GBR,2010,40470
+United States,USA,2010,48950
+Afghanistan,AFG,2010,510
+Algeria,DZA,2010,4350
+Albania,ALB,2010,4360
+Angola,AGO,2010,3850
+Armenia,ARM,2010,3370
+Austria,AUT,2010,49340
+Azerbaijan,AZE,2010,5370
+Bangladesh,BGD,2010,780
+Belarus,BLR,2010,5990
+Belgium,BEL,2010,47200
+Belize,BLZ,2010,4140
+Benin,BEN,2010,710
+Bolivia,BOL,2010,1760
+Bosnia and Herzegovina,BIH,2010,4680
+Botswana,BWA,2010,5700
+Bulgaria,BGR,2010,6630
+Burkina Faso,BFA,2010,610
+Cambodia,KHM,2010,740
+Cameroon,CMR,2010,1170
+Canada,CAN,2010,44450
+Central African Republic,CAF,2010,480
+Chad,TCD,2010,920
+Chile,CHL,2010,10720
+Colombia,COL,2010,5480
+"Congo, Rep.",COG,2010,2210
+Costa Rica,CRI,2010,6910
+Cote d'Ivoire,CIV,2010,1290
+Croatia,HRV,2010,13740
+Cuba,CUB,2010,5590
+Cyprus,CYP,2010,30690
+Czech Republic,CZE,2010,19210
+Denmark,DNK,2010,60820
+Dominican Republic,DOM,2010,5110
+Ecuador,ECU,2010,4390
+"Egypt, Arab Rep.",EGY,2010,2510
+El Salvador,SLV,2010,3350
+Estonia,EST,2010,14570
+Ethiopia,ETH,2010,380
+Finland,FIN,2010,49330
+"Gambia, The",GMB,2010,580
+Gabon,GAB,2010,8330
+Georgia,GEO,2010,2680
+Ghana,GHA,2010,1250
+Greece,GRC,2010,27580
+Guatemala,GTM,2010,2750
+Guinea,GIN,2010,400
+Guinea-Bissau,GNB,2010,560
+Guyana,GUY,2010,2780
+Haiti,HTI,2010,660
+Honduras,HND,2010,1890
+Hungary,HUN,2010,13050
+Iceland,ISL,2010,36710
+Jamaica,JAM,2010,4590
+Jordan,JOR,2010,4120
+Kazakhstan,KAZ,2010,7440
+Kenya,KEN,2010,990
+Kyrgyz Republic,KGZ,2010,850
+Lao PDR,LAO,2010,980
+Latvia,LVA,2010,12720
+Lebanon,LBN,2010,8440
+Lesotho,LSO,2010,1160
+Liberia,LBR,2010,270
+Libya,LBY,2010,12710
+Lithuania,LTU,2010,12350
+Luxembourg,LUX,2010,69350
+"Macedonia, FYR",MKD,2010,4630
+Malawi,MWI,2010,350
+Malaysia,MYS,2010,8150
+Mali,MLI,2010,660
+Malta,MLT,2010,20090
+Mauritania,MRT,2010,1130
+Moldova,MDA,2010,1820
+Mongolia,MNG,2010,2000
+Montenegro,MNE,2010,6870
+Morocco,MAR,2010,2870
+Mozambique,MOZ,2010,460
+Myanmar,MMR,2010,NA
+Namibia,NAM,2010,4380
+Nepal,NPL,2010,540
+New Zealand,NZL,2010,29390
+Nicaragua,NIC,2010,1460
+Niger,NER,2010,370
+Nigeria,NGA,2010,1460
+Norway,NOR,2010,88430
+Pakistan,PAK,2010,1060
+Panama,PAN,2010,8050
+Paraguay,PRY,2010,2820
+Peru,PER,2010,4390
+Philippines,PHL,2010,2740
+Poland,POL,2010,12630
+Portugal,PRT,2010,22930
+Romania,ROM,2010,8430
+Rwanda,RWA,2010,520
+Senegal,SEN,2010,1040
+Serbia,SRB,2010,5850
+Sierra Leone,SLE,2010,470
+Slovak Republic,SVK,2010,17130
+Slovenia,SVN,2010,24540
+Sri Lanka,LKA,2010,2260
+South Africa,ZAF,2010,6240
+Sudan,SDN,2010,1210
+Suriname,SUR,2010,7800
+Swaziland,SWZ,2010,2600
+Sweden,SWE,2010,53810
+Tajikistan,TJK,2010,730
+Tanzania,TZA,2010,690
+Thailand,THA,2010,4320
+Togo,TGO,2010,460
+Tunisia,TUN,2010,4160
+Turkmenistan,TKM,2010,4070
+Uganda,UGA,2010,510
+Ukraine,UKR,2010,2990
+United Arab Emirates,ARE,2010,33690
+Uruguay,URY,2010,10400
+Uzbekistan,UZB,2010,1300
+"Venezuela, RB",VEN,2010,11520
+Vietnam,VNM,2010,1270
+"Yemen, Rep.",YEM,2010,1300
+Zambia,ZMB,2010,1380
+Zimbabwe,ZWE,2010,560
+Argentina,ARG,2011,12190
+Australia,AUS,2011,50060
+Brazil,BRA,2011,11210
+China,CHN,2011,5000
+France,FRA,2011,44220
+Germany,DEU,2011,46410
+India,IND,2011,1440
+Indonesia,IDN,2011,3020
+Italy,ITA,2011,37690
+Japan,JPN,2011,45190
+"Korea, Rep.",KOR,2011,22620
+Mexico,MEX,2011,8970
+Netherlands,NLD,2011,53130
+Russian Federation,RUS,2011,10820
+Saudi Arabia,SAU,2011,21200
+Spain,ESP,2011,31280
+Switzerland,CHE,2011,79320
+Turkey,TUR,2011,10510
+United Kingdom,GBR,2011,40090
+United States,USA,2011,50450
+Afghanistan,AFG,2011,570
+Algeria,DZA,2011,4460
+Albania,ALB,2011,4390
+Angola,AGO,2011,4010
+Armenia,ARM,2011,3430
+Austria,AUT,2011,50420
+Azerbaijan,AZE,2011,5530
+Bangladesh,BGD,2011,870
+Belarus,BLR,2011,6130
+Belgium,BEL,2011,47130
+Belize,BLZ,2011,4310
+Benin,BEN,2011,720
+Bolivia,BOL,2011,1960
+Bosnia and Herzegovina,BIH,2011,4680
+Botswana,BWA,2011,6840
+Bulgaria,BGR,2011,6870
+Burkina Faso,BFA,2011,610
+Cambodia,KHM,2011,810
+Cameroon,CMR,2011,1200
+Canada,CAN,2011,47090
+Central African Republic,CAF,2011,490
+Chad,TCD,2011,900
+Chile,CHL,2011,12270
+Colombia,COL,2011,6100
+"Congo, Rep.",COG,2011,2200
+Costa Rica,CRI,2011,7750
+Cote d'Ivoire,CIV,2011,1220
+Croatia,HRV,2011,14050
+Cuba,CUB,2011,5910
+Cyprus,CYP,2011,31490
+Czech Republic,CZE,2011,19380
+Denmark,DNK,2011,61490
+Dominican Republic,DOM,2011,5310
+Ecuador,ECU,2011,4870
+"Egypt, Arab Rep.",EGY,2011,2730
+El Salvador,SLV,2011,3490
+Estonia,EST,2011,15830
+Ethiopia,ETH,2011,390
+Finland,FIN,2011,49910
+"Gambia, The",GMB,2011,510
+Gabon,GAB,2011,8650
+Georgia,GEO,2011,2850
+Ghana,GHA,2011,1420
+Greece,GRC,2011,24980
+Guatemala,GTM,2011,2900
+Guinea,GIN,2011,410
+Guinea-Bissau,GNB,2011,610
+Guyana,GUY,2011,3050
+Haiti,HTI,2011,710
+Honduras,HND,2011,2050
+Hungary,HUN,2011,13020
+Iceland,ISL,2011,37720
+Jamaica,JAM,2011,4800
+Jordan,JOR,2011,4370
+Kazakhstan,KAZ,2011,8190
+Kenya,KEN,2011,1020
+Kyrgyz Republic,KGZ,2011,880
+Lao PDR,LAO,2011,1090
+Latvia,LVA,2011,13090
+Lebanon,LBN,2011,9080
+Lesotho,LSO,2011,1370
+Liberia,LBR,2011,330
+Libya,LBY,2011,4800
+Lithuania,LTU,2011,13020
+Luxembourg,LUX,2011,71070
+"Macedonia, FYR",MKD,2011,4730
+Malawi,MWI,2011,360
+Malaysia,MYS,2011,8840
+Mali,MLI,2011,670
+Malta,MLT,2011,20100
+Mauritania,MRT,2011,1200
+Moldova,MDA,2011,1980
+Mongolia,MNG,2011,2610
+Montenegro,MNE,2011,7200
+Morocco,MAR,2011,2940
+Mozambique,MOZ,2011,490
+Myanmar,MMR,2011,NA
+Namibia,NAM,2011,5020
+Nepal,NPL,2011,610
+New Zealand,NZL,2011,31890
+Nicaragua,NIC,2011,1570
+Niger,NER,2011,370
+Nigeria,NGA,2011,1710
+Norway,NOR,2011,90270
+Pakistan,PAK,2011,1140
+Panama,PAN,2011,8110
+Paraguay,PRY,2011,3120
+Peru,PER,2011,4890
+Philippines,PHL,2011,2620
+Poland,POL,2011,12840
+Portugal,PRT,2011,22630
+Romania,ROM,2011,8520
+Rwanda,RWA,2011,560
+Senegal,SEN,2011,1030
+Serbia,SRB,2011,5910
+Sierra Leone,SLE,2011,500
+Slovak Republic,SVK,2011,17430
+Slovenia,SVN,2011,24560
+Sri Lanka,LKA,2011,2580
+South Africa,ZAF,2011,7050
+Sudan,SDN,2011,1430
+Suriname,SUR,2011,8320
+Swaziland,SWZ,2011,2750
+Sweden,SWE,2011,56020
+Tajikistan,TJK,2011,780
+Tanzania,TZA,2011,720
+Thailand,THA,2011,4620
+Togo,TGO,2011,470
+Tunisia,TUN,2011,4050
+Turkmenistan,TKM,2011,4660
+Uganda,UGA,2011,550
+Ukraine,UKR,2011,3110
+United Arab Emirates,ARE,2011,34400
+Uruguay,URY,2011,12010
+Uzbekistan,UZB,2011,1510
+"Venezuela, RB",VEN,2011,11760
+Vietnam,VNM,2011,1390
+"Yemen, Rep.",YEM,2011,1100
+Zambia,ZMB,2011,1470
+Zimbabwe,ZWE,2011,730
+Argentina,ARG,2012,13470
+Australia,AUS,2012,59760
+Brazil,BRA,2012,12390
+China,CHN,2012,5870
+France,FRA,2012,43180
+Germany,DEU,2012,46700
+India,IND,2012,1530
+Indonesia,IDN,2012,3600
+Italy,ITA,2012,36020
+Japan,JPN,2012,47830
+"Korea, Rep.",KOR,2012,24640
+Mexico,MEX,2012,9680
+Netherlands,NLD,2012,51760
+Russian Federation,RUS,2012,12730
+Saudi Arabia,SAU,2012,24700
+Spain,ESP,2012,30120
+Switzerland,CHE,2012,84410
+Turkey,TUR,2012,10810
+United Kingdom,GBR,2012,40600
+United States,USA,2012,52540
+Afghanistan,AFG,2012,690
+Algeria,DZA,2012,5010
+Albania,ALB,2012,4370
+Angola,AGO,2012,4520
+Armenia,ARM,2012,3700
+Austria,AUT,2012,50310
+Azerbaijan,AZE,2012,6290
+Bangladesh,BGD,2012,950
+Belarus,BLR,2012,6400
+Belgium,BEL,2012,46900
+Belize,BLZ,2012,4420
+Benin,BEN,2012,750
+Bolivia,BOL,2012,2220
+Bosnia and Herzegovina,BIH,2012,4600
+Botswana,BWA,2012,7640
+Bulgaria,BGR,2012,7070
+Burkina Faso,BFA,2012,640
+Cambodia,KHM,2012,880
+Cameroon,CMR,2012,1220
+Canada,CAN,2012,51020
+Central African Republic,CAF,2012,490
+Chad,TCD,2012,980
+Chile,CHL,2012,14280
+Colombia,COL,2012,7020
+"Congo, Rep.",COG,2012,2480
+Costa Rica,CRI,2012,8750
+Cote d'Ivoire,CIV,2012,1340
+Croatia,HRV,2012,13460
+Cuba,CUB,2012,NA
+Cyprus,CYP,2012,28890
+Czech Republic,CZE,2012,19280
+Denmark,DNK,2012,60680
+Dominican Republic,DOM,2012,5560
+Ecuador,ECU,2012,5360
+"Egypt, Arab Rep.",EGY,2012,2980
+El Salvador,SLV,2012,3600
+Estonia,EST,2012,16800
+Ethiopia,ETH,2012,420
+Finland,FIN,2012,48670
+"Gambia, The",GMB,2012,520
+Gabon,GAB,2012,9500
+Georgia,GEO,2012,3290
+Ghana,GHA,2012,1580
+Greece,GRC,2012,23690
+Guatemala,GTM,2012,3130
+Guinea,GIN,2012,440
+Guinea-Bissau,GNB,2012,590
+Guyana,GUY,2012,3440
+Haiti,HTI,2012,760
+Honduras,HND,2012,2040
+Hungary,HUN,2012,12830
+Iceland,ISL,2012,40700
+Jamaica,JAM,2012,5190
+Jordan,JOR,2012,4660
+Kazakhstan,KAZ,2012,9780
+Kenya,KEN,2012,1080
+Kyrgyz Republic,KGZ,2012,1040
+Lao PDR,LAO,2012,1270
+Latvia,LVA,2012,13910
+Lebanon,LBN,2012,9450
+Lesotho,LSO,2012,1460
+Liberia,LBR,2012,370
+Libya,LBY,2012,11090
+Lithuania,LTU,2012,13940
+Luxembourg,LUX,2012,69300
+"Macedonia, FYR",MKD,2012,4680
+Malawi,MWI,2012,320
+Malaysia,MYS,2012,9820
+Mali,MLI,2012,660
+Malta,MLT,2012,20000
+Mauritania,MRT,2012,1280
+Moldova,MDA,2012,2150
+Mongolia,MNG,2012,3690
+Montenegro,MNE,2012,6940
+Morocco,MAR,2012,2910
+Mozambique,MOZ,2012,540
+Myanmar,MMR,2012,NA
+Namibia,NAM,2012,5530
+Nepal,NPL,2012,690
+New Zealand,NZL,2012,36280
+Nicaragua,NIC,2012,1660
+Niger,NER,2012,400
+Nigeria,NGA,2012,2460
+Norway,NOR,2012,99100
+Pakistan,PAK,2012,1250
+Panama,PAN,2012,9030
+Paraguay,PRY,2012,3280
+Peru,PER,2012,5680
+Philippines,PHL,2012,2960
+Poland,POL,2012,13190
+Portugal,PRT,2012,21150
+Romania,ROM,2012,8570
+Rwanda,RWA,2012,610
+Senegal,SEN,2012,1030
+Serbia,SRB,2012,5700
+Sierra Leone,SLE,2012,530
+Slovak Republic,SVK,2012,17400
+Slovenia,SVN,2012,23290
+Sri Lanka,LKA,2012,2910
+South Africa,ZAF,2012,7640
+Sudan,SDN,2012,1670
+Suriname,SUR,2012,8920
+Swaziland,SWZ,2012,2860
+Sweden,SWE,2012,58600
+Tajikistan,TJK,2012,880
+Tanzania,TZA,2012,760
+Thailand,THA,2012,5210
+Togo,TGO,2012,490
+Tunisia,TUN,2012,4170
+Turkmenistan,TKM,2012,5410
+Uganda,UGA,2012,590
+Ukraine,UKR,2012,3500
+United Arab Emirates,ARE,2012,38360
+Uruguay,URY,2012,13910
+Uzbekistan,UZB,2012,1730
+"Venezuela, RB",VEN,2012,12460
+Vietnam,VNM,2012,1560
+"Yemen, Rep.",YEM,2012,1230
+Zambia,ZMB,2012,1730
+Zimbabwe,ZWE,2012,820
+Argentina,ARG,2013,14590
+Australia,AUS,2013,65410
+Brazil,BRA,2013,12550
+China,CHN,2013,6740
+France,FRA,2013,43550
+Germany,DEU,2013,47250
+India,IND,2013,1560
+Indonesia,IDN,2013,3760
+Italy,ITA,2013,35430
+Japan,JPN,2013,46330
+"Korea, Rep.",KOR,2013,25870
+Mexico,MEX,2013,9880
+Netherlands,NLD,2013,51060
+Russian Federation,RUS,2013,13810
+Saudi Arabia,SAU,2013,26340
+Spain,ESP,2013,29940
+Switzerland,CHE,2013,90670
+Turkey,TUR,2013,10980
+United Kingdom,GBR,2013,41590
+United States,USA,2013,54070
+Afghanistan,AFG,2013,690
+Algeria,DZA,2013,5330
+Albania,ALB,2013,4510
+Angola,AGO,2013,5170
+Armenia,ARM,2013,3800
+Austria,AUT,2013,50390
+Azerbaijan,AZE,2013,7350
+Bangladesh,BGD,2013,1010
+Belarus,BLR,2013,6780
+Belgium,BEL,2013,46340
+Belize,BLZ,2013,4510
+Benin,BEN,2013,790
+Bolivia,BOL,2013,2550
+Bosnia and Herzegovina,BIH,2013,4780
+Botswana,BWA,2013,8080
+Bulgaria,BGR,2013,7280
+Burkina Faso,BFA,2013,660
+Cambodia,KHM,2013,950
+Cameroon,CMR,2013,1290
+Canada,CAN,2013,52570
+Central African Republic,CAF,2013,320
+Chad,TCD,2013,1000
+Chile,CHL,2013,15230
+Colombia,COL,2013,7610
+"Congo, Rep.",COG,2013,2590
+Costa Rica,CRI,2013,9450
+Cote d'Ivoire,CIV,2013,1450
+Croatia,HRV,2013,13470
+Cuba,CUB,2013,NA
+Cyprus,CYP,2013,27520
+Czech Republic,CZE,2013,18970
+Denmark,DNK,2013,61740
+Dominican Republic,DOM,2013,5770
+Ecuador,ECU,2013,5760
+"Egypt, Arab Rep.",EGY,2013,3140
+El Salvador,SLV,2013,3720
+Estonia,EST,2013,17970
+Ethiopia,ETH,2013,470
+Finland,FIN,2013,48910
+"Gambia, The",GMB,2013,500
+Gabon,GAB,2013,9670
+Georgia,GEO,2013,3560
+Ghana,GHA,2013,1770
+Greece,GRC,2013,22610
+Guatemala,GTM,2013,3340
+Guinea,GIN,2013,460
+Guinea-Bissau,GNB,2013,590
+Guyana,GUY,2013,3750
+Haiti,HTI,2013,810
+Honduras,HND,2013,2120
+Hungary,HUN,2013,13260
+Iceland,ISL,2013,46650
+Jamaica,JAM,2013,5220
+Jordan,JOR,2013,4940
+Kazakhstan,KAZ,2013,11560
+Kenya,KEN,2013,1160
+Kyrgyz Republic,KGZ,2013,1220
+Lao PDR,LAO,2013,1450
+Latvia,LVA,2013,15280
+Lebanon,LBN,2013,9670
+Lesotho,LSO,2013,1590
+Liberia,LBR,2013,390
+Libya,LBY,2013,10610
+Lithuania,LTU,2013,15100
+Luxembourg,LUX,2013,69880
+"Macedonia, FYR",MKD,2013,4900
+Malawi,MWI,2013,270
+Malaysia,MYS,2013,10420
+Mali,MLI,2013,690
+Malta,MLT,2013,21000
+Mauritania,MRT,2013,1320
+Moldova,MDA,2013,2470
+Mongolia,MNG,2013,4390
+Montenegro,MNE,2013,7250
+Morocco,MAR,2013,3030
+Mozambique,MOZ,2013,610
+Myanmar,MMR,2013,NA
+Namibia,NAM,2013,5850
+Nepal,NPL,2013,720
+New Zealand,NZL,2013,39300
+Nicaragua,NIC,2013,1750
+Niger,NER,2013,410
+Nigeria,NGA,2013,2690
+Norway,NOR,2013,104260
+Pakistan,PAK,2013,1360
+Panama,PAN,2013,10700
+Paraguay,PRY,2013,3980
+Peru,PER,2013,6270
+Philippines,PHL,2013,3270
+Poland,POL,2013,13440
+Portugal,PRT,2013,21310
+Romania,ROM,2013,9050
+Rwanda,RWA,2013,630
+Senegal,SEN,2013,1050
+Serbia,SRB,2013,6050
+Sierra Leone,SLE,2013,680
+Slovak Republic,SVK,2013,17810
+Slovenia,SVN,2013,23220
+Sri Lanka,LKA,2013,3180
+South Africa,ZAF,2013,7410
+Sudan,SDN,2013,1690
+Suriname,SUR,2013,9370
+Swaziland,SWZ,2013,2760
+Sweden,SWE,2013,61750
+Tajikistan,TJK,2013,990
+Tanzania,TZA,2013,840
+Thailand,THA,2013,5360
+Togo,TGO,2013,530
+Tunisia,TUN,2013,4210
+Turkmenistan,TKM,2013,6880
+Uganda,UGA,2013,600
+Ukraine,UKR,2013,3760
+United Arab Emirates,ARE,2013,42420
+Uruguay,URY,2013,15640
+Uzbekistan,UZB,2013,1940
+"Venezuela, RB",VEN,2013,11730
+Vietnam,VNM,2013,1740
+"Yemen, Rep.",YEM,2013,1370
+Zambia,ZMB,2013,1780
+Zimbabwe,ZWE,2013,860
+Argentina,ARG,2014,14560
+Australia,AUS,2014,64680
+Brazil,BRA,2014,11760
+China,CHN,2014,7380
+France,FRA,2014,43080
+Germany,DEU,2014,47640
+India,IND,2014,1610
+Indonesia,IDN,2014,3650
+Italy,ITA,2014,34280
+Japan,JPN,2014,42000
+"Korea, Rep.",KOR,2014,27090
+Mexico,MEX,2014,9980
+Netherlands,NLD,2014,51210
+Russian Federation,RUS,2014,13210
+Saudi Arabia,SAU,2014,NA
+Spain,ESP,2014,NA
+Switzerland,CHE,2014,NA
+Turkey,TUR,2014,10850
+United Kingdom,GBR,2014,42690
+United States,USA,2014,55200
+Afghanistan,AFG,2014,680
+Algeria,DZA,2014,5340
+Albania,ALB,2014,4460
+Angola,AGO,2014,5300
+Armenia,ARM,2014,3810
+Austria,AUT,2014,NA
+Azerbaijan,AZE,2014,7590
+Bangladesh,BGD,2014,1080
+Belarus,BLR,2014,7340
+Belgium,BEL,2014,47030
+Belize,BLZ,2014,NA
+Benin,BEN,2014,810
+Bolivia,BOL,2014,2830
+Bosnia and Herzegovina,BIH,2014,4770
+Botswana,BWA,2014,7880
+Bulgaria,BGR,2014,7420
+Burkina Faso,BFA,2014,710
+Cambodia,KHM,2014,1010
+Cameroon,CMR,2014,1350
+Canada,CAN,2014,51690
+Central African Republic,CAF,2014,330
+Chad,TCD,2014,1010
+Chile,CHL,2014,14900
+Colombia,COL,2014,7780
+"Congo, Rep.",COG,2014,2680
+Costa Rica,CRI,2014,9750
+Cote d'Ivoire,CIV,2014,1550
+Croatia,HRV,2014,13020
+Cuba,CUB,2014,NA
+Cyprus,CYP,2014,26370
+Czech Republic,CZE,2014,NA
+Denmark,DNK,2014,61310
+Dominican Republic,DOM,2014,5950
+Ecuador,ECU,2014,6040
+"Egypt, Arab Rep.",EGY,2014,3280
+El Salvador,SLV,2014,3780
+Estonia,EST,2014,18530
+Ethiopia,ETH,2014,550
+Finland,FIN,2014,NA
+"Gambia, The",GMB,2014,450
+Gabon,GAB,2014,9320
+Georgia,GEO,2014,3720
+Ghana,GHA,2014,1620
+Greece,GRC,2014,22090
+Guatemala,GTM,2014,3440
+Guinea,GIN,2014,480
+Guinea-Bissau,GNB,2014,570
+Guyana,GUY,2014,3970
+Haiti,HTI,2014,830
+Honduras,HND,2014,2190
+Hungary,HUN,2014,13470
+Iceland,ISL,2014,47640
+Jamaica,JAM,2014,NA
+Jordan,JOR,2014,5160
+Kazakhstan,KAZ,2014,11670
+Kenya,KEN,2014,1280
+Kyrgyz Republic,KGZ,2014,1250
+Lao PDR,LAO,2014,1600
+Latvia,LVA,2014,15660
+Lebanon,LBN,2014,9880
+Lesotho,LSO,2014,1350
+Liberia,LBR,2014,400
+Libya,LBY,2014,7920
+Lithuania,LTU,2014,15380
+Luxembourg,LUX,2014,NA
+"Macedonia, FYR",MKD,2014,5070
+Malawi,MWI,2014,250
+Malaysia,MYS,2014,10660
+Mali,MLI,2014,720
+Malta,MLT,2014,NA
+Mauritania,MRT,2014,1260
+Moldova,MDA,2014,2550
+Mongolia,MNG,2014,4320
+Montenegro,MNE,2014,7240
+Morocco,MAR,2014,3020
+Mozambique,MOZ,2014,630
+Myanmar,MMR,2014,1270
+Namibia,NAM,2014,5820
+Nepal,NPL,2014,730
+New Zealand,NZL,2014,NA
+Nicaragua,NIC,2014,1830
+Niger,NER,2014,430
+Nigeria,NGA,2014,2950
+Norway,NOR,2014,103050
+Pakistan,PAK,2014,1410
+Panama,PAN,2014,10970
+Paraguay,PRY,2014,4150
+Peru,PER,2014,6410
+Philippines,PHL,2014,3440
+Poland,POL,2014,13730
+Portugal,PRT,2014,21320
+Romania,ROM,2014,9370
+Rwanda,RWA,2014,650
+Senegal,SEN,2014,1050
+Serbia,SRB,2014,5820
+Sierra Leone,SLE,2014,720
+Slovak Republic,SVK,2014,NA
+Slovenia,SVN,2014,NA
+Sri Lanka,LKA,2014,3400
+South Africa,ZAF,2014,6800
+Sudan,SDN,2014,1740
+Suriname,SUR,2014,NA
+Swaziland,SWZ,2014,2700
+Sweden,SWE,2014,61600
+Tajikistan,TJK,2014,1060
+Tanzania,TZA,2014,930
+Thailand,THA,2014,5410
+Togo,TGO,2014,580
+Tunisia,TUN,2014,NA
+Turkmenistan,TKM,2014,8020
+Uganda,UGA,2014,660
+Ukraine,UKR,2014,3560
+United Arab Emirates,ARE,2014,43480
+Uruguay,URY,2014,16360
+Uzbekistan,UZB,2014,2090
+"Venezuela, RB",VEN,2014,12820
+Vietnam,VNM,2014,1890
+"Yemen, Rep.",YEM,2014,NA
+Zambia,ZMB,2014,1760
+Zimbabwe,ZWE,2014,860
+,,,
+,,,
+Data from database: World Development Indicators,,,
+Last Updated: 07/28/2015,28-Jul-15,,
+Downloaded,02-Sep-15,,
