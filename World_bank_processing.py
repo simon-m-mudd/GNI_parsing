@@ -49,12 +49,33 @@ def World_bank_reader():
         Country_name_index = split_line.index("Country.Name")
         Country_code_index = split_line.index("Country.Code")
         
+        # print the indices to screen as a bug check
+        print "The indices are:
         print str(year_index) + " " + str(GNI_caput_index) + " " + str(Country_name_index) + " " + str(Country_code_index)
 
-        # now get the list of DEM prefixes
-        for line in lines:
+        # create some data elements fro holding the data
+        GNI_info = dict()
+        Year_info = dict()
+        empty_list = []
+
+        # now loop through the lines
+        lines.pop(0)   # you need to get rid of the first line before the loop
+        for line in lines(1,:):
+            line = RemoveEscapeCharacters(line)
             this_line = line.split(",")
-            #print this_line   
+            
+            # read in the data
+            Country = this_line[Country_name_index]
+            Year = this_line[year_index]
+            GNI_caput = this_line[GNI_caput_index]
+            
+            # now check to see if we already have this country
+            if Country not in GNI_info:
+                GNI_info(Country) = empty_list
+                Year_info(Country).append(Year) 
+                GNI_info(Country).append(GNI_caput)
+                Year_info(Country).append(Year) 
+     
 
             
 if __name__ == "__main__":
